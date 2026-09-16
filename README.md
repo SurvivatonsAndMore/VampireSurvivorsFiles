@@ -2,7 +2,10 @@
 
 Some data files of Vampire Survivors game.
 
-Ripped from v1.16 (see [exact versions](Game%20Version.txt)) using [Vampire Unpacker](https://github.com/SurvivatonsAndMore/VampireUnpacker)
+This branch will not be merged with main and contains data from `public-beta` version on Steam.
+See release version files in [main branch](https://github.com/SurvivatonsAndMore/VampireSurvivorsFiles).
+
+Ripped from v1.17 (see [exact versions](Game%20Version.txt)) using [Vampire Unpacker](https://github.com/SurvivatonsAndMore/VampireUnpacker)
 * Vampire Survivors
 * Legacy of the Moonspell
 * Legacy of the Bloodmoon
@@ -12,7 +15,5 @@ Ripped from v1.16 (see [exact versions](Game%20Version.txt)) using [Vampire Unpa
 * Ode to Castlevania
 * Emerald Diorama
 * Ante Chamber
-
-See [branches](https://github.com/SurvivatonsAndMore/VampireSurvivorsFiles/branches) for beta versions.
 
 [Vampire Survivors](https://store.steampowered.com/app/1794680/) by [poncle](https://poncle.games)
