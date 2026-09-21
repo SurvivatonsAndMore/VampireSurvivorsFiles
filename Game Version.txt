@@ -1,4 +1,4 @@
-Vampire Survivors - 1.17.104
+Vampire Survivors - 1.17.105
 Legacy of the Moonspell - 1.0.207
 Legacy of the Bloodmoon - 1.0.101
 Tides of the Foscari - 1.0.194
@@ -7,15 +7,15 @@ Operation Guns - 1.0.159
 Ode to Castlevania - 1.0.141
 Emerald Diorama - 1.0.134
 Ante Chamber - 1.0.118
-12/09/2026 15:54:15 [64958882R]
+20/09/2026 09:50:28 [64958949R]
 
 
 appid - 1794680
-buildid - 25274181
+buildid - 25427542
 
 
 InstalledDepots:
-1794681 - manifest: 8379981036803029785
+1794681 - manifest: 3671244507887241844
 2230761 - manifest: 7674937276999197104
 2313551 - manifest: 6298930804943469542
 2690331 - manifest: 4436524135990262943
