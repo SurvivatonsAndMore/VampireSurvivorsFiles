@@ -7588,7 +7588,7 @@
       "order": 1110,
       "stageName": "Lycaeum",
       "description": "",
-      "uiTexture": "UI_Menu",
+      "uiTexture": "UI_StageIcons",
       "uiFrame": "stage_lycaeum.png",
       "texture": "UI",
       "frameName": "stage_lycaeum_icon.png",
