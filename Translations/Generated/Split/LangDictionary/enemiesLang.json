@@ -16052,5 +16052,195 @@
         "uk": "Defeated at %0 Hax Health."
       }
     }
+  },
+  "EX_GORGONZOLA": {
+    "bName": {
+      "_value": {
+        "en": "Gorgonzola",
+        "fr": "Gorgonzola",
+        "it": "Gorgonzola",
+        "de": "Gorgonzola",
+        "es": "Gorgonzola",
+        "pt-BR": "Gorgonzola",
+        "pl": "Gorgonzola",
+        "ru": "Gorgonzola",
+        "tr": "Gorgonzola",
+        "zh-CN": "Gorgonzola",
+        "ja": "Gorgonzola",
+        "ko": "Gorgonzola",
+        "zh-TW": "Gorgonzola",
+        "uk": "Gorgonzola"
+      }
+    },
+    "bDesc": {
+      "_value": {
+        "en": "...",
+        "fr": "...",
+        "it": "...",
+        "de": "...",
+        "es": "...",
+        "pt-BR": "...",
+        "pl": "...",
+        "ru": "...",
+        "tr": "...",
+        "zh-CN": "...",
+        "ja": "...",
+        "ko": "...",
+        "zh-TW": "...",
+        "uk": "..."
+      }
+    }
+  },
+  "EX_KRABBIT": {
+    "bName": {
+      "_value": {
+        "en": "Killed Killer Rabbit",
+        "fr": "Killed Killer Rabbit",
+        "it": "Killed Killer Rabbit",
+        "de": "Killed Killer Rabbit",
+        "es": "Killed Killer Rabbit",
+        "pt-BR": "Killed Killer Rabbit",
+        "pl": "Killed Killer Rabbit",
+        "ru": "Killed Killer Rabbit",
+        "tr": "Killed Killer Rabbit",
+        "zh-CN": "Killed Killer Rabbit",
+        "ja": "Killed Killer Rabbit",
+        "ko": "Killed Killer Rabbit",
+        "zh-TW": "Killed Killer Rabbit",
+        "uk": "Killed Killer Rabbit"
+      }
+    },
+    "bDesc": {
+      "_value": {
+        "en": "...",
+        "fr": "...",
+        "it": "...",
+        "de": "...",
+        "es": "...",
+        "pt-BR": "...",
+        "pl": "...",
+        "ru": "...",
+        "tr": "...",
+        "zh-CN": "...",
+        "ja": "...",
+        "ko": "...",
+        "zh-TW": "...",
+        "uk": "..."
+      }
+    }
+  },
+  "EX_ARMLESS": {
+    "bName": {
+      "_value": {
+        "en": "Barely Scratched Black Knight",
+        "fr": "Barely Scratched Black Knight",
+        "it": "Barely Scratched Black Knight",
+        "de": "Barely Scratched Black Knight",
+        "es": "Barely Scratched Black Knight",
+        "pt-BR": "Barely Scratched Black Knight",
+        "pl": "Barely Scratched Black Knight",
+        "ru": "Barely Scratched Black Knight",
+        "tr": "Barely Scratched Black Knight",
+        "zh-CN": "Barely Scratched Black Knight",
+        "ja": "Barely Scratched Black Knight",
+        "ko": "Barely Scratched Black Knight",
+        "zh-TW": "Barely Scratched Black Knight",
+        "uk": "Barely Scratched Black Knight"
+      }
+    },
+    "bDesc": {
+      "_value": {
+        "en": "...",
+        "fr": "...",
+        "it": "...",
+        "de": "...",
+        "es": "...",
+        "pt-BR": "...",
+        "pl": "...",
+        "ru": "...",
+        "tr": "...",
+        "zh-CN": "...",
+        "ja": "...",
+        "ko": "...",
+        "zh-TW": "...",
+        "uk": "..."
+      }
+    }
+  },
+  "EX_SHADEYELLOW": {
+    "bName": {
+      "_value": {
+        "en": "Sig.ra Giallo",
+        "fr": "Sig.ra Giallo",
+        "it": "Sig.ra Giallo",
+        "de": "Sig.ra Giallo",
+        "es": "Sig.ra Giallo",
+        "pt-BR": "Sig.ra Giallo",
+        "pl": "Sig.ra Giallo",
+        "ru": "Sig.ra Giallo",
+        "tr": "Sig.ra Giallo",
+        "zh-CN": "Sig.ra Giallo",
+        "ja": "Sig.ra Giallo",
+        "ko": "Sig.ra Giallo",
+        "zh-TW": "Sig.ra Giallo",
+        "uk": "Sig.ra Giallo"
+      }
+    },
+    "bDesc": {
+      "_value": {
+        "en": "...",
+        "fr": "...",
+        "it": "...",
+        "de": "...",
+        "es": "...",
+        "pt-BR": "...",
+        "pl": "...",
+        "ru": "...",
+        "tr": "...",
+        "zh-CN": "...",
+        "ja": "...",
+        "ko": "...",
+        "zh-TW": "...",
+        "uk": "..."
+      }
+    }
+  },
+  "EX_SKELEBEAN_O": {
+    "bName": {
+      "_value": {
+        "en": "Skelebean",
+        "fr": "Skelebean",
+        "it": "Skelebean",
+        "de": "Skelebean",
+        "es": "Skelebean",
+        "pt-BR": "Skelebean",
+        "pl": "Skelebean",
+        "ru": "Skelebean",
+        "tr": "Skelebean",
+        "zh-CN": "Skelebean",
+        "ja": "Skelebean",
+        "ko": "Skelebean",
+        "zh-TW": "Skelebean",
+        "uk": "Skelebean"
+      }
+    },
+    "bDesc": {
+      "_value": {
+        "en": "...",
+        "fr": "...",
+        "it": "...",
+        "de": "...",
+        "es": "...",
+        "pt-BR": "...",
+        "pl": "...",
+        "ru": "...",
+        "tr": "...",
+        "zh-CN": "...",
+        "ja": "...",
+        "ko": "...",
+        "zh-TW": "...",
+        "uk": "..."
+      }
+    }
   }
 }

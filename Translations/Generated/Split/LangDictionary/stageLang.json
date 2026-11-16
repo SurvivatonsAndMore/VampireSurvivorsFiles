@@ -5492,5 +5492,61 @@
         "uk": "Bouncy until first completion."
       }
     }
+  },
+  "EX_TREASURY": {
+    "stageName": {
+      "_value": {
+        "en": "Haunted Treasury",
+        "fr": "Haunted Treasury",
+        "it": "Haunted Treasury",
+        "de": "Haunted Treasury",
+        "es": "Haunted Treasury",
+        "pt-BR": "Haunted Treasury",
+        "pl": "Haunted Treasury",
+        "ru": "Haunted Treasury",
+        "tr": "Haunted Treasury",
+        "zh-CN": "Haunted Treasury",
+        "ja": "Haunted Treasury",
+        "ko": "Haunted Treasury",
+        "zh-TW": "Haunted Treasury",
+        "uk": "Haunted Treasury"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    },
+    "tips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
   }
 }

@@ -2801,6 +2801,128 @@
       "description": {
         "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "fr": {
@@ -5555,56 +5677,178 @@
     "law_meltedcandle": {
       "_value": "LOI BOUGIE FONDUE",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "LOI PIGEON ESTROPIÉ",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "it": {
@@ -7028,7 +7272,7 @@
       "_value": "Eventi\\ncasuali"
     },
     "stageConfirm_randomLevels": {
-      "_value": "Nuovo livello\\casuale"
+      "_value": "Nuovo livello\\ncasuale"
     },
     "stageConfirm_twitchIsOn": {
       "_value": "Eventi e Nuovi livelli\\ncontrollati dalla\\nchat di Twitch."
@@ -8359,56 +8603,178 @@
     "law_meltedcandle": {
       "_value": "LEGGE LUMINO SCIOLTO",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "LEGGE PICCIONE MONCO",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "de": {
@@ -11163,56 +11529,178 @@
     "law_meltedcandle": {
       "_value": "GESETZ: ERLISCHEN",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "GESETZ: TAUBENBLUT",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "es": {
@@ -13967,56 +14455,178 @@
     "law_meltedcandle": {
       "_value": "LEY DE VELA FUNDIDA",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "LEY DE PALOMA HERIDA",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "pt-BR": {
@@ -16771,56 +17381,178 @@
     "law_meltedcandle": {
       "_value": "LEI DA VELA APAGADA",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "LEI DO POMBO FERIDO",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "pl": {
@@ -19575,56 +20307,178 @@
     "law_meltedcandle": {
       "_value": "PRAWO ŚWIECY",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "PRAWO GOŁĘBIA",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "ru": {
@@ -22379,56 +23233,178 @@
     "law_meltedcandle": {
       "_value": "ЗАКОН ТАЛОЙ СВЕЧИ",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "ЗАКОН СЛАБОГО ГОЛУБЯ",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "tr": {
@@ -23852,7 +24828,7 @@
       "_value": "Rastgele\\nOlaylar"
     },
     "stageConfirm_randomLevels": {
-      "_value": "Rastgele\\nSeviyeAtlama"
+      "_value": "Rastgele\\nSeviye Atlama"
     },
     "stageConfirm_twitchIsOn": {
       "_value": "Olaylar ve SeviyeAtlama\\nTwitch sohbeti\\ntarafından kontrol edilir."
@@ -24977,7 +25953,7 @@
       "_value": "Ekran Yenileme Hızı"
     },
     "options_randomLevels": {
-      "_value": "Rastgele SeviyeAtlama"
+      "_value": "Rastgele Seviye Atlama"
     },
     "levelup_sell": {
       "_value": "SAT"
@@ -25183,56 +26159,178 @@
     "law_meltedcandle": {
       "_value": "ERİMİŞ MUM YASASI",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "YARALI KUŞ YASASI",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "zh-CN": {
@@ -26038,7 +27136,7 @@
       "_value": "光敏性警告"
     },
     "preload_warning_text": {
-      "_value": "本游戏包含刺眼的闪光视效。 如果您出现头晕, 视物变形, 头眼抽搐, 手脚震颤, 定向障碍, 意识模糊或短暂失去意识, 请立即停止游戏并及时就诊。 \\n\\n如果您或您的任何亲属有痉挛或癫痫发作的病史, 请在游戏前咨询医生。"
+      "_value": "本游戏包含刺眼的闪光视效。 如果您出现头晕，视物变形，头眼抽搐，手脚震颤，定向障碍，意识模糊或短暂失去意识，请立即停止游戏并及时就诊。 \\n\\n如果您或您的任何亲属有痉挛或癫痫发作的病史，请在游戏前咨询医生。"
     },
     "credit_translation": {
       "_value": "翻译"
@@ -27987,56 +29085,178 @@
     "law_meltedcandle": {
       "_value": "融化蜡烛定律",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "伤残鸽子定律",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "ja": {
@@ -28842,7 +30062,7 @@
       "_value": "感光性警告"
     },
     "preload_warning_text": {
-      "_value": "このゲームには明るい点滅光が含まれています。 \\n軽い頭痛, 視界の変化, 目や顔の痙攣, 手足の痙動や震え, \\n方向感覚の喪失, 混乱, 一瞬の意識の喪失などを感じたら, \\n直ちにプレイを中止し, 医師に相談してください。 \\nご本人またはご家族に発作やてんかんの既往症がある場合は, \\nプレイ前に医師にご相談ください。"
+      "_value": "このゲームには明るい点滅光が含まれています。 \\n軽い頭痛、視界の変化、目や顔の痙攣、手足の痙動や震え、\\n方向感覚の喪失、混乱、一瞬の意識の喪失などを感じたら、\\n直ちにプレイを中止し、医師に相談してください。 \\nご本人またはご家族に発作やてんかんの既往症がある場合は、\\nプレイ前に医師にご相談ください。"
     },
     "credit_translation": {
       "_value": "翻訳"
@@ -30791,56 +32011,178 @@
     "law_meltedcandle": {
       "_value": "融けゆく蝋燭の法則",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "手負いのハトの法則",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "ko": {
@@ -33595,56 +34937,178 @@
     "law_meltedcandle": {
       "_value": "녹은 촛불의 법칙",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "다친 비둘기의 법칙",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "zh-TW": {
@@ -34450,7 +35914,7 @@
       "_value": "光敏性警告"
     },
     "preload_warning_text": {
-      "_value": "本遊戲包含刺眼的閃光視覺特效。如果你出現頭暈、視力變化、頭眼抽搐、手腳顫抖、迷失方向感、意識模糊或短暫失去意識等症狀，請立即停止遊玩並迅速就醫。\\n\\n如果你或你的任意親屬有痙攣或癲癇發作的病史，請在進行遊戲前先諮詢醫師的建議。"
+      "_value": "本遊戲包含刺眼的閃光視覺特效。如果你出現頭暈、視力變化、頭眼抽搐、手腳顫抖、迷失方向感、意識模糊或短暫失去意識等症狀、 請立即停止遊玩並迅速就醫。\\n\\n如果你或你的任意親屬有痙攣或癲癇發作的病史、 請在進行遊戲前先諮詢醫師的建議。"
     },
     "credit_translation": {
       "_value": "翻譯"
@@ -36399,56 +37863,178 @@
     "law_meltedcandle": {
       "_value": "燭淚法則",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "殘鴿法則",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   },
   "uk": {
@@ -39203,56 +40789,178 @@
     "law_meltedcandle": {
       "_value": "ЗАКОН ТАЛОЇ СВІЧКИ",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Area at 150%."
       }
     },
     "law_maimedpigeon": {
       "_value": "ЗАКОН ЗБИТОЇГОЛУБКИ",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Move speed and Speed at 150%."
       }
     },
     "law_armlesssoldier": {
       "_value": "ARMLESS SOLDIER LAW",
       "description": {
-        "_value": null
+        "_value": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     },
     "law_powerlesswretch": {
       "_value": "POWERLESS WRETCH LAW",
       "description": {
-        "_value": null
+        "_value": "All bought Power Up bonuses for combat stats are ignored."
       }
     },
     "law_solitaryexplorer": {
-      "_value": null,
+      "_value": "SOLITARY EXPLORER LAW",
       "description": {
-        "_value": null
+        "_value": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     },
     "law_forebodingascetic": {
-      "_value": null,
+      "_value": "FOREBODING ASCETIC LAW",
       "description": {
-        "_value": null
+        "_value": "Puts a cap on Level at 80."
       }
     },
     "law_huntedwolf": {
-      "_value": null,
+      "_value": "HUNTED WOLF LAW",
       "description": {
-        "_value": null
+        "_value": "Light Sources don't spawn."
       }
     },
     "law_foreordainedraven": {
-      "_value": null,
+      "_value": "FOREORDAINED RAVEN LAW",
       "description": {
-        "_value": null
+        "_value": "Synergies always appear as level up options."
       }
     },
     "law_steadfastruler": {
-      "_value": null,
+      "_value": "STEADFAST RULER LAW",
       "description": {
-        "_value": null
+        "_value": "Cannot gain Golden Eggs."
       }
+    },
+    "law_jollyrabbit": {
+      "_value": "JOLLY RABBIT LAW"
+    },
+    "law_law_jollyrabbit": {
+      "description": {
+        "_value": "Playing characters are bouncy."
+      }
+    },
+    "options_tab_mods": {
+      "_value": "Mods"
+    },
+    "mods_workshop_page": {
+      "_value": "Vampire Survivors Steam Workshop"
+    },
+    "mods_active_items": {
+      "_value": "Active Workshop items"
+    },
+    "mods_no_items": {
+      "_value": "No Workshop items are subscribed."
+    },
+    "mods_upload_desc": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_upload": {
+      "_value": "UPLOAD"
+    },
+    "mods_upload_title": {
+      "_value": "Upload a character to the Workshop"
+    },
+    "mods_select_file": {
+      "_value": "Select character file (.zip)"
+    },
+    "mods_select_preview": {
+      "_value": "Select preview image"
+    },
+    "mods_no_item_id": {
+      "_value": "No workshop ID"
+    },
+    "mods_terms": {
+      "_value": "By submitting this item, you agree to the"
+    },
+    "mods_terms_link": {
+      "_value": "workshop terms of service"
+    },
+    "mods_instructions": {
+      "_value": "Instructions"
+    },
+    "mods_instructions_1": {
+      "_value": "1) Select the character you want to upload (a .zip made with a character editor)"
+    },
+    "mods_instructions_2": {
+      "_value": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    },
+    "mods_instructions_3": {
+      "_value": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    },
+    "mods_instructions_4": {
+      "_value": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    },
+    "mods_instructions_5": {
+      "_value": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    },
+    "mods_steam_ok": {
+      "_value": "Steam initialization OK!"
+    },
+    "mods_steam_missing": {
+      "_value": "Steam is not running, so uploading is not available."
+    },
+    "mods_no_picker": {
+      "_value": "No file dialog is available here. Type or paste the path instead."
+    },
+    "mods_selected": {
+      "_value": "Selected"
+    },
+    "mods_uploading": {
+      "_value": "Uploading"
+    },
+    "mods_item_id_title": {
+      "_value": "Mod ID (optional)"
+    },
+    "mods_status_downloading": {
+      "_value": "Downloading {0}%"
+    },
+    "mods_status_pending": {
+      "_value": "Waiting to download"
+    },
+    "mods_status_not_downloaded": {
+      "_value": "Not downloaded"
+    },
+    "mods_status_update": {
+      "_value": "Update pending"
+    },
+    "mods_status_not_loaded": {
+      "_value": "Downloaded, reload to play"
+    },
+    "mods_status_unsubscribed": {
+      "_value": "Unsubscribed, reload to remove"
+    },
+    "mods_load_new": {
+      "_value": "RELOAD"
+    },
+    "mods_loading": {
+      "_value": "Reloading the Workshop characters..."
+    },
+    "mods_status_unsubscribed_done": {
+      "_value": "Unsubscribed"
+    },
+    "mods_reload_changes": {
+      "_value": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    },
+    "mods_unsubscribe_confirm": {
+      "_value": "Unsubscribe from this item?"
+    },
+    "options_announcer": {
+      "_value": "Announcer"
+    },
+    "options_announcer_volume": {
+      "_value": "Voice volume"
+    },
+    "scutusSelector_title": {
+      "_value": "Shield Selector"
     }
   }
 }

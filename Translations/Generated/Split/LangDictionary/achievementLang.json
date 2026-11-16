@@ -10004,7 +10004,7 @@
   "DefeatBatDragons": {
     "description": {
       "_value": {
-        "en": "Defeat 1 Bat Dragon.",
+        "en": "Defeat the Bat Dragon in Mad Forest.",
         "fr": "Éliminez 1 Dragon-souris.",
         "it": "Sconfiggi un Drago pipistrello.",
         "de": "Besiege 1 Drachula.",
@@ -10838,6 +10838,106 @@
         "ko": "Find an Amimic in Biggus Discus.",
         "zh-TW": "Find an Amimic in Biggus Discus.",
         "uk": "Find an Amimic in Biggus Discus."
+      }
+    }
+  },
+  "Defeat1000SelfDestructEnemies": {
+    "description": {
+      "_value": {
+        "en": "Defeat 1999 self-destructing enemies.",
+        "fr": "Defeat 1999 self-destructing enemies.",
+        "it": "Defeat 1999 self-destructing enemies.",
+        "de": "Defeat 1999 self-destructing enemies.",
+        "es": "Defeat 1999 self-destructing enemies.",
+        "pt-BR": "Defeat 1999 self-destructing enemies.",
+        "pl": "Defeat 1999 self-destructing enemies.",
+        "ru": "Defeat 1999 self-destructing enemies.",
+        "tr": "Defeat 1999 self-destructing enemies.",
+        "zh-CN": "Defeat 1999 self-destructing enemies.",
+        "ja": "Defeat 1999 self-destructing enemies.",
+        "ko": "Defeat 1999 self-destructing enemies.",
+        "zh-TW": "Defeat 1999 self-destructing enemies.",
+        "uk": "Defeat 1999 self-destructing enemies."
+      }
+    }
+  },
+  "EvolveGarneton": {
+    "description": {
+      "_value": {
+        "en": "Evolve the Garneton.",
+        "fr": "Evolve the Garneton.",
+        "it": "Evolve the Garneton.",
+        "de": "Evolve the Garneton.",
+        "es": "Evolve the Garneton.",
+        "pt-BR": "Evolve the Garneton.",
+        "pl": "Evolve the Garneton.",
+        "ru": "Evolve the Garneton.",
+        "tr": "Evolve the Garneton.",
+        "zh-CN": "Evolve the Garneton.",
+        "ja": "Evolve the Garneton.",
+        "ko": "Evolve the Garneton.",
+        "zh-TW": "Evolve the Garneton.",
+        "uk": "Evolve the Garneton."
+      }
+    }
+  },
+  "Dark_07Cannone": {
+    "description": {
+      "_value": {
+        "en": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "fr": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "it": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "de": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "es": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "pt-BR": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "pl": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "ru": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "tr": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "zh-CN": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "ja": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "ko": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "zh-TW": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "uk": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    }
+  },
+  "FindMPShout": {
+    "description": {
+      "_value": {
+        "en": "Find the MP Shout in Biggus Discus",
+        "fr": "Find the MP Shout in Biggus Discus",
+        "it": "Find the MP Shout in Biggus Discus",
+        "de": "Find the MP Shout in Biggus Discus",
+        "es": "Find the MP Shout in Biggus Discus",
+        "pt-BR": "Find the MP Shout in Biggus Discus",
+        "pl": "Find the MP Shout in Biggus Discus",
+        "ru": "Find the MP Shout in Biggus Discus",
+        "tr": "Find the MP Shout in Biggus Discus",
+        "zh-CN": "Find the MP Shout in Biggus Discus",
+        "ja": "Find the MP Shout in Biggus Discus",
+        "ko": "Find the MP Shout in Biggus Discus",
+        "zh-TW": "Find the MP Shout in Biggus Discus",
+        "uk": "Find the MP Shout in Biggus Discus"
+      }
+    }
+  },
+  "Dark_15Challenge": {
+    "description": {
+      "_value": {
+        "en": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "fr": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "it": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "de": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "es": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "pt-BR": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "pl": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "ru": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "tr": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "zh-CN": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "ja": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "ko": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "zh-TW": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "uk": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   }

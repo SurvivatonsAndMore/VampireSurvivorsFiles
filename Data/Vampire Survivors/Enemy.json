@@ -2131,6 +2131,32 @@
       ]
     }
   ],
+  "EX_TREASURY_STALKER": [
+    {
+      "level": 100,
+      "maxHp": 65535,
+      "speed": 300,
+      "power": 0,
+      "res_Freeze": 2,
+      "res_Knockback": 1,
+      "res_Debuffs": 1,
+      "res_Rosary": 1,
+      "res_Defang": 1,
+      "knockback": 0,
+      "maxKnockback": 0,
+      "deathKB": 0,
+      "killedAmount": 0,
+      "scale": 1.5,
+      "xp": 0,
+      "passThroughWalls": true,
+      "end": 29,
+      "idleFrameCount": 8,
+      "textureName": "enemies_Universal",
+      "frameNames": [
+        "Stalker_0.png"
+      ]
+    }
+  ],
   "BOSS_XLLEDA": [
     {
       "level": 99,
@@ -4387,7 +4413,7 @@
       "alpha": 0.75,
       "killedAmount": 0,
       "textureName": "enemies_Universal",
-      "end": 29,
+      "end": 12,
       "frameNames": [
         "H1_0.png",
         "H2_0.png"
@@ -8685,6 +8711,28 @@
       ]
     }
   ],
+  "MOON_ANFORA2": [
+    {
+      "level": 3,
+      "maxHp": 3,
+      "speed": 0,
+      "power": 0,
+      "knockback": 0,
+      "maxKnockback": 0,
+      "res_Defang": 1,
+      "deathKB": 1,
+      "xp": 0,
+      "alpha": 0.85,
+      "killedAmount": 0,
+      "textureName": "enemies_Universal",
+      "end": 29,
+      "frameNames": [
+        "H1_0.png",
+        "H2_0.png",
+        "TreasureChest_0"
+      ]
+    }
+  ],
   "MOON_MASK1": [
     {
       "level": 99,
@@ -11172,6 +11220,32 @@
         "radius": 0.4,
         "offsetX": -6,
         "offsetY": -6
+      }
+    }
+  ],
+  "EX_DIAMOND_LABYRINTH": [
+    {
+      "level": 1,
+      "maxHp": 5,
+      "speed": 0,
+      "power": 30,
+      "knockback": 0,
+      "maxKnockback": 0,
+      "deathKB": 0,
+      "killedAmount": 0,
+      "res_Defang": 1,
+      "xp": 5,
+      "end": 19,
+      "idleFrameCount": 0,
+      "passThroughWalls": true,
+      "textureName": "enemies2025",
+      "frameNames": [
+        "diamondBlack_i01.png"
+      ],
+      "colliderOverride": {
+        "radius": 0.4,
+        "offsetX": 0,
+        "offsetY": 0
       }
     }
   ],
@@ -14579,16 +14653,52 @@
 
       "bName": ".",
       "bDesc": ".",
-      "bPlaces": ["FOREST", "MOLISE"],
+      "bPlaces": ["FOREST", "MOLISE", "EX_SCUTUM"],
       "bIndex": 169,
       "bInclude": true,
       "bHighlight": true,
       "bVariants": [
-        "EX_BOSS_BATDRAGON_2"
+        "EX_BOSS_BATDRAGON_2",
+        "EX_BOSS_BATDRAGON_3"
       ]
     }
   ],
   "EX_BOSS_BATDRAGON_2": [
+    {
+      "level": 10,
+      "maxHp": 100,
+      "minimumHpScalingLevel": 80,
+      "speed": 110,
+      "power": 20,
+      "knockback": 0,
+      "maxKnockback": 1,
+      "deathKB": 0,
+      "xp": 100,
+      "scale" : 2,
+      "idleFrameCount": 6,
+      "killedAmount": 0,
+      "textureName": "enemies2025",
+      "end": 0,
+      "frameNames": [
+        "EX_BatDragonXL_0.png"
+      ],
+      "skills": [
+        "HP_x_Level"
+      ],
+      "passThroughWalls": true,
+      "res_Freeze": 2,
+      "res_Knockback": 1,
+      "res_Debuffs": 1,
+      "res_Defang": 1,
+      "res_Rosary": 1,
+      "colliderOverride": {
+        "radius": 0.34,
+        "offsetX": 0,
+        "offsetY": 12
+      }
+    }
+  ],
+  "EX_BOSS_BATDRAGON_3": [
     {
       "level": 10,
       "maxHp": 100,
@@ -15656,7 +15766,15 @@
       "end": 29,
       "frameNames": [
         "armless_0.png"
-      ]
+      ],
+      "bInclude": true,
+      "bName": "Barely Scratched Black Knight",
+      "bDesc": " ",
+      "bPlaces": [
+        "EX_SCUTUM"
+      ],
+      "bHighlight": false,
+      "bIndex": 182
     }
   ],
   "EX_GORGONZOLA": [
@@ -15675,7 +15793,15 @@
       "end": 18,
       "frameNames": [
         "gorgonzola_0.png"
-      ]
+      ],
+      "bInclude": true,
+      "bName": "Gorgonzola",
+      "bDesc": " ",
+      "bPlaces": [
+        "EX_SCUTUM"
+      ],
+      "bHighlight": false,
+      "bIndex": 183
     }
   ],
   "EX_KRABBIT": [
@@ -15694,9 +15820,18 @@
       "end": 14,
       "frameNames": [
         "krabbit_0.png"
-      ]
+      ],
+      "bInclude": true,
+      "bName": "Killed Killer Rabbit",
+      "bDesc": " ",
+      "bPlaces": [
+        "EX_SCUTUM"
+      ],
+      "bHighlight": false,
+      "bIndex": 181
     }
   ],
+  
   "EX_SKELEBEAN_O": [
     {
       "level": 1,
@@ -15707,7 +15842,7 @@
       "maxKnockback": 3,
       "deathKB": 2,
       "xp": 1,
-      "fireDelay": 3000,
+      "fireDelay": 500,
       "bulletType": "EX_BULLET_HAMMER",
       "idleFrameCount": 4,
       "killedAmount": 0,
@@ -15715,7 +15850,21 @@
       "end": 15,
       "frameNames": [
         "skelebeanO_0.png"
-      ]
+      ],
+      "bInclude": true,
+      "bName": "Skelebean",
+      "bDesc": "",
+      "bPlaces": [
+        "EX_SCUTUM"
+      ],
+      "bHighlight": false,
+      "bVariants": [
+        "EX_SKELEBEAN_P",
+        "EX_SKELEBEAN_Y",
+        "EX_SKELEBEAN_G",
+        "EX_SKELEBEAN_B"
+      ],
+      "bIndex": 184
     }
   ],
   "EX_SKELEBEAN_P": [
@@ -15728,7 +15877,7 @@
       "maxKnockback": 3,
       "deathKB": 2,
       "xp": 1,
-      "fireDelay": 3000,
+      "fireDelay": 500,
       "bulletType": "EX_BULLET_HAMMER",
       "idleFrameCount": 4,
       "killedAmount": 0,
@@ -15749,7 +15898,7 @@
       "maxKnockback": 3,
       "deathKB": 2,
       "xp": 1,
-      "fireDelay": 3000,
+      "fireDelay": 500,
       "bulletType": "EX_BULLET_HAMMER",
       "idleFrameCount": 4,
       "killedAmount": 0,
@@ -15770,7 +15919,7 @@
       "maxKnockback": 3,
       "deathKB": 2,
       "xp": 1,
-      "fireDelay": 3000,
+      "fireDelay": 500,
       "bulletType": "EX_BULLET_HAMMER",
       "idleFrameCount": 4,
       "killedAmount": 0,
@@ -15791,7 +15940,7 @@
       "maxKnockback": 3,
       "deathKB": 2,
       "xp": 1,
-      "fireDelay": 3000,
+      "fireDelay": 500,
       "bulletType": "EX_BULLET_HAMMER",
       "idleFrameCount": 4,
       "killedAmount": 0,
@@ -15850,7 +15999,15 @@
       "end": 16,
       "frameNames": [
         "EX_SigRaInGiallo_0.png"
-      ]
+      ],
+      "bInclude": true,
+      "bName": "Sig.ra Giallo",
+      "bDesc": " ",
+      "bPlaces": [
+        "EX_SCUTUM"
+      ],
+      "bHighlight": false,
+      "bIndex": 185
     }
   ],
   "EX_SCUTUM_SKELETON1": [
@@ -16054,6 +16211,7 @@
     {
       "level": 1,
       "maxHp": 5,
+      "minimumHpScalingLevel": 60,
       "speed": 170,
       "power": 10,
       "skills": [
@@ -16146,6 +16304,7 @@
   "EX_BOSS_ARCHON5": [
     {
       "level": 30,
+      "minimumHpScalingLevel": 80,
       "maxHp": 20,
       "speed": 160,
       "power": 30,
@@ -16170,6 +16329,32 @@
         "offsetY": 16,
         "offsetX": 0
       }
+    }
+  ],
+  "EX_BOSS_ARCHON6": [
+    {
+      "level": 1,
+      "maxHp": 5,
+      "speed": 170,
+      "power": 10,
+      "skills": [
+        "HP_x_Level"
+      ],
+      "res_Knockback": 2,
+      "knockback": 0,
+      "maxKnockback": 0,
+      "deathKB": 2,
+      "scale": 1.5,
+      "xp": 30,
+      "fireDelay": 10000,
+      "bulletType": "EX_BULLET_DISK1",
+      "killedAmount": 0,
+      "textureName": "enemies2",
+      "idleFrameCount": 4,
+      "end": 16,
+      "frameNames": [
+        "XLArmor2_0.png"
+      ]
     }
   ],
   "EX_BULLET_DISK1": [
@@ -16398,10 +16583,10 @@
       "frameNames": [
         "MidasMedusasCenter"
       ],
-      "bIndex": 181,
+      "bIndex": 186,
       "bInclude": true,
       "bName": "Midas Medusas",
-      "bDesc": "",
+      "bDesc": " ",
       "bPlaces": [
         "EX_SCUTUM"
       ]

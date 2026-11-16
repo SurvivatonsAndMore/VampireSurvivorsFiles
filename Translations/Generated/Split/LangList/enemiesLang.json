@@ -16052,5 +16052,195 @@
         "Defeated at %0 Hax Health."
       ]
     }
+  },
+  "EX_GORGONZOLA": {
+    "bName": {
+      "_value": [
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola",
+        "Gorgonzola"
+      ]
+    },
+    "bDesc": {
+      "_value": [
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "..."
+      ]
+    }
+  },
+  "EX_KRABBIT": {
+    "bName": {
+      "_value": [
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit",
+        "Killed Killer Rabbit"
+      ]
+    },
+    "bDesc": {
+      "_value": [
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "..."
+      ]
+    }
+  },
+  "EX_ARMLESS": {
+    "bName": {
+      "_value": [
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight",
+        "Barely Scratched Black Knight"
+      ]
+    },
+    "bDesc": {
+      "_value": [
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "..."
+      ]
+    }
+  },
+  "EX_SHADEYELLOW": {
+    "bName": {
+      "_value": [
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo",
+        "Sig.ra Giallo"
+      ]
+    },
+    "bDesc": {
+      "_value": [
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "..."
+      ]
+    }
+  },
+  "EX_SKELEBEAN_O": {
+    "bName": {
+      "_value": [
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean",
+        "Skelebean"
+      ]
+    },
+    "bDesc": {
+      "_value": [
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "...",
+        "..."
+      ]
+    }
   }
 }

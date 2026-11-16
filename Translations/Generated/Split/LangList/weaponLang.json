@@ -3712,7 +3712,7 @@
       "_value": [
         "Best with: Cooldown, Duration.",
         "Efficace avec : recharge, durée.",
-        "Best with: Cooldown, Duration.",
+        "Ideale con: Tempo di ricarica, Durata.",
         "Am besten mit: Abklingzeit, Dauer.",
         "Mejor con: recarga, duración.",
         "Melhor com: Recarga, Duração.",
@@ -3936,7 +3936,7 @@
       "_value": [
         "Ignores: Speed, Duration.",
         "Ignore : vitesse, durée.",
-        "Ignores: Speed, Duration.",
+        "Ignora: Velocità, Durata.",
         "Ignoriert: Tempo, Dauer.",
         "Ignora: velocidad, duración.",
         "Ignora: Velocidade, Duração.",
@@ -4066,7 +4066,7 @@
       "_value": [
         "Best with: Luck.",
         "Efficace avec : chance.",
-        "Best with: Luck.",
+        "Ideale con: Fortuna.",
         "Am besten mit: Glück.",
         "Mejor con: suerte.",
         "Melhor com: Sorte.",
@@ -4127,7 +4127,7 @@
         "Emite conos de llamas.",
         "Emite cones de chamas.",
         "Emituje stożki płomieni.",
-        "Выпускает конусы пламени.",
+        "Выделяет конусы пламени.",
         "Alev konileri yayar.",
         "喷出锥形火焰。",
         "円錐状の炎を放出する。",
@@ -27516,6 +27516,118 @@
         "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
         "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
         "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      ]
+    }
+  },
+  "EX_BOMBAROLO": {
+    "name": {
+      "_value": [
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo",
+        "Bombarolo"
+      ]
+    },
+    "tips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "description": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "D15_COINCANNON": {
+    "name": {
+      "_value": [
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose",
+        "Everything to lose"
+      ]
+    },
+    "tips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "description": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     }
   }

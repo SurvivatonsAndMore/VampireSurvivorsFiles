@@ -2783,6 +2783,118 @@
       "price": 3600
     }
   ],
+  "EX_CANNON1": [
+    {
+      "alwaysHidden": false,
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "sealable": true,
+      "bulletType": "EX_CANNON1",
+      "price": 100,
+      "name": "Garneton",
+      "description": "Fires a volley of cannonballs. Duration is volley length. Amount is fire rate.",
+      "tips": "Best with: Duration, Amount.",
+      "texture": "tps_lossless_icons",
+      "frameName": "ex_cannon1.png",
+      "collectionFrame": "frameB_bold.png",
+      "evoSynergy": [
+        "POWER"
+      ],
+      "evoInto": "EX_CANNON2",
+      "tags": [
+        "FIRE",
+        "BLOOD"
+      ],
+      "hitVFX": "Fire",
+      "isUnlocked": false,
+      "hidden": true,
+      "poolLimit":      100,
+      "rarity":         60,
+      "interval":       8000,
+      "repeatInterval": 200,
+      "power":          2,
+      "area":           1,
+      "speed":          1,
+      "amount":         1,
+      "penetrating":    1,
+      "duration":       2000,
+      "hitsWalls":      true,
+      "critChance":     0.05,
+      "critMul":        2
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 1,
+      "area": 0.2
+    },
+    {
+      "penetrating": 1,
+      "area": 0.2
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 1,
+      "area": 0.2
+    },
+    {
+      "penetrating": 1,
+      "area": 0.2
+    },
+    {
+      "interval": -1000,
+      "addEvolvedWeapon": "EX_CANNON2"
+    }
+  ],
+  "EX_CANNON2": [
+    {
+      "alwaysHidden": false,
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "sealable": true,
+      "bulletType": "EX_CANNON2",
+      "name": "Carnagon Heart",
+      "description": "Evolved Garneton. Explodes on pierce and bounce.",
+      "tips": "Requires Max: Spinach.",
+      "texture": "tps_lossless_icons",
+      "frameName": "ex_cannon2.png",
+      "collectionFrame": "frameB_bold.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "EX_CANNON1"
+      ],
+      "requires": [
+        "POWER"
+      ],
+      "requiresMax": [
+        "POWER"
+      ],
+      "tags": [
+        "FIRE",
+        "BLOOD"
+      ],
+      "hitVFX": "Fire",
+      "hidden": true,
+      "isUnlocked": true,
+      "poolLimit":      100,
+      "rarity":         1,
+      "interval":       7000,
+      "repeatInterval": 200,
+      "power":          4.5,
+      "area":           2,
+      "speed":          1,
+      "amount":         3,
+      "penetrating":    4,
+      "duration":       2500,
+      "hitsWalls":      true,
+      "critChance":     0.05,
+      "critMul":        2,
+      "price": 3600
+    }
+  ],
   "EX_FLIK1": [
     {
       "level": 1,
@@ -3091,104 +3203,6 @@
       "amount": 12,
       "duration": 400,
       "price": 7200
-    }
-  ],
-  "ICELANCE": [
-    {
-      "level": 1,
-      "contentGroup": "EXTRA",
-      "sealable": true,
-      "bulletType": "ICELANCE",
-      "price": 160,
-      "name": "Glass Fandango",
-      "description": "Stronger with movement, Orologions, and against frozen enemies.",
-      "tips": "Ignores: speed, duration.",
-      "texture": "tps_lossless_icons",
-      "frameName": "SpearIce.png",
-      "collectionFrame": "frameB_bold.png",
-      "evoSynergy": [
-        "MOVESPEED"
-      ],
-      "evoInto": "ICELANCE2",
-      "isUnlocked": false,
-      "hidden": true,
-      "poolLimit": 100,
-      "rarity": 50,
-      "interval": 1400,
-      "repeatInterval": 30,
-      "power": 1,
-      "area": 0.7,
-      "speed": 1,
-      "amount": 1,
-      "hitsWalls": false,
-      "critChance": 0.05,
-      "critMul": 2,
-      "unexcludeSelf": true
-    },
-    {
-      "power": 0.25,
-      "area": 0.1
-    },
-    {
-      "amount": 1
-    },
-    {
-      "power": 0.25,
-      "area": 0.1
-    },
-    {
-      "amount": 1
-    },
-    {
-      "power": 0.25,
-      "area": 0.1
-    },
-    {
-      "amount": 1
-    },
-    {
-      "power": 0.25,
-      "amount": 1,
-      "addEvolvedWeapon": "ICELANCE2"
-    }
-  ],
-  "ICELANCE2": [
-    {
-      "level": 1,
-      "contentGroup": "EXTRA",
-      "sealable": true,
-      "bulletType": "ICELANCE2",
-      "name": "Celestial Voulge",
-      "description": "Evolved Glass Fandango. Might deal critical damage and freeze enemies. Turns Orologions into Starry Heavens.",
-      "tips": "Requires Max: MoveSpeed.",
-      "texture": "tps_lossless_icons",
-      "frameName": "SpearIce2.png",
-      "collectionFrame": "frameB_bold.png",
-      "isEvolution": true,
-      "evolvesFrom": [
-        "ICELANCE"
-      ],
-      "requires": [
-        "MOVESPEED"
-      ],
-      "requiresMax": [
-        "MOVESPEED"
-      ],
-      "hidden": true,
-      "isUnlocked": true,
-      "poolLimit": 100,
-      "rarity": 1,
-      "interval": 1400,
-      "repeatInterval": 30,
-      "power": 2,
-      "area": 1.1,
-      "speed": 6,
-      "amount": 6,
-      "hitsWalls": false,
-      "critChance": 0.05,
-      "critMul": 2,
-      "freezeChance": 0.05,
-      "price": 5760
     }
   ],
   "EX_PENSHIN": [
@@ -3835,150 +3849,102 @@
 	  "power": 2
     }
   ],
-  "EX_AMIMIC1": [
+  "ICELANCE": [
     {
       "level": 1,
       "contentGroup": "EXTRA",
-      "hidden": false,
-      "bulletType": "EX_AMIMIC1",
-      "name": "Amimic",
-      "description": "[Gift] Friendly treasure chest mimic provides moral support.",
+      "sealable": true,
+      "bulletType": "ICELANCE",
+      "price": 160,
+      "name": "Glass Fandango",
+      "description": "Stronger with movement, Orologions, and against frozen enemies.",
+      "tips": "Ignores: speed, duration.",
       "texture": "tps_lossless_icons",
-      "frameName": "EX_AMIMIC1.png",
+      "frameName": "SpearIce.png",
       "collectionFrame": "frameB_bold.png",
-      "unexcludeSelf": true,
+      "evoSynergy": [
+        "MOVESPEED"
+      ],
+      "evoInto": "ICELANCE2",
       "isUnlocked": false,
-      "rarity": 20,
-      "isPowerUp": true,
-      "isSpecialOnly": false,
-      "isGift": true,
-      "useLevelDescriptions": true,
-      "sealable": true
+      "hidden": true,
+      "poolLimit": 100,
+      "rarity": 50,
+      "interval": 1400,
+      "repeatInterval": 30,
+      "power": 1,
+      "area": 0.7,
+      "speed": 1,
+      "amount": 1,
+      "hitsWalls": false,
+      "critChance": 0.05,
+      "critMul": 2,
+      "unexcludeSelf": true
     },
     {
-      "level": 2,
-      "description": "Prevents loss of gold coins from weapon effects and events."
+      "power": 0.25,
+      "area": 0.1
     },
     {
-      "level": 3,
-      "description": "Allows exotic Amimics to show up as level up options."
+      "amount": 1
+    },
+    {
+      "power": 0.25,
+      "area": 0.1
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 0.25,
+      "area": 0.1
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 0.25,
+      "amount": 1,
+      "addEvolvedWeapon": "ICELANCE2"
     }
   ],
-  "EX_AMIMIC2": [
+  "ICELANCE2": [
     {
       "level": 1,
       "contentGroup": "EXTRA",
-      "hidden": false,
-      "bulletType": "EX_AMIMIC2",
-      "name": "Amimic Apollo",
-      "description": "[Gift] Its charm entices enemies, friends, and treasures. Receives a 50% discount at merchants.",
+      "sealable": true,
+      "bulletType": "ICELANCE2",
+      "name": "Celestial Voulge",
+      "description": "Evolved Glass Fandango. Might deal critical damage and freeze enemies. Turns Orologions into Starry Heavens.",
+      "tips": "Requires Max: MoveSpeed.",
       "texture": "tps_lossless_icons",
-      "frameName": "EX_AMIMIC2.png",
+      "frameName": "SpearIce2.png",
       "collectionFrame": "frameB_bold.png",
-      "unexcludeSelf": true,
-      "isUnlocked": false,
-      "rarity": 20,
-      "isPowerUp": true,
-      "isSpecialOnly": true,
-      "isGift": true,
-      "useLevelDescriptions": true,
-      "sealable": true
-    },
-    {
-      "level": 2,
-      "description": "Makes Treasure Chests follow you if you walk away from them."
-    },
-    {
-      "level": 3,
-      "description": "Makes you invulnerable during Gold Fever."
-    }
-  ],
-  "EX_AMIMIC3": [
-    {
-      "alwaysHidden": true,
-      "level": 1,
-      "contentGroup": "EXTRA",
-      "hidden": false,
-      "bulletType": "EX_AMIMIC3",
-      "name": "Amimic Omega",
-      "description": "[Gift] Its vigilance grants a selection of temporary shields.",
-      "texture": "tps_lossless_icons",
-      "frameName": "EX_AMIMIC3.png",
-      "collectionFrame": "frameB_bold.png",
-      "unexcludeSelf": true,
-      "isUnlocked": false,
-      "rarity": 20,
-      "isPowerUp": true,
-      "isSpecialOnly": true,
-      "isGift": true,
-      "useLevelDescriptions": true,
-      "sealable": true
-    },
-    {
-      "level": 2,
-      "description": "[Gift] Its vigilance grants a selection of temporary shields."
-    },
-    {
-      "level": 3,
-      "description": "[Gift] Its vigilance grants a selection of temporary shields."
-    }
-  ],
-  "EX_AMIMIC4": [
-    {
-      "level": 1,
-      "contentGroup": "EXTRA",
-      "hidden": false,
-      "bulletType": "EX_AMIMIC4",
-      "name": "Amimic Valkyrie",
-      "description": "[Gift] Its large mouth carries an extra passive weapon slot for you.",
-      "texture": "tps_lossless_icons",
-      "frameName": "EX_AMIMIC4.png",
-      "collectionFrame": "frameB_bold.png",
-      "unexcludeSelf": true,
-      "isUnlocked": false,
-      "rarity": 20,
-      "isPowerUp": true,
-      "isSpecialOnly": true,
-      "isGift": true,
-      "useLevelDescriptions": true,
-      "sealable": true
-    },
-    {
-      "level": 2,
-      "description": "Earn 100 gold coins to gain an extra passive slot."
-    },
-    {
-      "level": 3,
-      "description": "Earn 1000 gold coins to gain an extra passive slot."
-    }
-  ],
-  "EX_AMIMIC5": [
-    {
-      "level": 1,
-      "contentGroup": "EXTRA",
-      "hidden": false,
-      "bulletType": "EX_AMIMIC5",
-      "name": "Amimic Hephaestus",
-      "description": "[Gift]Its passion melts enemies down. Doubles the base damage of Nduja Fritta.",
-      "texture": "tps_lossless_icons",
-      "frameName": "EX_AMIMIC5.png",
-      "collectionFrame": "frameB_bold.png",
-      "unexcludeSelf": true,
-      "isUnlocked": false,
-      "rarity": 20,
-      "isPowerUp": true,
-      "isSpecialOnly": true,
-      "isGift": true,
-      "useLevelDescriptions": true,
-      "sealable": true
-    },
-    {
-      "level": 2,
-      "description": "Doubles the duration of Nduja Fritta."
-    },
-    {
-      "level": 3,
-      "description": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      "isEvolution": true,
+      "evolvesFrom": [
+        "ICELANCE"
+      ],
+      "requires": [
+        "MOVESPEED"
+      ],
+      "requiresMax": [
+        "MOVESPEED"
+      ],
+      "hidden": true,
+      "isUnlocked": true,
+      "poolLimit": 100,
+      "rarity": 1,
+      "interval": 1400,
+      "repeatInterval": 30,
+      "power": 2,
+      "area": 1.1,
+      "speed": 6,
+      "amount": 6,
+      "hitsWalls": false,
+      "critChance": 0.05,
+      "critMul": 2,
+      "freezeChance": 0.05,
+      "price": 5760
     }
   ],
   "SANTAJAVELIN": [
@@ -4366,6 +4332,142 @@
       "price": 3600
     }
   ],
+  "EX_VERGAMENA1": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "sealable": true,
+      "bulletType": "EX_VERGAMENA1",
+      "hitVFX": "Jet",
+      "price": 800,
+      "name": "Vergamena",
+      "description": "Fires projectiles depending on the highest character's base stats between Might, Speed, or Duration.",
+      "tips": "Best with: Duration, Speed.",
+      "texture": "tps_lossless_icons",
+      "frameName": "ex_vergamena1.png",
+      "collectionFrame": "frameB_bold.png",
+      "isUnlocked": false,
+      "hidden": true,
+      "poolLimit":      50,
+      "rarity":         20,
+      "interval":       6000,
+      "repeatInterval": 100,
+      "power":          1,
+      "area":           1,
+      "speed":          1,
+      "amount":         1,
+      "duration":       2000,
+      "hitBoxDelay":    750
+    },
+    {
+      "duration": 500,
+      "interval": -500
+    },
+    {
+      "power": 1,
+      "amount": 1
+    },
+    {
+      "speed":    0.4,
+      "area":     0.15
+    },
+    {
+      "power": 1,
+      "amount": 1
+    },
+    {
+      "duration": 500,
+      "interval": -500
+    },
+    {
+      "power": 1,
+      "amount": 1
+    },
+    {
+      "speed":    0.4,
+      "area":     0.15
+    }
+  ],
+  "EX_VERGAMENA2": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "sealable": true,
+      "bulletType": "EX_VERGAMENA2",
+      "name": "One Disserting Angel",
+      "description": "Evolved Vergamena. Generates absolutely terrifying damaging zones.",
+      "tips": "",
+      "texture": "tps_lossless_icons",
+      "frameName": "ex_vergamena2A.png",
+      "collectionFrame": "frameB_bold.png",
+      "isEvolution": true,
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "poolLimit": 80,
+      "rarity": 1,
+      "interval":       7000,
+      "repeatInterval": 100,
+      "power":          5,
+      "area":           1.3,
+      "speed":          1.8,
+      "amount":         5,
+      "duration":       6000,
+      "hitBoxDelay":    750,
+      "price": 3333
+    }
+  ],
+  "EX_ULTIMA_SLASH": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "bulletType": "EX_ULTIMA_SLASH",
+      "name": "Ultima Slash",
+      "description": ".",
+      "tips": "",
+      "texture": "tps_lossless_icons",
+      "frameName": "Whip.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "poolLimit": 30,
+      "rarity": 0,
+      "interval": 1350,
+      "repeatInterval": 100,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "hitsWalls": false,
+      "critChance": 0.2,
+      "critMul": 2
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5,
+      "area": 0.1
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5,
+      "area": 0.1
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5
+    }
+  ],
   "PHASER": [
     {
       "level": 1,
@@ -4473,7 +4575,7 @@
       "name": "Grant Knife",
       "description": ".",
       "tips": ".",
-      "texture": "UI",
+      "texture": "tps_lossless_icons",
       "frameName": "SkillIcon_1.png",
       "collectionFrame": "frameB_bold.png",
       "evoSynergy": [
@@ -4525,7 +4627,7 @@
       "name": ".",
       "description": ".",
       "tips": ".",
-      "texture": "UI",
+      "texture": "tps_lossless_icons",
       "frameName": "SkillIcon_2.png",
       "collectionFrame": "frameB_bold.png",
       "isEvolution": true,
@@ -4583,6 +4685,152 @@
       "price": 500
     }
   ],
+  "EX_AMIMIC1": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "hidden": false,
+      "bulletType": "EX_AMIMIC1",
+      "name": "Amimic",
+      "description": "[Gift] Friendly treasure chest mimic provides moral support.",
+      "texture": "tps_lossless_icons",
+      "frameName": "EX_AMIMIC1.png",
+      "collectionFrame": "frameB_bold.png",
+      "unexcludeSelf": true,
+      "isUnlocked": false,
+      "rarity": 20,
+      "isPowerUp": true,
+      "isSpecialOnly": false,
+      "isGift": true,
+      "useLevelDescriptions": true,
+      "sealable": true
+    },
+    {
+      "level": 2,
+      "description": "Prevents loss of gold coins from weapon effects and events."
+    },
+    {
+      "level": 3,
+      "description": "Allows exotic Amimics to show up as level up options."
+    }
+  ],
+  "EX_AMIMIC2": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "hidden": false,
+      "bulletType": "EX_AMIMIC2",
+      "name": "Amimic Apollo",
+      "description": "[Gift] Its charm entices enemies, friends, and treasures. Receives a 50% discount at merchants.",
+      "texture": "tps_lossless_icons",
+      "frameName": "EX_AMIMIC2.png",
+      "collectionFrame": "frameB_bold.png",
+      "unexcludeSelf": true,
+      "isUnlocked": false,
+      "rarity": 20,
+      "isPowerUp": true,
+      "isSpecialOnly": true,
+      "isGift": true,
+      "useLevelDescriptions": true,
+      "sealable": true
+    },
+    {
+      "level": 2,
+      "description": "Makes Treasure Chests follow you if you walk away from them."
+    },
+    {
+      "level": 3,
+      "description": "Makes you invulnerable during Gold Fever."
+    }
+  ],
+  "EX_AMIMIC3": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "hidden": false,
+      "bulletType": "EX_AMIMIC3",
+      "name": "Amimic Omega",
+      "description": "[Gift] Its vigilance grants a selection of temporary shields.",
+      "texture": "tps_lossless_icons",
+      "frameName": "EX_AMIMIC3.png",
+      "collectionFrame": "frameB_bold.png",
+      "unexcludeSelf": true,
+      "isUnlocked": false,
+      "rarity": 20,
+      "isPowerUp": true,
+      "isSpecialOnly": true,
+      "isGift": true,
+      "useLevelDescriptions": true,
+      "sealable": true
+    },
+    {
+      "level": 2,
+      "description": "[Gift] Its vigilance grants a selection of temporary shields."
+    },
+    {
+      "level": 3,
+      "description": "[Gift] Its vigilance grants a selection of temporary shields."
+    }
+  ],
+  "EX_AMIMIC4": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "hidden": false,
+      "bulletType": "EX_AMIMIC4",
+      "name": "Amimic Valkyrie",
+      "description": "[Gift] Its large mouth carries an extra passive weapon slot for you.",
+      "texture": "tps_lossless_icons",
+      "frameName": "EX_AMIMIC4.png",
+      "collectionFrame": "frameB_bold.png",
+      "unexcludeSelf": true,
+      "isUnlocked": false,
+      "rarity": 20,
+      "isPowerUp": true,
+      "isSpecialOnly": true,
+      "isGift": true,
+      "useLevelDescriptions": true,
+      "sealable": true
+    },
+    {
+      "level": 2,
+      "description": "Earn 100 gold coins to gain an extra passive slot."
+    },
+    {
+      "level": 3,
+      "description": "Earn 1000 gold coins to gain an extra passive slot."
+    }
+  ],
+  "EX_AMIMIC5": [
+    {
+      "level": 1,
+      "contentGroup": "EXTRA",
+      "hidden": false,
+      "bulletType": "EX_AMIMIC5",
+      "name": "Amimic Hephaestus",
+      "description": "[Gift]Its passion melts enemies down. Doubles the base damage of Nduja Fritta.",
+      "texture": "tps_lossless_icons",
+      "frameName": "EX_AMIMIC5.png",
+      "collectionFrame": "frameB_bold.png",
+      "unexcludeSelf": true,
+      "isUnlocked": false,
+      "rarity": 20,
+      "isPowerUp": true,
+      "isSpecialOnly": true,
+      "isGift": true,
+      "useLevelDescriptions": true,
+      "sealable": true
+    },
+    {
+      "level": 2,
+      "description": "Doubles the duration of Nduja Fritta."
+    },
+    {
+      "level": 3,
+      "description": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+    }
+  ],
+  
   "NDUJA": [
     {
       "level": 1,
@@ -4855,6 +5103,7 @@
       "isUnlocked": false,
       "isSpecialOnly": true,
       "hitVFX": "Prism",
+      "critChance": 0.01,
       "poolLimit": 300,
       "rarity": 0,
       "interval": 5000,
@@ -4864,6 +5113,35 @@
       "speed": 1,
       "amount": 1,
       "duration": 1000,
+      "hitsWalls": false
+    }
+  ],
+  "EX_BOMBAROLO": [
+    {
+      "level": 1,
+      "bulletType": "EX_BOMBAROLO",
+      "name": "Bombarolo",
+      "description": "",
+      "tips": "",
+      "texture": "tps_lossless_icons",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "tags": [
+        "FIRE"
+      ],
+      "hitVFX": "None",
+      "poolLimit": 50,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 50,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
       "hitsWalls": false
     }
   ],

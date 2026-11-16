@@ -3558,7 +3558,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -3572,7 +3572,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -7135,7 +7135,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -7149,7 +7149,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -10712,7 +10712,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -10726,7 +10726,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -14289,7 +14289,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -14303,7 +14303,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -17866,7 +17866,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -17880,7 +17880,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -21443,7 +21443,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -21457,7 +21457,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -25020,7 +25020,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -25034,7 +25034,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -25091,10 +25091,10 @@
     },
     "EXDASH": {
       "charName": {
-        "_value": "Exdash"
+        "_value": "Эксдеш"
       },
       "surname": {
-        "_value": "Exiviiq"
+        "_value": "Эксивик"
       },
       "description": {
         "_value": "Зато удачи хоть отбавляй."
@@ -28353,10 +28353,10 @@
         "_value": null
       },
       "charName": {
-        "_value": "Malice"
+        "_value": "Малиция"
       },
       "surname": {
-        "_value": "Bloodmoon"
+        "_value": "Кроволун"
       },
       "description": {
         "_value": "Получает 0,1 к регенерации каждые 4 уровня. Триггеры «Ответный удар», «Крит. уровень здоровья», «Последний вздох» и «При оживлении»: активирует проклятие крови, действующее по большой области."
@@ -28597,7 +28597,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -28611,7 +28611,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -31930,10 +31930,10 @@
         "_value": null
       },
       "charName": {
-        "_value": "Малиция"
+        "_value": "Malice"
       },
       "surname": {
-        "_value": "Кроволун"
+        "_value": "Bloodmoon"
       },
       "description": {
         "_value": "Her 4 seviyede bir 0.1 İyileşme kazanır. Misilleme, Kritik HP, Son Nefes ve Canlanma Vakti: geniş bir alanda kan büyüsü tetikler."
@@ -32174,7 +32174,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -32188,7 +32188,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -32245,10 +32245,10 @@
     },
     "EXDASH": {
       "charName": {
-        "_value": "Exdash"
+        "_value": "艾克斯达什"
       },
       "surname": {
-        "_value": "Exiviiq"
+        "_value": "艾克西维克"
       },
       "description": {
         "_value": "至少运气好。"
@@ -35751,7 +35751,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -35765,7 +35765,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -35822,10 +35822,10 @@
     },
     "EXDASH": {
       "charName": {
-        "_value": "Exdash"
+        "_value": "エクスダッシュ"
       },
       "surname": {
-        "_value": "Exiviiq"
+        "_value": "エクシヴィーク"
       },
       "description": {
         "_value": "ともあれ, 運は強い。"
@@ -39328,7 +39328,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -39342,7 +39342,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -39399,10 +39399,10 @@
     },
     "EXDASH": {
       "charName": {
-        "_value": "Exdash"
+        "_value": "엑스대시"
       },
       "surname": {
-        "_value": "Exiviiq"
+        "_value": "엑시비크"
       },
       "description": {
         "_value": "어쨌든 운이 좋군요."
@@ -42905,7 +42905,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -42919,7 +42919,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -42976,10 +42976,10 @@
     },
     "EXDASH": {
       "charName": {
-        "_value": "Exdash"
+        "_value": "艾克斯達什"
       },
       "surname": {
-        "_value": "Exiviiq"
+        "_value": "艾克西維克"
       },
       "description": {
         "_value": "至少啊，這傢伙的運氣還挺不錯的。"
@@ -46482,7 +46482,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -46496,7 +46496,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   },
@@ -50059,7 +50059,7 @@
         "_value": "Ladonna"
       },
       "description": {
-        "_value": "Doubles Recovery while invulnerable. Retaliation and Vincible: explodes and loses 2% current health."
+        "_value": "Gains +1% Fever every 3 levels. Starts with Amimic Apollo. Accumulates explosions while invulnerable and releases them every time the clock strikes a minute."
       }
     },
     "EX_SEFIROTTO": {
@@ -50073,7 +50073,7 @@
         "_value": null
       },
       "description": {
-        "_value": "Charge ability affected by Duration: a mighty sword sweeps the battlefield."
+        "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
     }
   }

@@ -4816,10 +4816,10 @@
       "W grze występują jasne, migające światła. W razie wystąpienia zawrotów głowy, zaburzeń widzenia, skurczów oczu lub twarzy, drżenia rąk lub nóg, dezorientacji lub chwilowej utraty świadomości należy natychmiast zaprzestać grania i zasięgnąć porady lekarskiej.\\n\\nJeśli u Ciebie lub kogoś z Twoich krewnych występowały ataki epileptyczne, przed przystąpieniem do gry skonsultuj się z lekarzem.",
       "В игре есть яркие вспышки света! Если вы испытываете головокружение, ухудшение зрения, подергивания глаз или лица, дрожь в руках или ногах, дезориентацию, спутанность или кратковременные потери сознания, пожалуйста, немедленно прекратите играть и обратитесь к врачу.\\n\\nЕсли у вас или у кого-либо из ваших родственников в прошлом были эпилептические припадки, проконсультируйтесь с врачом перед игрой.",
       "Bu oyun parlak yanıp sönen ışıklar içerir. Baş dönmesi, görme bozukluğu, göz veya yüz seğirmesi, kol veya bacaklarda sarsılma veya titreme, oryantasyon bozukluğu, kafa karışıklığı veya anlık bilinç kaybı yaşarsanız lütfen oynamayı hemen bırakın ve bir doktora danışın.\\n\\nSizin veya akrabalarınızdan herhangi birinin nöbet veya epilepsi geçmişi varsa, oynamadan önce bir doktora danışın.",
-      "本游戏包含刺眼的闪光视效。 如果您出现头晕, 视物变形, 头眼抽搐, 手脚震颤, 定向障碍, 意识模糊或短暂失去意识, 请立即停止游戏并及时就诊。 \\n\\n如果您或您的任何亲属有痉挛或癫痫发作的病史, 请在游戏前咨询医生。",
-      "このゲームには明るい点滅光が含まれています。 \\n軽い頭痛, 視界の変化, 目や顔の痙攣, 手足の痙動や震え, \\n方向感覚の喪失, 混乱, 一瞬の意識の喪失などを感じたら, \\n直ちにプレイを中止し, 医師に相談してください。 \\nご本人またはご家族に発作やてんかんの既往症がある場合は, \\nプレイ前に医師にご相談ください。",
+      "本游戏包含刺眼的闪光视效。 如果您出现头晕，视物变形，头眼抽搐，手脚震颤，定向障碍，意识模糊或短暂失去意识，请立即停止游戏并及时就诊。 \\n\\n如果您或您的任何亲属有痉挛或癫痫发作的病史，请在游戏前咨询医生。",
+      "このゲームには明るい点滅光が含まれています。 \\n軽い頭痛、視界の変化、目や顔の痙攣、手足の痙動や震え、\\n方向感覚の喪失、混乱、一瞬の意識の喪失などを感じたら、\\n直ちにプレイを中止し、医師に相談してください。 \\nご本人またはご家族に発作やてんかんの既往症がある場合は、\\nプレイ前に医師にご相談ください。",
       "이 게임에는 밝게 깜박이는 조명이 포함되어 있습니다. 현기증, 시력 변화, 눈이나 얼굴의 경련, 팔이나 다리의 경련 또는 떨림, 방향 감각 상실, 혼란 또는 일시적인 의식 상실을 경험하면 즉시 게임을 중단하고 의사와 상담하십시오.\\n\\n본인이나 친척이 발작이나 간질의 병력이 있는 경우 게임을 하기 전에 의사와 상담하십시오.",
-      "本遊戲包含刺眼的閃光視覺特效。如果你出現頭暈、視力變化、頭眼抽搐、手腳顫抖、迷失方向感、意識模糊或短暫失去意識等症狀，請立即停止遊玩並迅速就醫。\\n\\n如果你或你的任意親屬有痙攣或癲癇發作的病史，請在進行遊戲前先諮詢醫師的建議。",
+      "本遊戲包含刺眼的閃光視覺特效。如果你出現頭暈、視力變化、頭眼抽搐、手腳顫抖、迷失方向感、意識模糊或短暫失去意識等症狀、 請立即停止遊玩並迅速就醫。\\n\\n如果你或你的任意親屬有痙攣或癲癇發作的病史、 請在進行遊戲前先諮詢醫師的建議。",
       "Гра містить яскраві спалахи світла! Якщо відчуваєте запаморочення, погіршення зору, смикання очей або обличчя, тремтіння рук або ніг, дезорієнтацію, сплутаність або короткострокові втрати свідомості негайно зупинить гру й зверніться до лікаря.\\n\\nЯкщо у вас або в когось із родичів у минулому були напади епілепсії, проконсультуйтеся з лікарем перед початком гри."
     ]
   },
@@ -8517,13 +8517,13 @@
     "_value": [
       "Random\\nLevelUp",
       "Sélections du niveau sup\\naléatoires",
-      "Nuovo livello\\casuale",
+      "Nuovo livello\\ncasuale",
       "Zufalls-\\nLevelaufstieg",
       "Subida de nivel\\naleatoria",
       "Nível+\\nAleatório",
       "Losowe\\nzdobywanie poziomów",
       "Случайное\\nповышение ур.",
-      "Rastgele\\nSeviyeAtlama",
+      "Rastgele\\nSeviye Atlama",
       "随机\\n升级",
       "ランダム\\nレベルアップ",
       "랜덤\\n레벨업",
@@ -15273,7 +15273,7 @@
       "Nível+Aleatório",
       "Losowe zdobywanie poziomów",
       "Случайное повышение ур.",
-      "Rastgele SeviyeAtlama",
+      "Rastgele Seviye Atlama",
       "随机 升级",
       "ランダム レベルアップ",
       "랜덤 레벨업",
@@ -16507,19 +16507,19 @@
     "description": {
       "_value": [
         "Puts a cap on Area at 150%.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%.",
+        "Puts a cap on Area at 150%."
       ]
     }
   },
@@ -16543,19 +16543,19 @@
     "description": {
       "_value": [
         "Puts a cap on Move speed and Speed at 150%.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%.",
+        "Puts a cap on Move speed and Speed at 150%."
       ]
     }
   },
@@ -16579,19 +16579,19 @@
     "description": {
       "_value": [
         "Blocks the activation of all weapons but those in the first 4 slots.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots.",
+        "Blocks the activation of all weapons but those in the first 4 slots."
       ]
     }
   },
@@ -16615,200 +16615,922 @@
     "description": {
       "_value": [
         "All bought Power Up bonuses for combat stats are ignored.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored.",
+        "All bought Power Up bonuses for combat stats are ignored."
       ]
     }
   },
   "law_solitaryexplorer": {
     "_value": [
       "SOLITARY EXPLORER LAW",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW",
+      "SOLITARY EXPLORER LAW"
     ],
     "description": {
       "_value": [
         "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       ]
     }
   },
   "law_forebodingascetic": {
     "_value": [
       "FOREBODING ASCETIC LAW",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW",
+      "FOREBODING ASCETIC LAW"
     ],
     "description": {
       "_value": [
         "Puts a cap on Level at 80.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80.",
+        "Puts a cap on Level at 80."
       ]
     }
   },
   "law_huntedwolf": {
     "_value": [
       "HUNTED WOLF LAW",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW",
+      "HUNTED WOLF LAW"
     ],
     "description": {
       "_value": [
         "Light Sources don't spawn.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn.",
+        "Light Sources don't spawn."
       ]
     }
   },
   "law_foreordainedraven": {
     "_value": [
       "FOREORDAINED RAVEN LAW",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW",
+      "FOREORDAINED RAVEN LAW"
     ],
     "description": {
       "_value": [
         "Synergies always appear as level up options.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options.",
+        "Synergies always appear as level up options."
       ]
     }
   },
   "law_steadfastruler": {
     "_value": [
       "STEADFAST RULER LAW",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW",
+      "STEADFAST RULER LAW"
     ],
     "description": {
       "_value": [
         "Cannot gain Golden Eggs.",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs.",
+        "Cannot gain Golden Eggs."
       ]
     }
+  },
+  "law_jollyrabbit": {
+    "_value": [
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW",
+      "JOLLY RABBIT LAW"
+    ]
+  },
+  "law_law_jollyrabbit": {
+    "description": {
+      "_value": [
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy.",
+        "Playing characters are bouncy."
+      ]
+    }
+  },
+  "options_tab_mods": {
+    "_value": [
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods"
+    ]
+  },
+  "mods_workshop_page": {
+    "_value": [
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop",
+      "Vampire Survivors Steam Workshop"
+    ]
+  },
+  "mods_active_items": {
+    "_value": [
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items",
+      "Active Workshop items"
+    ]
+  },
+  "mods_no_items": {
+    "_value": [
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed.",
+      "No Workshop items are subscribed."
+    ]
+  },
+  "mods_upload_desc": {
+    "_value": [
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop"
+    ]
+  },
+  "mods_upload": {
+    "_value": [
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD",
+      "UPLOAD"
+    ]
+  },
+  "mods_upload_title": {
+    "_value": [
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop",
+      "Upload a character to the Workshop"
+    ]
+  },
+  "mods_select_file": {
+    "_value": [
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)",
+      "Select character file (.zip)"
+    ]
+  },
+  "mods_select_preview": {
+    "_value": [
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image",
+      "Select preview image"
+    ]
+  },
+  "mods_no_item_id": {
+    "_value": [
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID",
+      "No workshop ID"
+    ]
+  },
+  "mods_terms": {
+    "_value": [
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the",
+      "By submitting this item, you agree to the"
+    ]
+  },
+  "mods_terms_link": {
+    "_value": [
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service",
+      "workshop terms of service"
+    ]
+  },
+  "mods_instructions": {
+    "_value": [
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions",
+      "Instructions"
+    ]
+  },
+  "mods_instructions_1": {
+    "_value": [
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)",
+      "1) Select the character you want to upload (a .zip made with a character editor)"
+    ]
+  },
+  "mods_instructions_2": {
+    "_value": [
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    ]
+  },
+  "mods_instructions_3": {
+    "_value": [
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    ]
+  },
+  "mods_instructions_4": {
+    "_value": [
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    ]
+  },
+  "mods_instructions_5": {
+    "_value": [
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    ]
+  },
+  "mods_steam_ok": {
+    "_value": [
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!",
+      "Steam initialization OK!"
+    ]
+  },
+  "mods_steam_missing": {
+    "_value": [
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available.",
+      "Steam is not running, so uploading is not available."
+    ]
+  },
+  "mods_no_picker": {
+    "_value": [
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead.",
+      "No file dialog is available here. Type or paste the path instead."
+    ]
+  },
+  "mods_selected": {
+    "_value": [
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected",
+      "Selected"
+    ]
+  },
+  "mods_uploading": {
+    "_value": [
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading",
+      "Uploading"
+    ]
+  },
+  "mods_item_id_title": {
+    "_value": [
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)",
+      "Mod ID (optional)"
+    ]
+  },
+  "mods_status_downloading": {
+    "_value": [
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%",
+      "Downloading {0}%"
+    ]
+  },
+  "mods_status_pending": {
+    "_value": [
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download",
+      "Waiting to download"
+    ]
+  },
+  "mods_status_not_downloaded": {
+    "_value": [
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded",
+      "Not downloaded"
+    ]
+  },
+  "mods_status_update": {
+    "_value": [
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending",
+      "Update pending"
+    ]
+  },
+  "mods_status_not_loaded": {
+    "_value": [
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play",
+      "Downloaded, reload to play"
+    ]
+  },
+  "mods_status_unsubscribed": {
+    "_value": [
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove",
+      "Unsubscribed, reload to remove"
+    ]
+  },
+  "mods_load_new": {
+    "_value": [
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD",
+      "RELOAD"
+    ]
+  },
+  "mods_loading": {
+    "_value": [
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters...",
+      "Reloading the Workshop characters..."
+    ]
+  },
+  "mods_status_unsubscribed_done": {
+    "_value": [
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed",
+      "Unsubscribed"
+    ]
+  },
+  "mods_reload_changes": {
+    "_value": [
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    ]
+  },
+  "mods_unsubscribe_confirm": {
+    "_value": [
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?",
+      "Unsubscribe from this item?"
+    ]
+  },
+  "options_announcer": {
+    "_value": [
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer",
+      "Announcer"
+    ]
+  },
+  "options_announcer_volume": {
+    "_value": [
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume",
+      "Voice volume"
+    ]
+  },
+  "scutusSelector_title": {
+    "_value": [
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector",
+      "Shield Selector"
+    ]
   }
 }

@@ -8219,6 +8219,167 @@
       ]
     }
   ],
+  "EX_TREASURY": [
+    {
+      "order": 1115,
+      "stageName": "Treasury",
+      "description": "",
+      "uiTexture": "UI_StageIcons",
+      "uiFrame": "stage_lycaeum.png",
+      "texture": "UI",
+      "frameName": "stage_lycaeum_icon.png",
+      "frameNameUnlock": "stage_lycaeum_icon.png",
+      "bestiaryBG": "background_water.png",
+      "stageNumber": "Bonus",
+      "unlocked": false,
+      "hidden": true,
+      "alwaysHidden": true,
+      "allowVisualInversion": false,
+      "tips": "",
+      "relics": [],
+      "yellowRelics": [],
+      "BGM": "BGM_Spoopy2",
+      "sideBBGM": "BGM_Spoopy2",
+      "validForCharcaterData": false,
+      "hasLights": true,
+      "hasCharacterSpotlight": true,
+      "characterSpotlightInnerRadius": 1,
+      "characterSpotlightOuterRadius": 2,
+      "preload": {
+        "textures": [
+          "backgroundW",
+          "backgroundLycaeum"
+        ]
+      },
+      "mods": {
+        "TimeLimit": 300,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 1,
+        "EnemySpeed": 1,
+        "ProjectileSpeed": 1,
+        "GoldMultiplier": 10,
+        "EnemyHealthMultiplier": 1,
+        "LuckBonus": 0,
+        "XPBonus": 1
+      },
+      "hyper": {
+        "unlocked": true,
+        "TimeLimit": 300,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed":  1.0,
+        "EnemySpeed":     1.0,
+        "ProjectileSpeed": 0.15,
+        "GoldMultiplier": 0.5,
+        "LuckBonus": 0.1,
+        "XPBonus": 0,
+        "EnemyHealthMultiplier": 0,
+        "StartingSpawns": 20
+      },
+      "inverse": {
+        "tint": 6272755,
+        "GoldMultiplier": 2,
+        "EnemyHealthMultiplier": 2,
+        "LuckBonus": 0.2,
+        "TimeMods": {
+          "start": 0,
+          "hpPerMinute": 0.05,
+          "speedPerMinute": 0.005
+        }
+      },
+      "poolsMapping": [
+        {
+          "key": 0,
+          "type": "MOON_ANFORA2",
+          "pool": null
+        },
+        {
+          "key": 1,
+          "type": "MOON_ANFORA2",
+          "pool": null
+        }
+      ],
+      "LootTable": [
+        "COIN",
+        "COINBAG1",
+        "COINBAGMAX"
+      ],
+      "pizzaIntervalInMilliSeconds": 1000,
+      "background": {
+        "texture": ""
+      },
+      "dayNight": false,
+      "startingSpawns": 50,
+      "minute": 0,
+      "destructibleType": "BRAZIER2",
+      "spawnType": "MAPPED",
+      "destructibleFreq": 2000,
+      "destructibleChance": 80,
+      "destructibleChanceMax": 90,
+      "maxDestructibles": 16,
+      "BGTextureName": "bg_null",
+      "tilemapTiledJSON": {
+        "name": "",
+        "path": ""
+      },
+      "tilemapTiledIMG": {
+        "name": "",
+        "path": ""
+      },
+      "tilemapPos": {
+        "x": 0,
+        "y": 0
+      },
+      "tileset": {
+        "setKey": "ForestTexturePacked",
+        "setPath": "assets/tilesets/ForestTexturePacked.png",
+        "mapKey": "Forest",
+        "mapPath": "assets/tilesets/Forest.json",
+        "isTiling": false
+      },
+      "minimum": 300,
+      "frequency": 1000,
+      "enemies": [
+        "MOON_ANFORA2"
+      ],
+      "bosses": []
+    },
+    {
+      "minute": 1,
+      "minimum": 300,
+      "frequency": 1000,
+      "enemies": [
+        "MOON_ANFORA2"
+      ],
+      "bosses": []
+    },
+    {
+      "minute": 2,
+      "minimum": 300,
+      "frequency": 1000,
+      "enemies": [
+        "MOON_ANFORA2"
+      ],
+      "bosses": []
+    },
+    {
+      "minute": 3,
+      "minimum": 300,
+      "frequency": 1000,
+      "enemies": [
+        "MOON_ANFORA2"
+      ],
+      "bosses": []
+    },
+    {
+      "minute": 4,
+      "minimum": 300,
+      "frequency": 1000,
+      "enemies": [
+        "MOON_ANFORA2"
+      ],
+      "bosses": []
+    }
+  ],
   "COOP": [
     {
       "order": 1120,
@@ -8932,14 +9093,17 @@
       "uiFrame": "stage_scutum_l.png",
       "texture": "UI",
       "frameName": "stage_scutum.png",
-      "bestiaryBG": "background_forest.png",
+      "bestiaryBG": "background_scutum.png",
       "stageNumber": "Bonus",
       "allowVisualInversion": false,
       "hasLights": true,
       "BGM": "BGM_Biggus",
       "sideBBGM": "BGM_Biggus",
       "tips": "",
+      "batDragonType" : "EX_BOSS_BATDRAGON_3",
       "relics": [
+        "RELIC_MAP_BD",
+        "RELIC_MPSHOUT",
         "RELIC_ANTIPYRETIC"
       ],
       "yellowRelics": [],
@@ -8987,7 +9151,8 @@
         "mapPath": "assets/tilesets/BiggusDiccus.json",
         "isTiling": true,
         "isTilingHorizontal": true,
-        "detailsTexture": "MapBiggusDiscus.png"
+        "detailsTexture": "MapBiggusDiscus.png",
+        "mapRelic": "RELIC_MAP_BD"
       },
       "preload": {
         "textures": [
@@ -9179,7 +9344,7 @@
           "moreY": "EX_SHADEYELLOW"
         }
       ],
-      "arcanaHolder": "EX_BOSS_ARCHON3",
+      "arcanaHolder": "EX_BOSS_ARCHON6",
       "arcanaTreasure": {
         "chances": [
           0,
@@ -9308,7 +9473,7 @@
           "moreZ": 0.9
         }
       ],
-      "arcanaHolder": "EX_BOSS_ARCHON3",
+      "arcanaHolder": "EX_BOSS_ARCHON6",
       "arcanaTreasure": {
         "chances": [
           0,
@@ -9376,7 +9541,7 @@
         }
       ],
       "bosses": [
-        "EX_BOSS_ARCHON3"
+        "EX_BOSS_ARCHON6"
       ],
       "treasure": {
         "chances": [
@@ -9403,7 +9568,7 @@
         "EX_SCUTUM_ARMOR1"
       ],
       "bosses": [
-        "EX_BOSS_ARCHON3"
+        "EX_BOSS_ARCHON6"
       ],
       "treasure": {
         "chances": [
@@ -9431,7 +9596,7 @@
         "EX_SCUTUM_SKELETON2"
       ],
       "bosses": [
-        "EX_BOSS_ARCHON3"
+        "EX_BOSS_ARCHON6"
       ],
       "treasure": {
         "chances": [
@@ -9513,7 +9678,7 @@
         "EX_SCUTUM_ARMOR2"
       ],
       "bosses": [
-        "EX_BOSS_ARCHON3"
+        "EX_BOSS_ARCHON6"
       ],
       "treasure": {
         "chances": [

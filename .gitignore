@@ -14,4 +14,6 @@ test*
 
 /Audio
 /Config
-/Images
+/Images/*
+
+!Images/VS_Logo.png

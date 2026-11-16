@@ -10004,7 +10004,7 @@
   "DefeatBatDragons": {
     "description": {
       "_value": [
-        "Defeat 1 Bat Dragon.",
+        "Defeat the Bat Dragon in Mad Forest.",
         "Éliminez 1 Dragon-souris.",
         "Sconfiggi un Drago pipistrello.",
         "Besiege 1 Drachula.",
@@ -10838,6 +10838,106 @@
         "Find an Amimic in Biggus Discus.",
         "Find an Amimic in Biggus Discus.",
         "Find an Amimic in Biggus Discus."
+      ]
+    }
+  },
+  "Defeat1000SelfDestructEnemies": {
+    "description": {
+      "_value": [
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies.",
+        "Defeat 1999 self-destructing enemies."
+      ]
+    }
+  },
+  "EvolveGarneton": {
+    "description": {
+      "_value": [
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton.",
+        "Evolve the Garneton."
+      ]
+    }
+  },
+  "Dark_07Cannone": {
+    "description": {
+      "_value": [
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions.",
+        "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      ]
+    }
+  },
+  "FindMPShout": {
+    "description": {
+      "_value": [
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus",
+        "Find the MP Shout in Biggus Discus"
+      ]
+    }
+  },
+  "Dark_15Challenge": {
+    "description": {
+      "_value": [
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.",
+        "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       ]
     }
   }

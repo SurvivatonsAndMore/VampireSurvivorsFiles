@@ -19868,7 +19868,7 @@
           "followerCharacter": "GENEVIEVE",
           "followerAI": "StandsStill",
           "isFollowerInvinceable": false,
-          "countsAsMainCharacterForRevivals": true,
+          "countsAsMainCharacterForRevivals": false,
           "manualLevelUps": true,
           "trackedByCamera": true,
           "shouldFollowMainPlayer": true,
@@ -19918,7 +19918,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 1,
         "LuckBonus": 0,
-        "XPBonus": 1.25
+        "XPBonus": 1.5
       },
       "hyper": {
         "unlocked": true,
@@ -20081,7 +20081,7 @@
       "spawnType": "MAPPED",
       "startingSpawns": 10,
       "minute": 0,
-      "minimum": 100,
+      "minimum": 30,
       "frequency": 1000,
       "enemies": [
         "FS_CAULD"
@@ -20102,7 +20102,7 @@
         "chances": [
           0,
           0,
-          30
+          100
         ],
         "level": 1,
         "prizeTypes": [
@@ -20264,7 +20264,25 @@
           "moreY": "HEMO2",
           "delay": 30000
         }
-      ]
+      ],
+      "bosses": [
+        "FS_ROTGHOUL"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          0,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
     },
     {
       "minute": 7,
@@ -20333,7 +20351,25 @@
           "moreY": "FS_SNAK4",
           "delay": 30000
         }
-      ]
+      ],
+      "bosses": [
+        "FS_ROTGHOUL"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          0,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
     },
     {
       "minute": 9,
@@ -20521,7 +20557,25 @@
         "FS_MEATY",
         "FS_ROTGHOUL",
         "REDUSA"
-      ]
+      ],
+      "bosses": [
+        "FS_ROTGHOUL"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          0,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
     },
     {
       "minute": 14,
@@ -20530,7 +20584,25 @@
       "enemies": [
         "FS_MEATY",
         "FS_HORCAULD"
-      ]
+      ],
+      "bosses": [
+        "FS_ROTGHOUL"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          0,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
     },
     {
       "minute": 15,
@@ -20584,7 +20656,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 0.8,
         "LuckBonus": 0,
-        "XPBonus": 1.2
+        "XPBonus": 1.25
       },
       "hyper": {
         "unlocked": true,
@@ -21088,7 +21160,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 1,
         "LuckBonus": 0,
-        "XPBonus": 1
+        "XPBonus": 1.25
       },
       "hyper": {
         "unlocked": true,
@@ -22162,7 +22234,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 1,
         "LuckBonus": 0,
-        "XPBonus": 1
+        "XPBonus": 1.25
       },
       "hyper": {
         "unlocked": true,
@@ -23167,7 +23239,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 1,
         "LuckBonus": 0,
-        "XPBonus": 1,
+        "XPBonus": 1.25,
         "TimeMods": {
           "start": 0,
           "hpPerMinute": 0.1,
@@ -24251,7 +24323,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 1,
         "LuckBonus": 0,
-        "XPBonus": 1
+        "XPBonus": 1.25
       },
       "hyper": {
         "unlocked": true,
@@ -25321,7 +25393,7 @@
         "GoldMultiplier": 1.5,
         "EnemyHealthMultiplier": 1,
         "LuckBonus": 0,
-        "XPBonus": 1
+        "XPBonus": 1.25
       },
       "hyper": {
         "unlocked": true,

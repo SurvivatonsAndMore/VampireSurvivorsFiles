@@ -3378,6 +3378,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "fr": {
@@ -6758,6 +6798,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   },
@@ -10140,6 +10220,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "de": {
@@ -13520,6 +13640,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   },
@@ -16902,6 +17062,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "pt-BR": {
@@ -20282,6 +20482,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   },
@@ -23664,6 +23904,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "ru": {
@@ -27044,6 +27324,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   },
@@ -30426,6 +30746,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "zh-CN": {
@@ -33806,6 +34166,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   },
@@ -37188,6 +37588,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "ko": {
@@ -40568,6 +41008,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   },
@@ -43950,6 +44430,46 @@
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
       }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
     }
   },
   "uk": {
@@ -47330,6 +47850,46 @@
       },
       "bDefeatedAt": {
         "_value": "Defeated at %0 Hax Health."
+      }
+    },
+    "EX_GORGONZOLA": {
+      "bName": {
+        "_value": "Gorgonzola"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_KRABBIT": {
+      "bName": {
+        "_value": "Killed Killer Rabbit"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_ARMLESS": {
+      "bName": {
+        "_value": "Barely Scratched Black Knight"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SHADEYELLOW": {
+      "bName": {
+        "_value": "Sig.ra Giallo"
+      },
+      "bDesc": {
+        "_value": "..."
+      }
+    },
+    "EX_SKELEBEAN_O": {
+      "bName": {
+        "_value": "Skelebean"
+      },
+      "bDesc": {
+        "_value": "..."
       }
     }
   }

@@ -2863,6 +2863,19 @@
       }
     ]
   },
+  "FindMPShout": {
+    "contentGroup": "EXTRA",
+    "description": "Find the MP Shout in Biggus Discus.",
+    "relicToUnlock": "RELIC_MPSHOUT",
+    "UnlockConditions": [
+      {
+        "AchievementUnlockType": "FindItems",
+        "RequiredItems": [
+          "RELIC_MPSHOUT"
+        ]
+      }
+    ]
+  },
   "FindChaosMalachite": {
     "contentGroup": "EXTRA",
     "description": "Find the Chaos Malachite at minute 18:00 in Bat Country.",
@@ -3673,7 +3686,7 @@
   },
   "DefeatBatDragons": {
     "contentGroup": "EXTRA",
-    "description": "Defeat A Bat Dragon.",
+    "description": "Defeat the Bat Dragon of Mad Forest.",
     "weaponToUnlock": "EX_FLIK1",
     "requiresItem": "RELIC_GREENEYES",
     "PlatformsData": [
@@ -3695,6 +3708,11 @@
         "Data": "0249"
       }
     ]
+  },
+  "Defeat1000SelfDestructEnemies": {
+    "contentGroup": "EXTRA",
+    "description": "Defeat 1999 self-destructing enemies.",
+    "weaponToUnlock": "EX_CANNON1"
   },
   "Unlock3Hypers": {
     "description": "Unlock Hyper mode for any normal stage.",
@@ -5369,6 +5387,19 @@
       }
     ]
   },
+  "EvolveGarneton": {
+    "contentGroup": "EXTRA",
+    "description": "Evolve Garneton.",
+    "characterToUnlock": "CANNONE",
+    "UnlockConditions": [
+      {
+        "AchievementUnlockType": "FindWeapons",
+        "RequiredWeapons": [
+          "EX_CANNON2"
+        ]
+      }
+    ]
+  },
   "EvolveUnearthlyBolt": {
     "contentGroup": "EXTRA",
     "description": "Evolve Unearthly Bolt.",
@@ -6423,6 +6454,13 @@
       }
     ]
   },
+  "Dark_07Cannone": {
+    "contentGroup": "EXTRA",
+    "description": "Deal 1,000,000 total damage with Cannone Ladonna's invulnerability explosions.",
+    "arcanaToUnlock": "29",
+    "requiresChar": "CANNONE",
+    "requiresItem": "RELIC_DARKASSO"
+  },
   "Dark_08ParaKooleo": {
     "contentGroup": "EXTRA",
     "description": "Trigger a Lavatrix Machina with Para Kooleo. ",
@@ -6523,6 +6561,12 @@
     "description": "Remain invulnerable for 30 seconds with Amberborne.",
     "arcanaToUnlock": "36",
     "requiresChar": "AMBERBORNE",
+    "requiresItem": "RELIC_DARKASSO"
+  },
+  "Dark_15Challenge": {
+    "contentGroup": "EXTRA",
+    "description": "Accumulate 1,000,000 coins in a single Treasury run.",
+    "arcanaToUnlock": "37",
     "requiresItem": "RELIC_DARKASSO"
   },
   "Dark_18Challenge": {

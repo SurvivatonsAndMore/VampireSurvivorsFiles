@@ -3712,7 +3712,7 @@
       "_value": {
         "en": "Best with: Cooldown, Duration.",
         "fr": "Efficace avec : recharge, durée.",
-        "it": "Best with: Cooldown, Duration.",
+        "it": "Ideale con: Tempo di ricarica, Durata.",
         "de": "Am besten mit: Abklingzeit, Dauer.",
         "es": "Mejor con: recarga, duración.",
         "pt-BR": "Melhor com: Recarga, Duração.",
@@ -3936,7 +3936,7 @@
       "_value": {
         "en": "Ignores: Speed, Duration.",
         "fr": "Ignore : vitesse, durée.",
-        "it": "Ignores: Speed, Duration.",
+        "it": "Ignora: Velocità, Durata.",
         "de": "Ignoriert: Tempo, Dauer.",
         "es": "Ignora: velocidad, duración.",
         "pt-BR": "Ignora: Velocidade, Duração.",
@@ -4066,7 +4066,7 @@
       "_value": {
         "en": "Best with: Luck.",
         "fr": "Efficace avec : chance.",
-        "it": "Best with: Luck.",
+        "it": "Ideale con: Fortuna.",
         "de": "Am besten mit: Glück.",
         "es": "Mejor con: suerte.",
         "pt-BR": "Melhor com: Sorte.",
@@ -4127,7 +4127,7 @@
         "es": "Emite conos de llamas.",
         "pt-BR": "Emite cones de chamas.",
         "pl": "Emituje stożki płomieni.",
-        "ru": "Выпускает конусы пламени.",
+        "ru": "Выделяет конусы пламени.",
         "tr": "Alev konileri yayar.",
         "zh-CN": "喷出锥形火焰。",
         "ja": "円錐状の炎を放出する。",
@@ -27516,6 +27516,118 @@
         "ko": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
         "zh-TW": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
         "uk": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    }
+  },
+  "EX_BOMBAROLO": {
+    "name": {
+      "_value": {
+        "en": "Bombarolo",
+        "fr": "Bombarolo",
+        "it": "Bombarolo",
+        "de": "Bombarolo",
+        "es": "Bombarolo",
+        "pt-BR": "Bombarolo",
+        "pl": "Bombarolo",
+        "ru": "Bombarolo",
+        "tr": "Bombarolo",
+        "zh-CN": "Bombarolo",
+        "ja": "Bombarolo",
+        "ko": "Bombarolo",
+        "zh-TW": "Bombarolo",
+        "uk": "Bombarolo"
+      }
+    },
+    "tips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    },
+    "description": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
+  },
+  "D15_COINCANNON": {
+    "name": {
+      "_value": {
+        "en": "Everything to lose",
+        "fr": "Everything to lose",
+        "it": "Everything to lose",
+        "de": "Everything to lose",
+        "es": "Everything to lose",
+        "pt-BR": "Everything to lose",
+        "pl": "Everything to lose",
+        "ru": "Everything to lose",
+        "tr": "Everything to lose",
+        "zh-CN": "Everything to lose",
+        "ja": "Everything to lose",
+        "ko": "Everything to lose",
+        "zh-TW": "Everything to lose",
+        "uk": "Everything to lose"
+      }
+    },
+    "tips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    },
+    "description": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
       }
     }
   }

@@ -3816,20 +3816,1540 @@
     },
     "description": {
       "_value": [
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter."
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run."
+      ]
+    }
+  },
+  "1109": {
+    "description": {
+      "_value": [
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level.",
+        "Gains +0.01HP/s Recovery every level."
+      ]
+    }
+  },
+  "1110": {
+    "description": {
+      "_value": [
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level.",
+        "Gains +1% Curse every level."
+      ]
+    }
+  },
+  "1111": {
+    "description": {
+      "_value": [
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level.",
+        "Gains +1% Luck every level."
+      ]
+    }
+  },
+  "1112": {
+    "description": {
+      "_value": [
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level.",
+        "Gains +1% Greed every level."
+      ]
+    }
+  },
+  "1113": {
+    "description": {
+      "_value": [
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level.",
+        "Gains +0.1% Revivals every level."
+      ]
+    }
+  },
+  "1204": {
+    "description": {
+      "_value": [
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up.",
+        "Gains +5% Might when Skipping a Level Up."
+      ]
+    }
+  },
+  "1205": {
+    "description": {
+      "_value": [
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up.",
+        "Gains +5% Area when Skipping a Level Up."
+      ]
+    }
+  },
+  "1206": {
+    "description": {
+      "_value": [
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "Gains +5% Projectile Speed when Skipping a Level Up."
+      ]
+    }
+  },
+  "1207": {
+    "description": {
+      "_value": [
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up.",
+        "Gains +5% Duration when Skipping a Level Up."
+      ]
+    }
+  },
+  "1208": {
+    "description": {
+      "_value": [
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up.",
+        "Gains +5% Growth when Skipping a Level Up."
+      ]
+    }
+  },
+  "1209": {
+    "description": {
+      "_value": [
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up.",
+        "Gains +5% Luck when Skipping a Level Up."
+      ]
+    }
+  },
+  "1210": {
+    "description": {
+      "_value": [
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up.",
+        "Gains +5% Greed when Skipping a Level Up."
+      ]
+    }
+  },
+  "1211": {
+    "description": {
+      "_value": [
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up.",
+        "Gains +5% Curse when Skipping a Level Up."
+      ]
+    }
+  },
+  "3004": {
+    "description": {
+      "_value": [
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage.",
+        "Fires all weapons when taking damage."
+      ]
+    }
+  },
+  "3005": {
+    "description": {
+      "_value": [
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage.",
+        "Retaliates with a Fire Nova when taking damage."
+      ]
+    }
+  },
+  "3006": {
+    "description": {
+      "_value": [
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage.",
+        "Retaliates with an Ice Nova when taking damage."
+      ]
+    }
+  },
+  "3007": {
+    "description": {
+      "_value": [
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage.",
+        "Retaliates with a Fear Nova when taking damage."
+      ]
+    }
+  },
+  "4005": {
+    "description": {
+      "_value": [
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery.",
+        "The character is bouncy and slippery."
+      ]
+    }
+  },
+  "4006": {
+    "description": {
+      "_value": [
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn.",
+        "Light sources have a 2% chance to drop Corn."
+      ]
+    }
+  },
+  "4007": {
+    "description": {
+      "_value": [
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn.",
+        "Defeated enemies have a 0.2% chance to drop Corn."
+      ]
+    }
+  },
+  "4008": {
+    "description": {
+      "_value": [
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "While injured XP Crystals heal for 20% of their value instead of granting XP."
+      ]
+    }
+  },
+  "4009": {
+    "description": {
+      "_value": [
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food.",
+        "You cannot recover HP from food."
+      ]
+    }
+  },
+  "4010": {
+    "description": {
+      "_value": [
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+      ]
+    }
+  },
+  "4011": {
+    "description": {
+      "_value": [
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it.",
+        "Gold is not lost except when you spend it."
+      ]
+    }
+  },
+  "4012": {
+    "description": {
+      "_value": [
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices.",
+        "Exotic Amimics can appear as level-up choices."
+      ]
+    }
+  },
+  "4013": {
+    "description": {
+      "_value": [
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved.",
+        "Merchant prices are halved."
+      ]
+    }
+  },
+  "4014": {
+    "description": {
+      "_value": [
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you.",
+        "Treasure Chests follow behind you."
+      ]
+    }
+  },
+  "4015": {
+    "description": {
+      "_value": [
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield.",
+        "Lets you choose a temporary shield."
+      ]
+    }
+  },
+  "4016": {
+    "description": {
+      "_value": [
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long.",
+        "Nduja Fritta lasts twice as long."
+      ]
+    }
+  },
+  "4017": {
+    "description": {
+      "_value": [
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles."
+      ]
+    }
+  },
+  "4018": {
+    "description": {
+      "_value": [
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies."
+      ]
+    }
+  },
+  "4019": {
+    "description": {
+      "_value": [
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down."
+      ]
+    }
+  },
+  "4020": {
+    "description": {
+      "_value": [
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      ]
+    }
+  },
+  "4021": {
+    "description": {
+      "_value": [
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage."
+      ]
+    }
+  },
+  "4022": {
+    "description": {
+      "_value": [
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it.",
+        "Touching a destructible destroys it."
+      ]
+    }
+  },
+  "4023": {
+    "description": {
+      "_value": [
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals.",
+        "Amount increases by your current Revivals."
+      ]
+    }
+  },
+  "4024": {
+    "description": {
+      "_value": [
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval.",
+        "All weapons fire an extra time at a fixed interval."
+      ]
+    }
+  },
+  "4025": {
+    "description": {
+      "_value": [
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage.",
+        "Nduja Fritta deals double damage."
+      ]
+    }
+  },
+  "4026": {
+    "description": {
+      "_value": [
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls.",
+        "You can walk through walls."
+      ]
+    }
+  },
+  "6003": {
+    "description": {
+      "_value": [
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto.",
+        "HP-Critical: triggers a Sorbetto."
+      ]
+    }
+  },
+  "6004": {
+    "description": {
+      "_value": [
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary.",
+        "HP-Critical: triggers a Rosary."
+      ]
+    }
+  },
+  "6005": {
+    "description": {
+      "_value": [
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion.",
+        "HP-Critical: triggers an Orologion."
+      ]
+    }
+  },
+  "6006": {
+    "description": {
+      "_value": [
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum.",
+        "HP-Critical: triggers a Vacuum."
+      ]
+    }
+  },
+  "7004": {
+    "description": {
+      "_value": [
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta.",
+        "Overheal +16: triggers an Nduja Fritta."
+      ]
+    }
+  },
+  "7005": {
+    "description": {
+      "_value": [
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon.",
+        "Overheal +16: fires your starting weapon."
+      ]
+    }
+  },
+  "7006": {
+    "description": {
+      "_value": [
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus.",
+        "Overheal +32: gains a random stat bonus."
+      ]
+    }
+  },
+  "7007": {
+    "description": {
+      "_value": [
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal."
+      ]
+    }
+  },
+  "9000": {
+    "description": {
+      "_value": [
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior.",
+        "Summons an invulnerable Brownie follower with a random behavior."
+      ]
+    }
+  },
+  "10000": {
+    "description": {
+      "_value": [
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary.",
+        "LastBreath: triggers a Rosary."
+      ]
+    }
+  },
+  "11000": {
+    "description": {
+      "_value": [
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "When invulnerability ends there is a Luck-based chance to repeat it for the same duration."
+      ]
+    }
+  },
+  "11001": {
+    "description": {
+      "_value": [
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "When invulnerability ends you lose 2% of current HP and explode for that damage."
+      ]
+    }
+  },
+  "12000": {
+    "description": {
+      "_value": [
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "Touching enemies has a Luck-based chance to turn them bouncy."
+      ]
+    }
+  },
+  "12001": {
+    "description": {
+      "_value": [
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold.",
+        "While invulnerable enemies you touch turn into gold."
+      ]
+    }
+  },
+  "13000": {
+    "description": {
+      "_value": [
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "Each gold gained has a 2% chance per gold to buy +1% Might."
+      ]
+    }
+  },
+  "14000": {
+    "description": {
+      "_value": [
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled.",
+        "While invulnerable Recovery is doubled."
+      ]
+    }
+  },
+  "15000": {
+    "description": {
+      "_value": [
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever.",
+        "Grants invulnerability during Gold Fever."
+      ]
+    }
+  },
+  "16000": {
+    "description": {
+      "_value": [
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      ]
+    }
+  },
+  "17000": {
+    "description": {
+      "_value": [
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up.",
+        "Every 5 levels each hidden weapon gains 1 level up."
+      ]
+    }
+  },
+  "18000": {
+    "description": {
+      "_value": [
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions.",
+        "Any Treasure Chest might allow Evolutions."
+      ]
+    }
+  },
+  "19000": {
+    "description": {
+      "_value": [
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves.",
+        "Triggers a Rosary when a weapon evolves."
+      ]
+    }
+  },
+  "19001": {
+    "description": {
+      "_value": [
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves.",
+        "Triggers a Vacuum when a weapon evolves."
+      ]
+    }
+  },
+  "20000": {
+    "description": {
+      "_value": [
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon.",
+        "Picking up gold triggers the main weapon."
+      ]
+    }
+  },
+  "23000": {
+    "description": {
+      "_value": [
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary.",
+        "OnMinute: triggers a Rosary."
+      ]
+    }
+  },
+  "23001": {
+    "description": {
+      "_value": [
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum.",
+        "OnMinute: triggers a Vacuum."
+      ]
+    }
+  },
+  "23002": {
+    "description": {
+      "_value": [
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta.",
+        "OnMinute: triggers a Nduja Fritta."
+      ]
+    }
+  },
+  "23003": {
+    "description": {
+      "_value": [
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto.",
+        "OnMinute: triggers a Sorbetto."
+      ]
+    }
+  },
+  "23004": {
+    "description": {
+      "_value": [
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion.",
+        "OnMinute: triggers an Orologion."
+      ]
+    }
+  },
+  "100000": {
+    "description": {
+      "_value": [
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP.",
+        "Overheal: gains +0.2 MaxHP."
+      ]
+    }
+  },
+  "100001": {
+    "description": {
+      "_value": [
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills."
+      ]
+    }
+  },
+  "100003": {
+    "description": {
+      "_value": [
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might.",
+        "Overheal +16: Blood-type weapons gain +5% Might."
+      ]
+    }
+  },
+  "101000": {
+    "description": {
+      "_value": [
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex."
+      ]
+    }
+  },
+  "101001": {
+    "description": {
+      "_value": [
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus.",
+        "Retaliation: gains a temporary stat bonus."
+      ]
+    }
+  },
+  "101002": {
+    "description": {
+      "_value": [
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%.",
+        "LastBreath: MaxHP increases by 50%."
+      ]
+    }
+  },
+  "101003": {
+    "description": {
+      "_value": [
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival.",
+        "HP-Critical: gains +1 Revival."
+      ]
+    }
+  },
+  "101004": {
+    "description": {
+      "_value": [
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons."
+      ]
+    }
+  },
+  "1114": {
+    "description": {
+      "_value": [
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels.",
+        "Gains +1% Fever every 3 levels."
       ]
     }
   }

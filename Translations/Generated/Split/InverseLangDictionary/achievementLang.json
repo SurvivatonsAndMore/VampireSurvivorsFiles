@@ -2444,7 +2444,7 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "Defeat 1 Bat Dragon."
+        "_value": "Defeat the Bat Dragon in Mad Forest."
       }
     },
     "EvolveUnearthlyBolt": {
@@ -2650,6 +2650,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   },
@@ -5305,6 +5330,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "it": {
@@ -7958,6 +8008,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   },
@@ -10613,6 +10688,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "es": {
@@ -13266,6 +13366,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   },
@@ -15921,6 +16046,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "pl": {
@@ -18574,6 +18724,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   },
@@ -21229,6 +21404,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "tr": {
@@ -23882,6 +24082,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   },
@@ -26537,6 +26762,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "ja": {
@@ -29190,6 +29440,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   },
@@ -31845,6 +32120,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "zh-TW": {
@@ -34499,6 +34799,31 @@
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
       }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
+      }
     }
   },
   "uk": {
@@ -37152,6 +37477,31 @@
     "FindAmimic": {
       "description": {
         "_value": "Find an Amimic in Biggus Discus."
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "Defeat 1999 self-destructing enemies."
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "Evolve the Garneton."
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "Deal a total of 1000000 damage with Cannone Ladonna's timed explosions."
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "Find the MP Shout in Biggus Discus"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "Find the Haunted Treasury in Moongolow and raid it for 1000000 coins."
       }
     }
   }

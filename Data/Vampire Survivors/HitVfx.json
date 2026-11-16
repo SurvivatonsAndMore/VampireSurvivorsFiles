@@ -131,5 +131,12 @@
     "hitFrameName": "Burst4.png",
     "impactFrameName": "blurredSharpStar.png",
     "duration": 60
+  },
+  "21": {
+    "isTintFill": true,
+    "targetTint": 526344,
+    "hitFrameName": "blurredSharpStarRed.png",
+    "impactFrameName": "_OPBubble.png",
+    "duration": 60
   }
 }

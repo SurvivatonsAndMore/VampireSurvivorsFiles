@@ -343,7 +343,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -351,7 +351,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -710,7 +710,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -718,7 +718,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -1077,7 +1077,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -1085,7 +1085,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -1444,7 +1444,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -1452,7 +1452,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -1811,7 +1811,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -1819,7 +1819,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -2178,7 +2178,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -2186,7 +2186,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -2545,7 +2545,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -2553,7 +2553,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -2912,7 +2912,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -2920,7 +2920,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -3279,7 +3279,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -3287,7 +3287,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -3646,7 +3646,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -3654,7 +3654,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -4013,7 +4013,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -4021,7 +4021,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -4380,7 +4380,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -4388,7 +4388,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -4747,7 +4747,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -4755,7 +4755,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"
@@ -5114,7 +5114,7 @@
     },
     "SKIN_SEFIROTTO_CHESTELLO": {
       "description": {
-        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "_value": "Might consume coin pickups to gain Might."
       },
       "charName": {
         "_value": "Chest'Ello"
@@ -5122,7 +5122,7 @@
     },
     "SKIN_SEFIROTTO_CICOVA": {
       "description": {
-        "_value": "Might consume coin pickups to gain Might."
+        "_value": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       },
       "charName": {
         "_value": "Cicova"

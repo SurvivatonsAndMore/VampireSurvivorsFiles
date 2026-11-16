@@ -3816,20 +3816,1540 @@
     },
     "description": {
       "_value": {
-        "en": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "fr": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "it": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "de": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "es": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "pt-BR": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "pl": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "ru": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "tr": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "zh-CN": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "ja": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "ko": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "zh-TW": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter.",
-        "uk": "Halts gold gain. Gold coins turn into exploding projectiles. Killing enemies also increases the gold counter."
+        "en": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "fr": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "it": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "de": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "es": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "pt-BR": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "pl": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "ru": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "tr": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "zh-CN": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "ja": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "ko": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "zh-TW": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run.",
+        "uk": "Halts gold gain. Gold coins turn into exploding projectiles that can deal gold count-based critical damage. Killing enemies increases the gold multiplier at the end of the run."
+      }
+    }
+  },
+  "1109": {
+    "description": {
+      "_value": {
+        "en": "Gains +0.01HP/s Recovery every level.",
+        "fr": "Gains +0.01HP/s Recovery every level.",
+        "it": "Gains +0.01HP/s Recovery every level.",
+        "de": "Gains +0.01HP/s Recovery every level.",
+        "es": "Gains +0.01HP/s Recovery every level.",
+        "pt-BR": "Gains +0.01HP/s Recovery every level.",
+        "pl": "Gains +0.01HP/s Recovery every level.",
+        "ru": "Gains +0.01HP/s Recovery every level.",
+        "tr": "Gains +0.01HP/s Recovery every level.",
+        "zh-CN": "Gains +0.01HP/s Recovery every level.",
+        "ja": "Gains +0.01HP/s Recovery every level.",
+        "ko": "Gains +0.01HP/s Recovery every level.",
+        "zh-TW": "Gains +0.01HP/s Recovery every level.",
+        "uk": "Gains +0.01HP/s Recovery every level."
+      }
+    }
+  },
+  "1110": {
+    "description": {
+      "_value": {
+        "en": "Gains +1% Curse every level.",
+        "fr": "Gains +1% Curse every level.",
+        "it": "Gains +1% Curse every level.",
+        "de": "Gains +1% Curse every level.",
+        "es": "Gains +1% Curse every level.",
+        "pt-BR": "Gains +1% Curse every level.",
+        "pl": "Gains +1% Curse every level.",
+        "ru": "Gains +1% Curse every level.",
+        "tr": "Gains +1% Curse every level.",
+        "zh-CN": "Gains +1% Curse every level.",
+        "ja": "Gains +1% Curse every level.",
+        "ko": "Gains +1% Curse every level.",
+        "zh-TW": "Gains +1% Curse every level.",
+        "uk": "Gains +1% Curse every level."
+      }
+    }
+  },
+  "1111": {
+    "description": {
+      "_value": {
+        "en": "Gains +1% Luck every level.",
+        "fr": "Gains +1% Luck every level.",
+        "it": "Gains +1% Luck every level.",
+        "de": "Gains +1% Luck every level.",
+        "es": "Gains +1% Luck every level.",
+        "pt-BR": "Gains +1% Luck every level.",
+        "pl": "Gains +1% Luck every level.",
+        "ru": "Gains +1% Luck every level.",
+        "tr": "Gains +1% Luck every level.",
+        "zh-CN": "Gains +1% Luck every level.",
+        "ja": "Gains +1% Luck every level.",
+        "ko": "Gains +1% Luck every level.",
+        "zh-TW": "Gains +1% Luck every level.",
+        "uk": "Gains +1% Luck every level."
+      }
+    }
+  },
+  "1112": {
+    "description": {
+      "_value": {
+        "en": "Gains +1% Greed every level.",
+        "fr": "Gains +1% Greed every level.",
+        "it": "Gains +1% Greed every level.",
+        "de": "Gains +1% Greed every level.",
+        "es": "Gains +1% Greed every level.",
+        "pt-BR": "Gains +1% Greed every level.",
+        "pl": "Gains +1% Greed every level.",
+        "ru": "Gains +1% Greed every level.",
+        "tr": "Gains +1% Greed every level.",
+        "zh-CN": "Gains +1% Greed every level.",
+        "ja": "Gains +1% Greed every level.",
+        "ko": "Gains +1% Greed every level.",
+        "zh-TW": "Gains +1% Greed every level.",
+        "uk": "Gains +1% Greed every level."
+      }
+    }
+  },
+  "1113": {
+    "description": {
+      "_value": {
+        "en": "Gains +0.1% Revivals every level.",
+        "fr": "Gains +0.1% Revivals every level.",
+        "it": "Gains +0.1% Revivals every level.",
+        "de": "Gains +0.1% Revivals every level.",
+        "es": "Gains +0.1% Revivals every level.",
+        "pt-BR": "Gains +0.1% Revivals every level.",
+        "pl": "Gains +0.1% Revivals every level.",
+        "ru": "Gains +0.1% Revivals every level.",
+        "tr": "Gains +0.1% Revivals every level.",
+        "zh-CN": "Gains +0.1% Revivals every level.",
+        "ja": "Gains +0.1% Revivals every level.",
+        "ko": "Gains +0.1% Revivals every level.",
+        "zh-TW": "Gains +0.1% Revivals every level.",
+        "uk": "Gains +0.1% Revivals every level."
+      }
+    }
+  },
+  "1204": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Might when Skipping a Level Up.",
+        "fr": "Gains +5% Might when Skipping a Level Up.",
+        "it": "Gains +5% Might when Skipping a Level Up.",
+        "de": "Gains +5% Might when Skipping a Level Up.",
+        "es": "Gains +5% Might when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Might when Skipping a Level Up.",
+        "pl": "Gains +5% Might when Skipping a Level Up.",
+        "ru": "Gains +5% Might when Skipping a Level Up.",
+        "tr": "Gains +5% Might when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Might when Skipping a Level Up.",
+        "ja": "Gains +5% Might when Skipping a Level Up.",
+        "ko": "Gains +5% Might when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Might when Skipping a Level Up.",
+        "uk": "Gains +5% Might when Skipping a Level Up."
+      }
+    }
+  },
+  "1205": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Area when Skipping a Level Up.",
+        "fr": "Gains +5% Area when Skipping a Level Up.",
+        "it": "Gains +5% Area when Skipping a Level Up.",
+        "de": "Gains +5% Area when Skipping a Level Up.",
+        "es": "Gains +5% Area when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Area when Skipping a Level Up.",
+        "pl": "Gains +5% Area when Skipping a Level Up.",
+        "ru": "Gains +5% Area when Skipping a Level Up.",
+        "tr": "Gains +5% Area when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Area when Skipping a Level Up.",
+        "ja": "Gains +5% Area when Skipping a Level Up.",
+        "ko": "Gains +5% Area when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Area when Skipping a Level Up.",
+        "uk": "Gains +5% Area when Skipping a Level Up."
+      }
+    }
+  },
+  "1206": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "fr": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "it": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "de": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "es": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "pl": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "ru": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "tr": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "ja": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "ko": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Projectile Speed when Skipping a Level Up.",
+        "uk": "Gains +5% Projectile Speed when Skipping a Level Up."
+      }
+    }
+  },
+  "1207": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Duration when Skipping a Level Up.",
+        "fr": "Gains +5% Duration when Skipping a Level Up.",
+        "it": "Gains +5% Duration when Skipping a Level Up.",
+        "de": "Gains +5% Duration when Skipping a Level Up.",
+        "es": "Gains +5% Duration when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Duration when Skipping a Level Up.",
+        "pl": "Gains +5% Duration when Skipping a Level Up.",
+        "ru": "Gains +5% Duration when Skipping a Level Up.",
+        "tr": "Gains +5% Duration when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Duration when Skipping a Level Up.",
+        "ja": "Gains +5% Duration when Skipping a Level Up.",
+        "ko": "Gains +5% Duration when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Duration when Skipping a Level Up.",
+        "uk": "Gains +5% Duration when Skipping a Level Up."
+      }
+    }
+  },
+  "1208": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Growth when Skipping a Level Up.",
+        "fr": "Gains +5% Growth when Skipping a Level Up.",
+        "it": "Gains +5% Growth when Skipping a Level Up.",
+        "de": "Gains +5% Growth when Skipping a Level Up.",
+        "es": "Gains +5% Growth when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Growth when Skipping a Level Up.",
+        "pl": "Gains +5% Growth when Skipping a Level Up.",
+        "ru": "Gains +5% Growth when Skipping a Level Up.",
+        "tr": "Gains +5% Growth when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Growth when Skipping a Level Up.",
+        "ja": "Gains +5% Growth when Skipping a Level Up.",
+        "ko": "Gains +5% Growth when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Growth when Skipping a Level Up.",
+        "uk": "Gains +5% Growth when Skipping a Level Up."
+      }
+    }
+  },
+  "1209": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Luck when Skipping a Level Up.",
+        "fr": "Gains +5% Luck when Skipping a Level Up.",
+        "it": "Gains +5% Luck when Skipping a Level Up.",
+        "de": "Gains +5% Luck when Skipping a Level Up.",
+        "es": "Gains +5% Luck when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Luck when Skipping a Level Up.",
+        "pl": "Gains +5% Luck when Skipping a Level Up.",
+        "ru": "Gains +5% Luck when Skipping a Level Up.",
+        "tr": "Gains +5% Luck when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Luck when Skipping a Level Up.",
+        "ja": "Gains +5% Luck when Skipping a Level Up.",
+        "ko": "Gains +5% Luck when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Luck when Skipping a Level Up.",
+        "uk": "Gains +5% Luck when Skipping a Level Up."
+      }
+    }
+  },
+  "1210": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Greed when Skipping a Level Up.",
+        "fr": "Gains +5% Greed when Skipping a Level Up.",
+        "it": "Gains +5% Greed when Skipping a Level Up.",
+        "de": "Gains +5% Greed when Skipping a Level Up.",
+        "es": "Gains +5% Greed when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Greed when Skipping a Level Up.",
+        "pl": "Gains +5% Greed when Skipping a Level Up.",
+        "ru": "Gains +5% Greed when Skipping a Level Up.",
+        "tr": "Gains +5% Greed when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Greed when Skipping a Level Up.",
+        "ja": "Gains +5% Greed when Skipping a Level Up.",
+        "ko": "Gains +5% Greed when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Greed when Skipping a Level Up.",
+        "uk": "Gains +5% Greed when Skipping a Level Up."
+      }
+    }
+  },
+  "1211": {
+    "description": {
+      "_value": {
+        "en": "Gains +5% Curse when Skipping a Level Up.",
+        "fr": "Gains +5% Curse when Skipping a Level Up.",
+        "it": "Gains +5% Curse when Skipping a Level Up.",
+        "de": "Gains +5% Curse when Skipping a Level Up.",
+        "es": "Gains +5% Curse when Skipping a Level Up.",
+        "pt-BR": "Gains +5% Curse when Skipping a Level Up.",
+        "pl": "Gains +5% Curse when Skipping a Level Up.",
+        "ru": "Gains +5% Curse when Skipping a Level Up.",
+        "tr": "Gains +5% Curse when Skipping a Level Up.",
+        "zh-CN": "Gains +5% Curse when Skipping a Level Up.",
+        "ja": "Gains +5% Curse when Skipping a Level Up.",
+        "ko": "Gains +5% Curse when Skipping a Level Up.",
+        "zh-TW": "Gains +5% Curse when Skipping a Level Up.",
+        "uk": "Gains +5% Curse when Skipping a Level Up."
+      }
+    }
+  },
+  "3004": {
+    "description": {
+      "_value": {
+        "en": "Fires all weapons when taking damage.",
+        "fr": "Fires all weapons when taking damage.",
+        "it": "Fires all weapons when taking damage.",
+        "de": "Fires all weapons when taking damage.",
+        "es": "Fires all weapons when taking damage.",
+        "pt-BR": "Fires all weapons when taking damage.",
+        "pl": "Fires all weapons when taking damage.",
+        "ru": "Fires all weapons when taking damage.",
+        "tr": "Fires all weapons when taking damage.",
+        "zh-CN": "Fires all weapons when taking damage.",
+        "ja": "Fires all weapons when taking damage.",
+        "ko": "Fires all weapons when taking damage.",
+        "zh-TW": "Fires all weapons when taking damage.",
+        "uk": "Fires all weapons when taking damage."
+      }
+    }
+  },
+  "3005": {
+    "description": {
+      "_value": {
+        "en": "Retaliates with a Fire Nova when taking damage.",
+        "fr": "Retaliates with a Fire Nova when taking damage.",
+        "it": "Retaliates with a Fire Nova when taking damage.",
+        "de": "Retaliates with a Fire Nova when taking damage.",
+        "es": "Retaliates with a Fire Nova when taking damage.",
+        "pt-BR": "Retaliates with a Fire Nova when taking damage.",
+        "pl": "Retaliates with a Fire Nova when taking damage.",
+        "ru": "Retaliates with a Fire Nova when taking damage.",
+        "tr": "Retaliates with a Fire Nova when taking damage.",
+        "zh-CN": "Retaliates with a Fire Nova when taking damage.",
+        "ja": "Retaliates with a Fire Nova when taking damage.",
+        "ko": "Retaliates with a Fire Nova when taking damage.",
+        "zh-TW": "Retaliates with a Fire Nova when taking damage.",
+        "uk": "Retaliates with a Fire Nova when taking damage."
+      }
+    }
+  },
+  "3006": {
+    "description": {
+      "_value": {
+        "en": "Retaliates with an Ice Nova when taking damage.",
+        "fr": "Retaliates with an Ice Nova when taking damage.",
+        "it": "Retaliates with an Ice Nova when taking damage.",
+        "de": "Retaliates with an Ice Nova when taking damage.",
+        "es": "Retaliates with an Ice Nova when taking damage.",
+        "pt-BR": "Retaliates with an Ice Nova when taking damage.",
+        "pl": "Retaliates with an Ice Nova when taking damage.",
+        "ru": "Retaliates with an Ice Nova when taking damage.",
+        "tr": "Retaliates with an Ice Nova when taking damage.",
+        "zh-CN": "Retaliates with an Ice Nova when taking damage.",
+        "ja": "Retaliates with an Ice Nova when taking damage.",
+        "ko": "Retaliates with an Ice Nova when taking damage.",
+        "zh-TW": "Retaliates with an Ice Nova when taking damage.",
+        "uk": "Retaliates with an Ice Nova when taking damage."
+      }
+    }
+  },
+  "3007": {
+    "description": {
+      "_value": {
+        "en": "Retaliates with a Fear Nova when taking damage.",
+        "fr": "Retaliates with a Fear Nova when taking damage.",
+        "it": "Retaliates with a Fear Nova when taking damage.",
+        "de": "Retaliates with a Fear Nova when taking damage.",
+        "es": "Retaliates with a Fear Nova when taking damage.",
+        "pt-BR": "Retaliates with a Fear Nova when taking damage.",
+        "pl": "Retaliates with a Fear Nova when taking damage.",
+        "ru": "Retaliates with a Fear Nova when taking damage.",
+        "tr": "Retaliates with a Fear Nova when taking damage.",
+        "zh-CN": "Retaliates with a Fear Nova when taking damage.",
+        "ja": "Retaliates with a Fear Nova when taking damage.",
+        "ko": "Retaliates with a Fear Nova when taking damage.",
+        "zh-TW": "Retaliates with a Fear Nova when taking damage.",
+        "uk": "Retaliates with a Fear Nova when taking damage."
+      }
+    }
+  },
+  "4005": {
+    "description": {
+      "_value": {
+        "en": "The character is bouncy and slippery.",
+        "fr": "The character is bouncy and slippery.",
+        "it": "The character is bouncy and slippery.",
+        "de": "The character is bouncy and slippery.",
+        "es": "The character is bouncy and slippery.",
+        "pt-BR": "The character is bouncy and slippery.",
+        "pl": "The character is bouncy and slippery.",
+        "ru": "The character is bouncy and slippery.",
+        "tr": "The character is bouncy and slippery.",
+        "zh-CN": "The character is bouncy and slippery.",
+        "ja": "The character is bouncy and slippery.",
+        "ko": "The character is bouncy and slippery.",
+        "zh-TW": "The character is bouncy and slippery.",
+        "uk": "The character is bouncy and slippery."
+      }
+    }
+  },
+  "4006": {
+    "description": {
+      "_value": {
+        "en": "Light sources have a 2% chance to drop Corn.",
+        "fr": "Light sources have a 2% chance to drop Corn.",
+        "it": "Light sources have a 2% chance to drop Corn.",
+        "de": "Light sources have a 2% chance to drop Corn.",
+        "es": "Light sources have a 2% chance to drop Corn.",
+        "pt-BR": "Light sources have a 2% chance to drop Corn.",
+        "pl": "Light sources have a 2% chance to drop Corn.",
+        "ru": "Light sources have a 2% chance to drop Corn.",
+        "tr": "Light sources have a 2% chance to drop Corn.",
+        "zh-CN": "Light sources have a 2% chance to drop Corn.",
+        "ja": "Light sources have a 2% chance to drop Corn.",
+        "ko": "Light sources have a 2% chance to drop Corn.",
+        "zh-TW": "Light sources have a 2% chance to drop Corn.",
+        "uk": "Light sources have a 2% chance to drop Corn."
+      }
+    }
+  },
+  "4007": {
+    "description": {
+      "_value": {
+        "en": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "fr": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "it": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "de": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "es": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "pt-BR": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "pl": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "ru": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "tr": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "zh-CN": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "ja": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "ko": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "zh-TW": "Defeated enemies have a 0.2% chance to drop Corn.",
+        "uk": "Defeated enemies have a 0.2% chance to drop Corn."
+      }
+    }
+  },
+  "4008": {
+    "description": {
+      "_value": {
+        "en": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "fr": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "it": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "de": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "es": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "pt-BR": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "pl": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "ru": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "tr": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "zh-CN": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "ja": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "ko": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "zh-TW": "While injured XP Crystals heal for 20% of their value instead of granting XP.",
+        "uk": "While injured XP Crystals heal for 20% of their value instead of granting XP."
+      }
+    }
+  },
+  "4009": {
+    "description": {
+      "_value": {
+        "en": "You cannot recover HP from food.",
+        "fr": "You cannot recover HP from food.",
+        "it": "You cannot recover HP from food.",
+        "de": "You cannot recover HP from food.",
+        "es": "You cannot recover HP from food.",
+        "pt-BR": "You cannot recover HP from food.",
+        "pl": "You cannot recover HP from food.",
+        "ru": "You cannot recover HP from food.",
+        "tr": "You cannot recover HP from food.",
+        "zh-CN": "You cannot recover HP from food.",
+        "ja": "You cannot recover HP from food.",
+        "ko": "You cannot recover HP from food.",
+        "zh-TW": "You cannot recover HP from food.",
+        "uk": "You cannot recover HP from food."
+      }
+    }
+  },
+  "4010": {
+    "description": {
+      "_value": {
+        "en": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "fr": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "it": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "de": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "es": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "pt-BR": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "pl": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "ru": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "tr": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "zh-CN": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "ja": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "ko": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "zh-TW": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "uk": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+      }
+    }
+  },
+  "4011": {
+    "description": {
+      "_value": {
+        "en": "Gold is not lost except when you spend it.",
+        "fr": "Gold is not lost except when you spend it.",
+        "it": "Gold is not lost except when you spend it.",
+        "de": "Gold is not lost except when you spend it.",
+        "es": "Gold is not lost except when you spend it.",
+        "pt-BR": "Gold is not lost except when you spend it.",
+        "pl": "Gold is not lost except when you spend it.",
+        "ru": "Gold is not lost except when you spend it.",
+        "tr": "Gold is not lost except when you spend it.",
+        "zh-CN": "Gold is not lost except when you spend it.",
+        "ja": "Gold is not lost except when you spend it.",
+        "ko": "Gold is not lost except when you spend it.",
+        "zh-TW": "Gold is not lost except when you spend it.",
+        "uk": "Gold is not lost except when you spend it."
+      }
+    }
+  },
+  "4012": {
+    "description": {
+      "_value": {
+        "en": "Exotic Amimics can appear as level-up choices.",
+        "fr": "Exotic Amimics can appear as level-up choices.",
+        "it": "Exotic Amimics can appear as level-up choices.",
+        "de": "Exotic Amimics can appear as level-up choices.",
+        "es": "Exotic Amimics can appear as level-up choices.",
+        "pt-BR": "Exotic Amimics can appear as level-up choices.",
+        "pl": "Exotic Amimics can appear as level-up choices.",
+        "ru": "Exotic Amimics can appear as level-up choices.",
+        "tr": "Exotic Amimics can appear as level-up choices.",
+        "zh-CN": "Exotic Amimics can appear as level-up choices.",
+        "ja": "Exotic Amimics can appear as level-up choices.",
+        "ko": "Exotic Amimics can appear as level-up choices.",
+        "zh-TW": "Exotic Amimics can appear as level-up choices.",
+        "uk": "Exotic Amimics can appear as level-up choices."
+      }
+    }
+  },
+  "4013": {
+    "description": {
+      "_value": {
+        "en": "Merchant prices are halved.",
+        "fr": "Merchant prices are halved.",
+        "it": "Merchant prices are halved.",
+        "de": "Merchant prices are halved.",
+        "es": "Merchant prices are halved.",
+        "pt-BR": "Merchant prices are halved.",
+        "pl": "Merchant prices are halved.",
+        "ru": "Merchant prices are halved.",
+        "tr": "Merchant prices are halved.",
+        "zh-CN": "Merchant prices are halved.",
+        "ja": "Merchant prices are halved.",
+        "ko": "Merchant prices are halved.",
+        "zh-TW": "Merchant prices are halved.",
+        "uk": "Merchant prices are halved."
+      }
+    }
+  },
+  "4014": {
+    "description": {
+      "_value": {
+        "en": "Treasure Chests follow behind you.",
+        "fr": "Treasure Chests follow behind you.",
+        "it": "Treasure Chests follow behind you.",
+        "de": "Treasure Chests follow behind you.",
+        "es": "Treasure Chests follow behind you.",
+        "pt-BR": "Treasure Chests follow behind you.",
+        "pl": "Treasure Chests follow behind you.",
+        "ru": "Treasure Chests follow behind you.",
+        "tr": "Treasure Chests follow behind you.",
+        "zh-CN": "Treasure Chests follow behind you.",
+        "ja": "Treasure Chests follow behind you.",
+        "ko": "Treasure Chests follow behind you.",
+        "zh-TW": "Treasure Chests follow behind you.",
+        "uk": "Treasure Chests follow behind you."
+      }
+    }
+  },
+  "4015": {
+    "description": {
+      "_value": {
+        "en": "Lets you choose a temporary shield.",
+        "fr": "Lets you choose a temporary shield.",
+        "it": "Lets you choose a temporary shield.",
+        "de": "Lets you choose a temporary shield.",
+        "es": "Lets you choose a temporary shield.",
+        "pt-BR": "Lets you choose a temporary shield.",
+        "pl": "Lets you choose a temporary shield.",
+        "ru": "Lets you choose a temporary shield.",
+        "tr": "Lets you choose a temporary shield.",
+        "zh-CN": "Lets you choose a temporary shield.",
+        "ja": "Lets you choose a temporary shield.",
+        "ko": "Lets you choose a temporary shield.",
+        "zh-TW": "Lets you choose a temporary shield.",
+        "uk": "Lets you choose a temporary shield."
+      }
+    }
+  },
+  "4016": {
+    "description": {
+      "_value": {
+        "en": "Nduja Fritta lasts twice as long.",
+        "fr": "Nduja Fritta lasts twice as long.",
+        "it": "Nduja Fritta lasts twice as long.",
+        "de": "Nduja Fritta lasts twice as long.",
+        "es": "Nduja Fritta lasts twice as long.",
+        "pt-BR": "Nduja Fritta lasts twice as long.",
+        "pl": "Nduja Fritta lasts twice as long.",
+        "ru": "Nduja Fritta lasts twice as long.",
+        "tr": "Nduja Fritta lasts twice as long.",
+        "zh-CN": "Nduja Fritta lasts twice as long.",
+        "ja": "Nduja Fritta lasts twice as long.",
+        "ko": "Nduja Fritta lasts twice as long.",
+        "zh-TW": "Nduja Fritta lasts twice as long.",
+        "uk": "Nduja Fritta lasts twice as long."
+      }
+    }
+  },
+  "4017": {
+    "description": {
+      "_value": {
+        "en": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "fr": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "it": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "de": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "es": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "pt-BR": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "pl": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "ru": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "tr": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "zh-CN": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "ja": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "ko": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "zh-TW": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "uk": "Dramatically named shield temporarily blocks enemy projectiles."
+      }
+    }
+  },
+  "4018": {
+    "description": {
+      "_value": {
+        "en": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "fr": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "it": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "de": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "es": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "pt-BR": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "pl": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "ru": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "tr": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "zh-CN": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "ja": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "ko": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "zh-TW": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "uk": "Scientific shield temporarily repels alleged ghostly enemies."
+      }
+    }
+  },
+  "4019": {
+    "description": {
+      "_value": {
+        "en": "Relaxing shield temporarily slows enemies down.",
+        "fr": "Relaxing shield temporarily slows enemies down.",
+        "it": "Relaxing shield temporarily slows enemies down.",
+        "de": "Relaxing shield temporarily slows enemies down.",
+        "es": "Relaxing shield temporarily slows enemies down.",
+        "pt-BR": "Relaxing shield temporarily slows enemies down.",
+        "pl": "Relaxing shield temporarily slows enemies down.",
+        "ru": "Relaxing shield temporarily slows enemies down.",
+        "tr": "Relaxing shield temporarily slows enemies down.",
+        "zh-CN": "Relaxing shield temporarily slows enemies down.",
+        "ja": "Relaxing shield temporarily slows enemies down.",
+        "ko": "Relaxing shield temporarily slows enemies down.",
+        "zh-TW": "Relaxing shield temporarily slows enemies down.",
+        "uk": "Relaxing shield temporarily slows enemies down."
+      }
+    }
+  },
+  "4020": {
+    "description": {
+      "_value": {
+        "en": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "fr": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "it": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "de": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "es": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "pt-BR": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "pl": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "ru": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "tr": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "zh-CN": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "ja": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "ko": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "zh-TW": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "uk": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      }
+    }
+  },
+  "4021": {
+    "description": {
+      "_value": {
+        "en": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "fr": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "it": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "de": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "es": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "pt-BR": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "pl": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "ru": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "tr": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "zh-CN": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "ja": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "ko": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "zh-TW": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage.",
+        "uk": "Damage of 1 or more is paid with gold coins before HP. 1 coin blocks 1 damage."
+      }
+    }
+  },
+  "4022": {
+    "description": {
+      "_value": {
+        "en": "Touching a destructible destroys it.",
+        "fr": "Touching a destructible destroys it.",
+        "it": "Touching a destructible destroys it.",
+        "de": "Touching a destructible destroys it.",
+        "es": "Touching a destructible destroys it.",
+        "pt-BR": "Touching a destructible destroys it.",
+        "pl": "Touching a destructible destroys it.",
+        "ru": "Touching a destructible destroys it.",
+        "tr": "Touching a destructible destroys it.",
+        "zh-CN": "Touching a destructible destroys it.",
+        "ja": "Touching a destructible destroys it.",
+        "ko": "Touching a destructible destroys it.",
+        "zh-TW": "Touching a destructible destroys it.",
+        "uk": "Touching a destructible destroys it."
+      }
+    }
+  },
+  "4023": {
+    "description": {
+      "_value": {
+        "en": "Amount increases by your current Revivals.",
+        "fr": "Amount increases by your current Revivals.",
+        "it": "Amount increases by your current Revivals.",
+        "de": "Amount increases by your current Revivals.",
+        "es": "Amount increases by your current Revivals.",
+        "pt-BR": "Amount increases by your current Revivals.",
+        "pl": "Amount increases by your current Revivals.",
+        "ru": "Amount increases by your current Revivals.",
+        "tr": "Amount increases by your current Revivals.",
+        "zh-CN": "Amount increases by your current Revivals.",
+        "ja": "Amount increases by your current Revivals.",
+        "ko": "Amount increases by your current Revivals.",
+        "zh-TW": "Amount increases by your current Revivals.",
+        "uk": "Amount increases by your current Revivals."
+      }
+    }
+  },
+  "4024": {
+    "description": {
+      "_value": {
+        "en": "All weapons fire an extra time at a fixed interval.",
+        "fr": "All weapons fire an extra time at a fixed interval.",
+        "it": "All weapons fire an extra time at a fixed interval.",
+        "de": "All weapons fire an extra time at a fixed interval.",
+        "es": "All weapons fire an extra time at a fixed interval.",
+        "pt-BR": "All weapons fire an extra time at a fixed interval.",
+        "pl": "All weapons fire an extra time at a fixed interval.",
+        "ru": "All weapons fire an extra time at a fixed interval.",
+        "tr": "All weapons fire an extra time at a fixed interval.",
+        "zh-CN": "All weapons fire an extra time at a fixed interval.",
+        "ja": "All weapons fire an extra time at a fixed interval.",
+        "ko": "All weapons fire an extra time at a fixed interval.",
+        "zh-TW": "All weapons fire an extra time at a fixed interval.",
+        "uk": "All weapons fire an extra time at a fixed interval."
+      }
+    }
+  },
+  "4025": {
+    "description": {
+      "_value": {
+        "en": "Nduja Fritta deals double damage.",
+        "fr": "Nduja Fritta deals double damage.",
+        "it": "Nduja Fritta deals double damage.",
+        "de": "Nduja Fritta deals double damage.",
+        "es": "Nduja Fritta deals double damage.",
+        "pt-BR": "Nduja Fritta deals double damage.",
+        "pl": "Nduja Fritta deals double damage.",
+        "ru": "Nduja Fritta deals double damage.",
+        "tr": "Nduja Fritta deals double damage.",
+        "zh-CN": "Nduja Fritta deals double damage.",
+        "ja": "Nduja Fritta deals double damage.",
+        "ko": "Nduja Fritta deals double damage.",
+        "zh-TW": "Nduja Fritta deals double damage.",
+        "uk": "Nduja Fritta deals double damage."
+      }
+    }
+  },
+  "4026": {
+    "description": {
+      "_value": {
+        "en": "You can walk through walls.",
+        "fr": "You can walk through walls.",
+        "it": "You can walk through walls.",
+        "de": "You can walk through walls.",
+        "es": "You can walk through walls.",
+        "pt-BR": "You can walk through walls.",
+        "pl": "You can walk through walls.",
+        "ru": "You can walk through walls.",
+        "tr": "You can walk through walls.",
+        "zh-CN": "You can walk through walls.",
+        "ja": "You can walk through walls.",
+        "ko": "You can walk through walls.",
+        "zh-TW": "You can walk through walls.",
+        "uk": "You can walk through walls."
+      }
+    }
+  },
+  "6003": {
+    "description": {
+      "_value": {
+        "en": "HP-Critical: triggers a Sorbetto.",
+        "fr": "HP-Critical: triggers a Sorbetto.",
+        "it": "HP-Critical: triggers a Sorbetto.",
+        "de": "HP-Critical: triggers a Sorbetto.",
+        "es": "HP-Critical: triggers a Sorbetto.",
+        "pt-BR": "HP-Critical: triggers a Sorbetto.",
+        "pl": "HP-Critical: triggers a Sorbetto.",
+        "ru": "HP-Critical: triggers a Sorbetto.",
+        "tr": "HP-Critical: triggers a Sorbetto.",
+        "zh-CN": "HP-Critical: triggers a Sorbetto.",
+        "ja": "HP-Critical: triggers a Sorbetto.",
+        "ko": "HP-Critical: triggers a Sorbetto.",
+        "zh-TW": "HP-Critical: triggers a Sorbetto.",
+        "uk": "HP-Critical: triggers a Sorbetto."
+      }
+    }
+  },
+  "6004": {
+    "description": {
+      "_value": {
+        "en": "HP-Critical: triggers a Rosary.",
+        "fr": "HP-Critical: triggers a Rosary.",
+        "it": "HP-Critical: triggers a Rosary.",
+        "de": "HP-Critical: triggers a Rosary.",
+        "es": "HP-Critical: triggers a Rosary.",
+        "pt-BR": "HP-Critical: triggers a Rosary.",
+        "pl": "HP-Critical: triggers a Rosary.",
+        "ru": "HP-Critical: triggers a Rosary.",
+        "tr": "HP-Critical: triggers a Rosary.",
+        "zh-CN": "HP-Critical: triggers a Rosary.",
+        "ja": "HP-Critical: triggers a Rosary.",
+        "ko": "HP-Critical: triggers a Rosary.",
+        "zh-TW": "HP-Critical: triggers a Rosary.",
+        "uk": "HP-Critical: triggers a Rosary."
+      }
+    }
+  },
+  "6005": {
+    "description": {
+      "_value": {
+        "en": "HP-Critical: triggers an Orologion.",
+        "fr": "HP-Critical: triggers an Orologion.",
+        "it": "HP-Critical: triggers an Orologion.",
+        "de": "HP-Critical: triggers an Orologion.",
+        "es": "HP-Critical: triggers an Orologion.",
+        "pt-BR": "HP-Critical: triggers an Orologion.",
+        "pl": "HP-Critical: triggers an Orologion.",
+        "ru": "HP-Critical: triggers an Orologion.",
+        "tr": "HP-Critical: triggers an Orologion.",
+        "zh-CN": "HP-Critical: triggers an Orologion.",
+        "ja": "HP-Critical: triggers an Orologion.",
+        "ko": "HP-Critical: triggers an Orologion.",
+        "zh-TW": "HP-Critical: triggers an Orologion.",
+        "uk": "HP-Critical: triggers an Orologion."
+      }
+    }
+  },
+  "6006": {
+    "description": {
+      "_value": {
+        "en": "HP-Critical: triggers a Vacuum.",
+        "fr": "HP-Critical: triggers a Vacuum.",
+        "it": "HP-Critical: triggers a Vacuum.",
+        "de": "HP-Critical: triggers a Vacuum.",
+        "es": "HP-Critical: triggers a Vacuum.",
+        "pt-BR": "HP-Critical: triggers a Vacuum.",
+        "pl": "HP-Critical: triggers a Vacuum.",
+        "ru": "HP-Critical: triggers a Vacuum.",
+        "tr": "HP-Critical: triggers a Vacuum.",
+        "zh-CN": "HP-Critical: triggers a Vacuum.",
+        "ja": "HP-Critical: triggers a Vacuum.",
+        "ko": "HP-Critical: triggers a Vacuum.",
+        "zh-TW": "HP-Critical: triggers a Vacuum.",
+        "uk": "HP-Critical: triggers a Vacuum."
+      }
+    }
+  },
+  "7004": {
+    "description": {
+      "_value": {
+        "en": "Overheal +16: triggers an Nduja Fritta.",
+        "fr": "Overheal +16: triggers an Nduja Fritta.",
+        "it": "Overheal +16: triggers an Nduja Fritta.",
+        "de": "Overheal +16: triggers an Nduja Fritta.",
+        "es": "Overheal +16: triggers an Nduja Fritta.",
+        "pt-BR": "Overheal +16: triggers an Nduja Fritta.",
+        "pl": "Overheal +16: triggers an Nduja Fritta.",
+        "ru": "Overheal +16: triggers an Nduja Fritta.",
+        "tr": "Overheal +16: triggers an Nduja Fritta.",
+        "zh-CN": "Overheal +16: triggers an Nduja Fritta.",
+        "ja": "Overheal +16: triggers an Nduja Fritta.",
+        "ko": "Overheal +16: triggers an Nduja Fritta.",
+        "zh-TW": "Overheal +16: triggers an Nduja Fritta.",
+        "uk": "Overheal +16: triggers an Nduja Fritta."
+      }
+    }
+  },
+  "7005": {
+    "description": {
+      "_value": {
+        "en": "Overheal +16: fires your starting weapon.",
+        "fr": "Overheal +16: fires your starting weapon.",
+        "it": "Overheal +16: fires your starting weapon.",
+        "de": "Overheal +16: fires your starting weapon.",
+        "es": "Overheal +16: fires your starting weapon.",
+        "pt-BR": "Overheal +16: fires your starting weapon.",
+        "pl": "Overheal +16: fires your starting weapon.",
+        "ru": "Overheal +16: fires your starting weapon.",
+        "tr": "Overheal +16: fires your starting weapon.",
+        "zh-CN": "Overheal +16: fires your starting weapon.",
+        "ja": "Overheal +16: fires your starting weapon.",
+        "ko": "Overheal +16: fires your starting weapon.",
+        "zh-TW": "Overheal +16: fires your starting weapon.",
+        "uk": "Overheal +16: fires your starting weapon."
+      }
+    }
+  },
+  "7006": {
+    "description": {
+      "_value": {
+        "en": "Overheal +32: gains a random stat bonus.",
+        "fr": "Overheal +32: gains a random stat bonus.",
+        "it": "Overheal +32: gains a random stat bonus.",
+        "de": "Overheal +32: gains a random stat bonus.",
+        "es": "Overheal +32: gains a random stat bonus.",
+        "pt-BR": "Overheal +32: gains a random stat bonus.",
+        "pl": "Overheal +32: gains a random stat bonus.",
+        "ru": "Overheal +32: gains a random stat bonus.",
+        "tr": "Overheal +32: gains a random stat bonus.",
+        "zh-CN": "Overheal +32: gains a random stat bonus.",
+        "ja": "Overheal +32: gains a random stat bonus.",
+        "ko": "Overheal +32: gains a random stat bonus.",
+        "zh-TW": "Overheal +32: gains a random stat bonus.",
+        "uk": "Overheal +32: gains a random stat bonus."
+      }
+    }
+  },
+  "7007": {
+    "description": {
+      "_value": {
+        "en": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "fr": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "it": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "de": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "es": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "pt-BR": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "pl": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "ru": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "tr": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "zh-CN": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "ja": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "ko": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "zh-TW": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal.",
+        "uk": "Overheal +16: gains +30% MoveSpeed for 10 to 100 seconds based on the overheal."
+      }
+    }
+  },
+  "9000": {
+    "description": {
+      "_value": {
+        "en": "Summons an invulnerable Brownie follower with a random behavior.",
+        "fr": "Summons an invulnerable Brownie follower with a random behavior.",
+        "it": "Summons an invulnerable Brownie follower with a random behavior.",
+        "de": "Summons an invulnerable Brownie follower with a random behavior.",
+        "es": "Summons an invulnerable Brownie follower with a random behavior.",
+        "pt-BR": "Summons an invulnerable Brownie follower with a random behavior.",
+        "pl": "Summons an invulnerable Brownie follower with a random behavior.",
+        "ru": "Summons an invulnerable Brownie follower with a random behavior.",
+        "tr": "Summons an invulnerable Brownie follower with a random behavior.",
+        "zh-CN": "Summons an invulnerable Brownie follower with a random behavior.",
+        "ja": "Summons an invulnerable Brownie follower with a random behavior.",
+        "ko": "Summons an invulnerable Brownie follower with a random behavior.",
+        "zh-TW": "Summons an invulnerable Brownie follower with a random behavior.",
+        "uk": "Summons an invulnerable Brownie follower with a random behavior."
+      }
+    }
+  },
+  "10000": {
+    "description": {
+      "_value": {
+        "en": "LastBreath: triggers a Rosary.",
+        "fr": "LastBreath: triggers a Rosary.",
+        "it": "LastBreath: triggers a Rosary.",
+        "de": "LastBreath: triggers a Rosary.",
+        "es": "LastBreath: triggers a Rosary.",
+        "pt-BR": "LastBreath: triggers a Rosary.",
+        "pl": "LastBreath: triggers a Rosary.",
+        "ru": "LastBreath: triggers a Rosary.",
+        "tr": "LastBreath: triggers a Rosary.",
+        "zh-CN": "LastBreath: triggers a Rosary.",
+        "ja": "LastBreath: triggers a Rosary.",
+        "ko": "LastBreath: triggers a Rosary.",
+        "zh-TW": "LastBreath: triggers a Rosary.",
+        "uk": "LastBreath: triggers a Rosary."
+      }
+    }
+  },
+  "11000": {
+    "description": {
+      "_value": {
+        "en": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "fr": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "it": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "de": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "es": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "pt-BR": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "pl": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "ru": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "tr": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "zh-CN": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "ja": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "ko": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "zh-TW": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration.",
+        "uk": "When invulnerability ends there is a Luck-based chance to repeat it for the same duration."
+      }
+    }
+  },
+  "11001": {
+    "description": {
+      "_value": {
+        "en": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "fr": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "it": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "de": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "es": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "pt-BR": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "pl": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "ru": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "tr": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "zh-CN": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "ja": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "ko": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "zh-TW": "When invulnerability ends you lose 2% of current HP and explode for that damage.",
+        "uk": "When invulnerability ends you lose 2% of current HP and explode for that damage."
+      }
+    }
+  },
+  "12000": {
+    "description": {
+      "_value": {
+        "en": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "fr": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "it": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "de": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "es": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "pt-BR": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "pl": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "ru": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "tr": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "zh-CN": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "ja": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "ko": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "zh-TW": "Touching enemies has a Luck-based chance to turn them bouncy.",
+        "uk": "Touching enemies has a Luck-based chance to turn them bouncy."
+      }
+    }
+  },
+  "12001": {
+    "description": {
+      "_value": {
+        "en": "While invulnerable enemies you touch turn into gold.",
+        "fr": "While invulnerable enemies you touch turn into gold.",
+        "it": "While invulnerable enemies you touch turn into gold.",
+        "de": "While invulnerable enemies you touch turn into gold.",
+        "es": "While invulnerable enemies you touch turn into gold.",
+        "pt-BR": "While invulnerable enemies you touch turn into gold.",
+        "pl": "While invulnerable enemies you touch turn into gold.",
+        "ru": "While invulnerable enemies you touch turn into gold.",
+        "tr": "While invulnerable enemies you touch turn into gold.",
+        "zh-CN": "While invulnerable enemies you touch turn into gold.",
+        "ja": "While invulnerable enemies you touch turn into gold.",
+        "ko": "While invulnerable enemies you touch turn into gold.",
+        "zh-TW": "While invulnerable enemies you touch turn into gold.",
+        "uk": "While invulnerable enemies you touch turn into gold."
+      }
+    }
+  },
+  "13000": {
+    "description": {
+      "_value": {
+        "en": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "fr": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "it": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "de": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "es": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "pt-BR": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "pl": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "ru": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "tr": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "zh-CN": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "ja": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "ko": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "zh-TW": "Each gold gained has a 2% chance per gold to buy +1% Might.",
+        "uk": "Each gold gained has a 2% chance per gold to buy +1% Might."
+      }
+    }
+  },
+  "14000": {
+    "description": {
+      "_value": {
+        "en": "While invulnerable Recovery is doubled.",
+        "fr": "While invulnerable Recovery is doubled.",
+        "it": "While invulnerable Recovery is doubled.",
+        "de": "While invulnerable Recovery is doubled.",
+        "es": "While invulnerable Recovery is doubled.",
+        "pt-BR": "While invulnerable Recovery is doubled.",
+        "pl": "While invulnerable Recovery is doubled.",
+        "ru": "While invulnerable Recovery is doubled.",
+        "tr": "While invulnerable Recovery is doubled.",
+        "zh-CN": "While invulnerable Recovery is doubled.",
+        "ja": "While invulnerable Recovery is doubled.",
+        "ko": "While invulnerable Recovery is doubled.",
+        "zh-TW": "While invulnerable Recovery is doubled.",
+        "uk": "While invulnerable Recovery is doubled."
+      }
+    }
+  },
+  "15000": {
+    "description": {
+      "_value": {
+        "en": "Grants invulnerability during Gold Fever.",
+        "fr": "Grants invulnerability during Gold Fever.",
+        "it": "Grants invulnerability during Gold Fever.",
+        "de": "Grants invulnerability during Gold Fever.",
+        "es": "Grants invulnerability during Gold Fever.",
+        "pt-BR": "Grants invulnerability during Gold Fever.",
+        "pl": "Grants invulnerability during Gold Fever.",
+        "ru": "Grants invulnerability during Gold Fever.",
+        "tr": "Grants invulnerability during Gold Fever.",
+        "zh-CN": "Grants invulnerability during Gold Fever.",
+        "ja": "Grants invulnerability during Gold Fever.",
+        "ko": "Grants invulnerability during Gold Fever.",
+        "zh-TW": "Grants invulnerability during Gold Fever.",
+        "uk": "Grants invulnerability during Gold Fever."
+      }
+    }
+  },
+  "16000": {
+    "description": {
+      "_value": {
+        "en": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "fr": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "it": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "de": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "es": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "pt-BR": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "pl": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "ru": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "tr": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "zh-CN": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "ja": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "ko": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "zh-TW": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon.",
+        "uk": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    }
+  },
+  "17000": {
+    "description": {
+      "_value": {
+        "en": "Every 5 levels each hidden weapon gains 1 level up.",
+        "fr": "Every 5 levels each hidden weapon gains 1 level up.",
+        "it": "Every 5 levels each hidden weapon gains 1 level up.",
+        "de": "Every 5 levels each hidden weapon gains 1 level up.",
+        "es": "Every 5 levels each hidden weapon gains 1 level up.",
+        "pt-BR": "Every 5 levels each hidden weapon gains 1 level up.",
+        "pl": "Every 5 levels each hidden weapon gains 1 level up.",
+        "ru": "Every 5 levels each hidden weapon gains 1 level up.",
+        "tr": "Every 5 levels each hidden weapon gains 1 level up.",
+        "zh-CN": "Every 5 levels each hidden weapon gains 1 level up.",
+        "ja": "Every 5 levels each hidden weapon gains 1 level up.",
+        "ko": "Every 5 levels each hidden weapon gains 1 level up.",
+        "zh-TW": "Every 5 levels each hidden weapon gains 1 level up.",
+        "uk": "Every 5 levels each hidden weapon gains 1 level up."
+      }
+    }
+  },
+  "18000": {
+    "description": {
+      "_value": {
+        "en": "Any Treasure Chest might allow Evolutions.",
+        "fr": "Any Treasure Chest might allow Evolutions.",
+        "it": "Any Treasure Chest might allow Evolutions.",
+        "de": "Any Treasure Chest might allow Evolutions.",
+        "es": "Any Treasure Chest might allow Evolutions.",
+        "pt-BR": "Any Treasure Chest might allow Evolutions.",
+        "pl": "Any Treasure Chest might allow Evolutions.",
+        "ru": "Any Treasure Chest might allow Evolutions.",
+        "tr": "Any Treasure Chest might allow Evolutions.",
+        "zh-CN": "Any Treasure Chest might allow Evolutions.",
+        "ja": "Any Treasure Chest might allow Evolutions.",
+        "ko": "Any Treasure Chest might allow Evolutions.",
+        "zh-TW": "Any Treasure Chest might allow Evolutions.",
+        "uk": "Any Treasure Chest might allow Evolutions."
+      }
+    }
+  },
+  "19000": {
+    "description": {
+      "_value": {
+        "en": "Triggers a Rosary when a weapon evolves.",
+        "fr": "Triggers a Rosary when a weapon evolves.",
+        "it": "Triggers a Rosary when a weapon evolves.",
+        "de": "Triggers a Rosary when a weapon evolves.",
+        "es": "Triggers a Rosary when a weapon evolves.",
+        "pt-BR": "Triggers a Rosary when a weapon evolves.",
+        "pl": "Triggers a Rosary when a weapon evolves.",
+        "ru": "Triggers a Rosary when a weapon evolves.",
+        "tr": "Triggers a Rosary when a weapon evolves.",
+        "zh-CN": "Triggers a Rosary when a weapon evolves.",
+        "ja": "Triggers a Rosary when a weapon evolves.",
+        "ko": "Triggers a Rosary when a weapon evolves.",
+        "zh-TW": "Triggers a Rosary when a weapon evolves.",
+        "uk": "Triggers a Rosary when a weapon evolves."
+      }
+    }
+  },
+  "19001": {
+    "description": {
+      "_value": {
+        "en": "Triggers a Vacuum when a weapon evolves.",
+        "fr": "Triggers a Vacuum when a weapon evolves.",
+        "it": "Triggers a Vacuum when a weapon evolves.",
+        "de": "Triggers a Vacuum when a weapon evolves.",
+        "es": "Triggers a Vacuum when a weapon evolves.",
+        "pt-BR": "Triggers a Vacuum when a weapon evolves.",
+        "pl": "Triggers a Vacuum when a weapon evolves.",
+        "ru": "Triggers a Vacuum when a weapon evolves.",
+        "tr": "Triggers a Vacuum when a weapon evolves.",
+        "zh-CN": "Triggers a Vacuum when a weapon evolves.",
+        "ja": "Triggers a Vacuum when a weapon evolves.",
+        "ko": "Triggers a Vacuum when a weapon evolves.",
+        "zh-TW": "Triggers a Vacuum when a weapon evolves.",
+        "uk": "Triggers a Vacuum when a weapon evolves."
+      }
+    }
+  },
+  "20000": {
+    "description": {
+      "_value": {
+        "en": "Picking up gold triggers the main weapon.",
+        "fr": "Picking up gold triggers the main weapon.",
+        "it": "Picking up gold triggers the main weapon.",
+        "de": "Picking up gold triggers the main weapon.",
+        "es": "Picking up gold triggers the main weapon.",
+        "pt-BR": "Picking up gold triggers the main weapon.",
+        "pl": "Picking up gold triggers the main weapon.",
+        "ru": "Picking up gold triggers the main weapon.",
+        "tr": "Picking up gold triggers the main weapon.",
+        "zh-CN": "Picking up gold triggers the main weapon.",
+        "ja": "Picking up gold triggers the main weapon.",
+        "ko": "Picking up gold triggers the main weapon.",
+        "zh-TW": "Picking up gold triggers the main weapon.",
+        "uk": "Picking up gold triggers the main weapon."
+      }
+    }
+  },
+  "23000": {
+    "description": {
+      "_value": {
+        "en": "OnMinute: triggers a Rosary.",
+        "fr": "OnMinute: triggers a Rosary.",
+        "it": "OnMinute: triggers a Rosary.",
+        "de": "OnMinute: triggers a Rosary.",
+        "es": "OnMinute: triggers a Rosary.",
+        "pt-BR": "OnMinute: triggers a Rosary.",
+        "pl": "OnMinute: triggers a Rosary.",
+        "ru": "OnMinute: triggers a Rosary.",
+        "tr": "OnMinute: triggers a Rosary.",
+        "zh-CN": "OnMinute: triggers a Rosary.",
+        "ja": "OnMinute: triggers a Rosary.",
+        "ko": "OnMinute: triggers a Rosary.",
+        "zh-TW": "OnMinute: triggers a Rosary.",
+        "uk": "OnMinute: triggers a Rosary."
+      }
+    }
+  },
+  "23001": {
+    "description": {
+      "_value": {
+        "en": "OnMinute: triggers a Vacuum.",
+        "fr": "OnMinute: triggers a Vacuum.",
+        "it": "OnMinute: triggers a Vacuum.",
+        "de": "OnMinute: triggers a Vacuum.",
+        "es": "OnMinute: triggers a Vacuum.",
+        "pt-BR": "OnMinute: triggers a Vacuum.",
+        "pl": "OnMinute: triggers a Vacuum.",
+        "ru": "OnMinute: triggers a Vacuum.",
+        "tr": "OnMinute: triggers a Vacuum.",
+        "zh-CN": "OnMinute: triggers a Vacuum.",
+        "ja": "OnMinute: triggers a Vacuum.",
+        "ko": "OnMinute: triggers a Vacuum.",
+        "zh-TW": "OnMinute: triggers a Vacuum.",
+        "uk": "OnMinute: triggers a Vacuum."
+      }
+    }
+  },
+  "23002": {
+    "description": {
+      "_value": {
+        "en": "OnMinute: triggers a Nduja Fritta.",
+        "fr": "OnMinute: triggers a Nduja Fritta.",
+        "it": "OnMinute: triggers a Nduja Fritta.",
+        "de": "OnMinute: triggers a Nduja Fritta.",
+        "es": "OnMinute: triggers a Nduja Fritta.",
+        "pt-BR": "OnMinute: triggers a Nduja Fritta.",
+        "pl": "OnMinute: triggers a Nduja Fritta.",
+        "ru": "OnMinute: triggers a Nduja Fritta.",
+        "tr": "OnMinute: triggers a Nduja Fritta.",
+        "zh-CN": "OnMinute: triggers a Nduja Fritta.",
+        "ja": "OnMinute: triggers a Nduja Fritta.",
+        "ko": "OnMinute: triggers a Nduja Fritta.",
+        "zh-TW": "OnMinute: triggers a Nduja Fritta.",
+        "uk": "OnMinute: triggers a Nduja Fritta."
+      }
+    }
+  },
+  "23003": {
+    "description": {
+      "_value": {
+        "en": "OnMinute: triggers a Sorbetto.",
+        "fr": "OnMinute: triggers a Sorbetto.",
+        "it": "OnMinute: triggers a Sorbetto.",
+        "de": "OnMinute: triggers a Sorbetto.",
+        "es": "OnMinute: triggers a Sorbetto.",
+        "pt-BR": "OnMinute: triggers a Sorbetto.",
+        "pl": "OnMinute: triggers a Sorbetto.",
+        "ru": "OnMinute: triggers a Sorbetto.",
+        "tr": "OnMinute: triggers a Sorbetto.",
+        "zh-CN": "OnMinute: triggers a Sorbetto.",
+        "ja": "OnMinute: triggers a Sorbetto.",
+        "ko": "OnMinute: triggers a Sorbetto.",
+        "zh-TW": "OnMinute: triggers a Sorbetto.",
+        "uk": "OnMinute: triggers a Sorbetto."
+      }
+    }
+  },
+  "23004": {
+    "description": {
+      "_value": {
+        "en": "OnMinute: triggers an Orologion.",
+        "fr": "OnMinute: triggers an Orologion.",
+        "it": "OnMinute: triggers an Orologion.",
+        "de": "OnMinute: triggers an Orologion.",
+        "es": "OnMinute: triggers an Orologion.",
+        "pt-BR": "OnMinute: triggers an Orologion.",
+        "pl": "OnMinute: triggers an Orologion.",
+        "ru": "OnMinute: triggers an Orologion.",
+        "tr": "OnMinute: triggers an Orologion.",
+        "zh-CN": "OnMinute: triggers an Orologion.",
+        "ja": "OnMinute: triggers an Orologion.",
+        "ko": "OnMinute: triggers an Orologion.",
+        "zh-TW": "OnMinute: triggers an Orologion.",
+        "uk": "OnMinute: triggers an Orologion."
+      }
+    }
+  },
+  "100000": {
+    "description": {
+      "_value": {
+        "en": "Overheal: gains +0.2 MaxHP.",
+        "fr": "Overheal: gains +0.2 MaxHP.",
+        "it": "Overheal: gains +0.2 MaxHP.",
+        "de": "Overheal: gains +0.2 MaxHP.",
+        "es": "Overheal: gains +0.2 MaxHP.",
+        "pt-BR": "Overheal: gains +0.2 MaxHP.",
+        "pl": "Overheal: gains +0.2 MaxHP.",
+        "ru": "Overheal: gains +0.2 MaxHP.",
+        "tr": "Overheal: gains +0.2 MaxHP.",
+        "zh-CN": "Overheal: gains +0.2 MaxHP.",
+        "ja": "Overheal: gains +0.2 MaxHP.",
+        "ko": "Overheal: gains +0.2 MaxHP.",
+        "zh-TW": "Overheal: gains +0.2 MaxHP.",
+        "uk": "Overheal: gains +0.2 MaxHP."
+      }
+    }
+  },
+  "100001": {
+    "description": {
+      "_value": {
+        "en": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "fr": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "it": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "de": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "es": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "pt-BR": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "pl": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "ru": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "tr": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "zh-CN": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "ja": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "ko": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "zh-TW": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills.",
+        "uk": "Becomes invulnerable and gets a stats bonus for 30 seconds after a set amount of kills."
+      }
+    }
+  },
+  "100003": {
+    "description": {
+      "_value": {
+        "en": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "fr": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "it": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "de": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "es": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "pt-BR": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "pl": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "ru": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "tr": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "zh-CN": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "ja": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "ko": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "zh-TW": "Overheal +16: Blood-type weapons gain +5% Might.",
+        "uk": "Overheal +16: Blood-type weapons gain +5% Might."
+      }
+    }
+  },
+  "101000": {
+    "description": {
+      "_value": {
+        "en": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "fr": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "it": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "de": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "es": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "pt-BR": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "pl": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "ru": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "tr": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "zh-CN": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "ja": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "ko": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "zh-TW": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex.",
+        "uk": "Retaliation, HP-Critical, LastBreath, and OnRevival: triggers a wide area blood hex."
+      }
+    }
+  },
+  "101001": {
+    "description": {
+      "_value": {
+        "en": "Retaliation: gains a temporary stat bonus.",
+        "fr": "Retaliation: gains a temporary stat bonus.",
+        "it": "Retaliation: gains a temporary stat bonus.",
+        "de": "Retaliation: gains a temporary stat bonus.",
+        "es": "Retaliation: gains a temporary stat bonus.",
+        "pt-BR": "Retaliation: gains a temporary stat bonus.",
+        "pl": "Retaliation: gains a temporary stat bonus.",
+        "ru": "Retaliation: gains a temporary stat bonus.",
+        "tr": "Retaliation: gains a temporary stat bonus.",
+        "zh-CN": "Retaliation: gains a temporary stat bonus.",
+        "ja": "Retaliation: gains a temporary stat bonus.",
+        "ko": "Retaliation: gains a temporary stat bonus.",
+        "zh-TW": "Retaliation: gains a temporary stat bonus.",
+        "uk": "Retaliation: gains a temporary stat bonus."
+      }
+    }
+  },
+  "101002": {
+    "description": {
+      "_value": {
+        "en": "LastBreath: MaxHP increases by 50%.",
+        "fr": "LastBreath: MaxHP increases by 50%.",
+        "it": "LastBreath: MaxHP increases by 50%.",
+        "de": "LastBreath: MaxHP increases by 50%.",
+        "es": "LastBreath: MaxHP increases by 50%.",
+        "pt-BR": "LastBreath: MaxHP increases by 50%.",
+        "pl": "LastBreath: MaxHP increases by 50%.",
+        "ru": "LastBreath: MaxHP increases by 50%.",
+        "tr": "LastBreath: MaxHP increases by 50%.",
+        "zh-CN": "LastBreath: MaxHP increases by 50%.",
+        "ja": "LastBreath: MaxHP increases by 50%.",
+        "ko": "LastBreath: MaxHP increases by 50%.",
+        "zh-TW": "LastBreath: MaxHP increases by 50%.",
+        "uk": "LastBreath: MaxHP increases by 50%."
+      }
+    }
+  },
+  "101003": {
+    "description": {
+      "_value": {
+        "en": "HP-Critical: gains +1 Revival.",
+        "fr": "HP-Critical: gains +1 Revival.",
+        "it": "HP-Critical: gains +1 Revival.",
+        "de": "HP-Critical: gains +1 Revival.",
+        "es": "HP-Critical: gains +1 Revival.",
+        "pt-BR": "HP-Critical: gains +1 Revival.",
+        "pl": "HP-Critical: gains +1 Revival.",
+        "ru": "HP-Critical: gains +1 Revival.",
+        "tr": "HP-Critical: gains +1 Revival.",
+        "zh-CN": "HP-Critical: gains +1 Revival.",
+        "ja": "HP-Critical: gains +1 Revival.",
+        "ko": "HP-Critical: gains +1 Revival.",
+        "zh-TW": "HP-Critical: gains +1 Revival.",
+        "uk": "HP-Critical: gains +1 Revival."
+      }
+    }
+  },
+  "101004": {
+    "description": {
+      "_value": {
+        "en": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "fr": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "it": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "de": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "es": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "pt-BR": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "pl": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "ru": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "tr": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "zh-CN": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "ja": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "ko": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "zh-TW": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons.",
+        "uk": "Defeated enemies have a Curse-based chance to store a skeleton. OnMinute: summons stored skeletons."
+      }
+    }
+  },
+  "1114": {
+    "description": {
+      "_value": {
+        "en": "Gains +1% Fever every 3 levels.",
+        "fr": "Gains +1% Fever every 3 levels.",
+        "it": "Gains +1% Fever every 3 levels.",
+        "de": "Gains +1% Fever every 3 levels.",
+        "es": "Gains +1% Fever every 3 levels.",
+        "pt-BR": "Gains +1% Fever every 3 levels.",
+        "pl": "Gains +1% Fever every 3 levels.",
+        "ru": "Gains +1% Fever every 3 levels.",
+        "tr": "Gains +1% Fever every 3 levels.",
+        "zh-CN": "Gains +1% Fever every 3 levels.",
+        "ja": "Gains +1% Fever every 3 levels.",
+        "ko": "Gains +1% Fever every 3 levels.",
+        "zh-TW": "Gains +1% Fever every 3 levels.",
+        "uk": "Gains +1% Fever every 3 levels."
       }
     }
   }

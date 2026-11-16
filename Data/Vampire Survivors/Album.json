@@ -63,7 +63,8 @@
       "BGM_TheCoop",
       "BGM_Westwoods",
       "BGM_Seafloor",
-      "BGM_Biggus"
+      "BGM_Biggus",
+      "BGM_CharacterSelection"
     ]
   },
   "LegacyOfTheMoonspell": {

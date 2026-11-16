@@ -451,6 +451,24 @@
       "detune": -1000
     }
   },
+  "BGM_CharacterSelection": {
+    "title": "Character Selection",
+    "author": "Daniele Zandara",
+    "source": "",
+    "unlockedByStage": null,
+    "unlockedByCharacter": null,
+    "unlockedByItem": "RELIC_MPSHOUT",
+    "isUnlocked": false,
+    "icon": "trumpet.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -1000
+    }
+  },
   "BGM_BatCountry": {
     "title": "Mighty Illusion",
     "author": "Filippo Vicarelli",

@@ -1098,6 +1098,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "fr": {
@@ -2198,6 +2209,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   },
@@ -3300,6 +3322,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "de": {
@@ -4400,6 +4433,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   },
@@ -5502,6 +5546,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "pt-BR": {
@@ -6602,6 +6657,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   },
@@ -7704,6 +7770,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "ru": {
@@ -8804,6 +8881,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   },
@@ -9906,6 +9994,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "zh-CN": {
@@ -11006,6 +11105,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   },
@@ -12108,6 +12218,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "ko": {
@@ -13208,6 +13329,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   },
@@ -14310,6 +14442,17 @@
       "tips": {
         "_value": "Bouncy until first completion."
       }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
+      }
     }
   },
   "uk": {
@@ -15410,6 +15553,17 @@
       },
       "tips": {
         "_value": "Bouncy until first completion."
+      }
+    },
+    "EX_TREASURY": {
+      "stageName": {
+        "_value": "Haunted Treasury"
+      },
+      "description": {
+        "_value": null
+      },
+      "tips": {
+        "_value": null
       }
     }
   }

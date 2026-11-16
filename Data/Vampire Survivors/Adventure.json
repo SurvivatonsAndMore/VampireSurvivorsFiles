@@ -964,7 +964,7 @@
     "index": 10010,
     "coreAdventureData": {
       "name": "Tides of the Foscari",
-      "startingCoins": 15000,
+      "startingCoins": 20000,
       "completionCoinReward": 100000,
       "startingCharacter": "GHOUL",
       "startingStage": "ADV_FOSCARI_001",

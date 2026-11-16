@@ -5492,5 +5492,61 @@
         "Bouncy until first completion."
       ]
     }
+  },
+  "EX_TREASURY": {
+    "stageName": {
+      "_value": [
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury",
+        "Haunted Treasury"
+      ]
+    },
+    "description": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "tips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
   }
 }

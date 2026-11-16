@@ -4904,6 +4904,118 @@
       "growth": -1
     }
   ],
+  "CANNONE": [
+    {
+      "alwaysHidden": false,
+      "contentGroup": "EXTRA",
+      "hidden": true,
+      "level": 1,
+      "startingWeapon": "EX_CANNON1",
+      "charName": "Cannone",
+      "surname": "Ladonna",
+      "spriteName": "player_cannone01.png",
+      "textureName": "character_cannone",
+      "walkingFrames": 4,
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Default",
+          "textureName": "character_cannone",
+          "spriteName": "player_cannone01.png",
+          "walkingFrames": 4,
+          "unlocked": true,
+          "headOffsets": [
+            {
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      ],
+      "currentSkin": "DEFAULT",
+      "description": ".",
+      "portraitName": "p_cannone.png",
+      "isBought": false,
+      "price": 5000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp":      140,
+      "armor":      0,
+      "regen":      0,
+      "moveSpeed":  1.1,
+      "power":      1.1,
+      "cooldown":   1,
+      "area":       1,
+      "speed":      1,
+      "duration":   1.1,
+      "amount":     0,
+      "luck":       1,
+      "growth":     1,
+      "greed":      1,
+      "curse":      1.1,
+      "magnet":     0,
+      "revivals":   0,
+      "rerolls":    0,
+      "skips":      0,
+      "banish":     0,
+      "showcase": [
+        "AMOUNT",
+        "AMOUNT",
+        "COOLDOWN",
+        "COOLDOWN",
+        "COOLDOWN",
+        "COOLDOWN",
+        "COOLDOWN",
+        "POWER",
+        "POWER",
+        "POWER",
+        "POWER",
+        "POWER",
+        "AREA",
+        "AREA",
+        "AREA",
+        "AREA",
+        "AREA",
+        "DURATION",
+        "DURATION",
+        "DURATION",
+        "DURATION",
+        "DURATION",
+        "EX_CANNON1",
+        "EX_CANNON1",
+        "EX_CANNON1",
+        "EX_CANNON1",
+        "EX_CANNON1",
+        "EX_CANNON1",
+        "EX_CANNON1"
+      ],
+      "addedSkillCards": [
+        "SUB_MINUTE_INVULEXPLODE",
+        "SUB_X3LEVEL_FEVER"
+      ],
+      "exAccessories":[
+        "EX_AMIMIC2"
+      ],
+      "enemiesKilled": 0,
+      "stageData": []
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
   "SHEMOONITA": [
     {
       "contentGroup": "EXTRA",
@@ -5695,6 +5807,303 @@
     {
       "growth": 1,
       "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "EX_SEFIROTTO": [
+    {
+      "contentGroup": "EXTRA",
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "EX_VERGAMENA1",
+      "cooldown": 1,
+      "charName": "Trio Invictus",
+      "surname": "",
+      "textureName": "character_sefirotto",
+      "spriteName": "player_sirtristevere01.png",
+      "autoSetBodyOffset": true,
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Sir Tristevere",
+          "charName": "Sir Tristevere",
+          "textureName": "character_sefirotto",
+          "spriteName": "player_sirtristevere01.png",
+          "walkingFrames": 4,
+          "unlocked": true,
+          "autoSetBodyOffset": true,
+          "power": 0.35,
+          "addedSkillCards": [
+            "SUB_CHARGE_ULTIMASLASH"
+          ],
+          "defaultFollowers": [
+            {
+              "followerCharacter": "EX_SEFIROTTO",
+              "skinType": "SKIN_SEFIROTTO_CHESTELLO",
+              "followerAI": "Defensive",
+              "isFollowerInvinceable": true,
+              "countsAsMainCharacterForRevivals": false,
+              "ShouldSharePassives": true,
+              "maxWeaponCount": 1,
+              "healthBarScale": 0.00125,
+              "manualLevelUps": false,
+              "shouldFollowMainPlayer": true,
+              "allowDuplicates": true,
+              "trackedByCamera": false
+            },
+            {
+              "followerCharacter": "EX_SEFIROTTO",
+              "skinType": "SKIN_SEFIROTTO_CICOVA",
+              "followerAI": "Defensive",
+              "isFollowerInvinceable": true,
+              "countsAsMainCharacterForRevivals": false,
+              "ShouldSharePassives": true,
+              "maxWeaponCount": 1,
+              "healthBarScale": 0.00125,
+              "manualLevelUps": false,
+              "shouldFollowMainPlayer": true,
+              "allowDuplicates": true,
+              "trackedByCamera": false
+            }
+          ],
+          "levelUpPresets": [
+            {
+              "loadout": [
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "POWER",
+                "POWER",
+                "POWER",
+                "POWER",
+                "POWER"
+              ],
+              "autoShuffle": true
+            }
+          ]
+        },
+        {
+          "skinType": "SKIN_SEFIROTTO_CHESTELLO",
+          "name": "Chestello",
+          "charName": "Chestello",
+          "textureName": "character_sefirotto",
+          "spriteName": "player_chestello01.png",
+          "description": ".",
+          "walkingFrames": 4,
+          "unlocked": true,
+          "autoSetBodyOffset": true,
+          "duration": 0.35,
+          "addedSkillCards": [
+            "SUB_GOLDGAIN_BUYMIGHT"
+          ],
+          "defaultFollowers": [
+            {
+              "followerCharacter": "EX_SEFIROTTO",
+              "skinType": "DEFAULT",
+              "followerAI": "Defensive",
+              "isFollowerInvinceable": true,
+              "countsAsMainCharacterForRevivals": false,
+              "ShouldSharePassives": true,
+              "maxWeaponCount": 1,
+              "healthBarScale": 0.00125,
+              "manualLevelUps": false,
+              "shouldFollowMainPlayer": true,
+              "allowDuplicates": true,
+              "trackedByCamera": false
+            },
+            {
+              "followerCharacter": "EX_SEFIROTTO",
+              "skinType": "SKIN_SEFIROTTO_CICOVA",
+              "followerAI": "Defensive",
+              "isFollowerInvinceable": true,
+              "countsAsMainCharacterForRevivals": false,
+              "ShouldSharePassives": true,
+              "maxWeaponCount": 1,
+              "healthBarScale": 0.00125,
+              "manualLevelUps": false,
+              "shouldFollowMainPlayer": true,
+              "allowDuplicates": true,
+              "trackedByCamera": false
+            }
+          ],
+          "levelUpPresets": [
+            {
+              "loadout": [
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "DURATION",
+                "DURATION",
+                "DURATION",
+                "DURATION",
+                "DURATION"
+              ],
+              "autoShuffle": true
+            }
+          ]
+        },
+        {
+          "skinType": "SKIN_SEFIROTTO_CICOVA",
+          "name": "Cicova",
+          "charName": "Cicova",
+          "textureName": "character_sefirotto",
+          "spriteName": "player_cicova01.png",
+          "description": ".",
+          "walkingFrames": 4,
+          "unlocked": true,
+          "autoSetBodyOffset": true,
+          "speed": 0.35,
+          "addedSkillCards": [
+            "SUB_PASSIVE_STANDSTILLCOOLDOWN"
+          ],
+          "defaultFollowers": [
+            {
+              "followerCharacter": "EX_SEFIROTTO",
+              "skinType": "SKIN_SEFIROTTO_CHESTELLO",
+              "followerAI": "Defensive",
+              "isFollowerInvinceable": true,
+              "countsAsMainCharacterForRevivals": false,
+              "ShouldSharePassives": true,
+              "maxWeaponCount": 1,
+              "healthBarScale": 0.00125,
+              "manualLevelUps": false,
+              "shouldFollowMainPlayer": true,
+              "allowDuplicates": true,
+              "trackedByCamera": false
+            },
+            {
+              "followerCharacter": "EX_SEFIROTTO",
+              "skinType": "DEFAULT",
+              "followerAI": "Defensive",
+              "isFollowerInvinceable": true,
+              "countsAsMainCharacterForRevivals": false,
+              "ShouldSharePassives": true,
+              "maxWeaponCount": 1,
+              "healthBarScale": 0.00125,
+              "manualLevelUps": false,
+              "shouldFollowMainPlayer": true,
+              "allowDuplicates": true,
+              "trackedByCamera": false
+            }
+          ],
+          "levelUpPresets": [
+            {
+              "loadout": [
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "EX_VERGAMENA1",
+                "SPEED",
+                "SPEED",
+                "SPEED",
+                "SPEED",
+                "SPEED"
+              ],
+              "autoShuffle": true
+            }
+          ]
+        },
+        {
+          "skinType": "SKIN_SEFIROTTO_SEFIROTTO",
+          "name": "Sefi Rotto",
+          "charName": "Sefi Rotto",
+          "textureName": "character_sefirotto",
+          "spriteName": "player_sefirotto01.png",
+          "walkingFrames": 5,
+          "unlocked": false,
+          "hidden": true,
+          "alwaysHidden": true,
+          "secret": true,
+          "autoSetBodyOffset": true,
+          "power": 0.35,
+          "duration": 0.35,
+          "speed": 0.35,
+          "addedSkillCards": [
+            "SUB_CHARGE_ULTIMASLASHDOUBLE"
+          ]
+        }
+      ],
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+      "description": ".",
+      "portraitName": "p_trio.png",
+      "isBought": false,
+      "price": 5000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp":        120,
+      "armor":        1,
+      "regen":        0,
+      "moveSpeed":    1,
+      "power":        1,
+      "area":         1,
+      "speed":        1,
+      "duration":     1,
+      "amount":       0,
+      "luck":         1,
+      "growth":       1,
+      "greed":        1,
+      "curse":        1,
+      "magnet":       0,
+      "revivals":     0,
+      "rerolls":      0,
+      "skips":        0,
+      "banish":       0,
+      "showcase": [
+        "EX_VERGAMENA1",
+        "EX_VERGAMENA1",
+        "EX_VERGAMENA1",
+        "EX_VERGAMENA1",
+        "EX_VERGAMENA1",
+        "EX_VERGAMENA1",
+        "EX_VERGAMENA1",
+        "MOVESPEED",
+        "MOVESPEED",
+        "MOVESPEED",
+        "MOVESPEED",
+        "MOVESPEED",
+        "COOLDOWN",
+        "COOLDOWN",
+        "COOLDOWN",
+        "COOLDOWN",
+        "COOLDOWN",
+        "AMOUNT",
+        "AMOUNT",
+        "AREA",
+        "AREA",
+        "AREA",
+        "AREA",
+        "AREA"
+      ]
+    },
+    {
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "level": 40,
+      "growth": 1
     },
     {
       "level": 21,
@@ -6799,8 +7208,8 @@
       "addedSkillCards": [
         "SUB_PASSIVE_LIGHTDROP",
         "SUB_PASSIVE_KILLDROP",
-        "SUB_PASSIVE_GEMHEAL",
-        "SUB_PASSIVE_NOFOOD"
+        "SUB_NEGATIVE_GEMHEAL",
+        "SUB_NEGATIVE_NOFOOD"
       ],
       "maxHp":      120,
       "armor":      1,

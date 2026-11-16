@@ -1125,6 +1125,86 @@
       "achievementTips": {
         "_value": "Red Moon Manor Map."
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "fr": {
@@ -2252,6 +2332,86 @@
       },
       "achievementTips": {
         "_value": "Carte du Manoir de la Lune Rouge."
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   },
@@ -3381,6 +3541,86 @@
       "achievementTips": {
         "_value": "Mappa del Maniero della Luna Rossa."
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "de": {
@@ -4508,6 +4748,86 @@
       },
       "achievementTips": {
         "_value": "Rotmond-Anwesen-Karte."
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   },
@@ -5637,6 +5957,86 @@
       "achievementTips": {
         "_value": "Mapa de la Mansión Luna Roja."
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "pt-BR": {
@@ -6764,6 +7164,86 @@
       },
       "achievementTips": {
         "_value": "Mapa da Mansão Lua Vermelha."
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   },
@@ -7893,6 +8373,86 @@
       "achievementTips": {
         "_value": "Mapa Dworu Czerwonego Księżyca."
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "ru": {
@@ -9020,6 +9580,86 @@
       },
       "achievementTips": {
         "_value": "Карта Поместья Красной Луны."
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   },
@@ -10149,6 +10789,86 @@
       "achievementTips": {
         "_value": "Kızıl Ay Malikânesi Haritası."
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "zh-CN": {
@@ -11276,6 +11996,86 @@
       },
       "achievementTips": {
         "_value": "红月庄园地图。"
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   },
@@ -12405,6 +13205,86 @@
       "achievementTips": {
         "_value": "レッドムーン邸のマップ。"
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "ko": {
@@ -13532,6 +14412,86 @@
       },
       "achievementTips": {
         "_value": "붉은 달 장원의 지도입니다."
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   },
@@ -14661,6 +15621,86 @@
       "achievementTips": {
         "_value": "紅月莊園的地圖。"
       }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
+      }
     }
   },
   "uk": {
@@ -15788,6 +16828,86 @@
       },
       "achievementTips": {
         "_value": "Мапа Замку Червоного Місяця."
+      }
+    },
+    "RELIC_JET": {
+      "name": {
+        "_value": "Chaos Jet"
+      },
+      "description": {
+        "_value": "Allows Real Trio to morph when reaching Level 80."
+      },
+      "achievementTips": {
+        "_value": "One Disserting Angel."
+      },
+      "tips": {
+        "_value": null
+      }
+    },
+    "RELIC_MPSHOUT": {
+      "name": {
+        "_value": "MP Shout"
+      },
+      "description": {
+        "_value": "Enables the Announcer."
+      },
+      "achievementTips": {
+        "_value": "Announcer option."
+      }
+    },
+    "SCUTUS_OMEGA": {
+      "name": {
+        "_value": "Omega Shield"
+      },
+      "description": {
+        "_value": "Dramatically named shield temporarily blocks enemy projectiles."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_HILBERT": {
+      "name": {
+        "_value": "Hilbert Shield"
+      },
+      "description": {
+        "_value": "Scientific shield temporarily repels alleged ghostly enemies."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_GRASS": {
+      "name": {
+        "_value": "Grass Crest Shield"
+      },
+      "description": {
+        "_value": "Relaxing shield temporarily slows enemies down."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "SCUTUS_AT": {
+      "name": {
+        "_value": "AT Shield"
+      },
+      "description": {
+        "_value": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      },
+      "achievementTips": {
+        "_value": null
+      }
+    },
+    "RELIC_MAP_BD": {
+      "name": {
+        "_value": "Biggus Discus Map"
+      },
+      "description": {
+        "_value": "Displays a detailed map when in Biggus Discus."
+      },
+      "achievementTips": {
+        "_value": "Biggus Discus Map."
       }
     }
   }

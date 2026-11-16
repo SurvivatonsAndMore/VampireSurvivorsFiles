@@ -5774,5 +5774,415 @@
         "uk": "Мапа Замку Червоного Місяця."
       }
     }
+  },
+  "RELIC_JET": {
+    "name": {
+      "_value": {
+        "en": "Chaos Jet",
+        "fr": "Chaos Jet",
+        "it": "Chaos Jet",
+        "de": "Chaos Jet",
+        "es": "Chaos Jet",
+        "pt-BR": "Chaos Jet",
+        "pl": "Chaos Jet",
+        "ru": "Chaos Jet",
+        "tr": "Chaos Jet",
+        "zh-CN": "Chaos Jet",
+        "ja": "Chaos Jet",
+        "ko": "Chaos Jet",
+        "zh-TW": "Chaos Jet",
+        "uk": "Chaos Jet"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Allows Real Trio to morph when reaching Level 80.",
+        "fr": "Allows Real Trio to morph when reaching Level 80.",
+        "it": "Allows Real Trio to morph when reaching Level 80.",
+        "de": "Allows Real Trio to morph when reaching Level 80.",
+        "es": "Allows Real Trio to morph when reaching Level 80.",
+        "pt-BR": "Allows Real Trio to morph when reaching Level 80.",
+        "pl": "Allows Real Trio to morph when reaching Level 80.",
+        "ru": "Allows Real Trio to morph when reaching Level 80.",
+        "tr": "Allows Real Trio to morph when reaching Level 80.",
+        "zh-CN": "Allows Real Trio to morph when reaching Level 80.",
+        "ja": "Allows Real Trio to morph when reaching Level 80.",
+        "ko": "Allows Real Trio to morph when reaching Level 80.",
+        "zh-TW": "Allows Real Trio to morph when reaching Level 80.",
+        "uk": "Allows Real Trio to morph when reaching Level 80."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": "One Disserting Angel.",
+        "fr": "One Disserting Angel.",
+        "it": "One Disserting Angel.",
+        "de": "One Disserting Angel.",
+        "es": "One Disserting Angel.",
+        "pt-BR": "One Disserting Angel.",
+        "pl": "One Disserting Angel.",
+        "ru": "One Disserting Angel.",
+        "tr": "One Disserting Angel.",
+        "zh-CN": "One Disserting Angel.",
+        "ja": "One Disserting Angel.",
+        "ko": "One Disserting Angel.",
+        "zh-TW": "One Disserting Angel.",
+        "uk": "One Disserting Angel."
+      }
+    },
+    "tips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
+  },
+  "RELIC_MPSHOUT": {
+    "name": {
+      "_value": {
+        "en": "MP Shout",
+        "fr": "MP Shout",
+        "it": "MP Shout",
+        "de": "MP Shout",
+        "es": "MP Shout",
+        "pt-BR": "MP Shout",
+        "pl": "MP Shout",
+        "ru": "MP Shout",
+        "tr": "MP Shout",
+        "zh-CN": "MP Shout",
+        "ja": "MP Shout",
+        "ko": "MP Shout",
+        "zh-TW": "MP Shout",
+        "uk": "MP Shout"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Enables the Announcer.",
+        "fr": "Enables the Announcer.",
+        "it": "Enables the Announcer.",
+        "de": "Enables the Announcer.",
+        "es": "Enables the Announcer.",
+        "pt-BR": "Enables the Announcer.",
+        "pl": "Enables the Announcer.",
+        "ru": "Enables the Announcer.",
+        "tr": "Enables the Announcer.",
+        "zh-CN": "Enables the Announcer.",
+        "ja": "Enables the Announcer.",
+        "ko": "Enables the Announcer.",
+        "zh-TW": "Enables the Announcer.",
+        "uk": "Enables the Announcer."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": "Announcer option.",
+        "fr": "Announcer option.",
+        "it": "Announcer option.",
+        "de": "Announcer option.",
+        "es": "Announcer option.",
+        "pt-BR": "Announcer option.",
+        "pl": "Announcer option.",
+        "ru": "Announcer option.",
+        "tr": "Announcer option.",
+        "zh-CN": "Announcer option.",
+        "ja": "Announcer option.",
+        "ko": "Announcer option.",
+        "zh-TW": "Announcer option.",
+        "uk": "Announcer option."
+      }
+    }
+  },
+  "SCUTUS_OMEGA": {
+    "name": {
+      "_value": {
+        "en": "Omega Shield",
+        "fr": "Omega Shield",
+        "it": "Omega Shield",
+        "de": "Omega Shield",
+        "es": "Omega Shield",
+        "pt-BR": "Omega Shield",
+        "pl": "Omega Shield",
+        "ru": "Omega Shield",
+        "tr": "Omega Shield",
+        "zh-CN": "Omega Shield",
+        "ja": "Omega Shield",
+        "ko": "Omega Shield",
+        "zh-TW": "Omega Shield",
+        "uk": "Omega Shield"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "fr": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "it": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "de": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "es": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "pt-BR": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "pl": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "ru": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "tr": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "zh-CN": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "ja": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "ko": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "zh-TW": "Dramatically named shield temporarily blocks enemy projectiles.",
+        "uk": "Dramatically named shield temporarily blocks enemy projectiles."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
+  },
+  "SCUTUS_HILBERT": {
+    "name": {
+      "_value": {
+        "en": "Hilbert Shield",
+        "fr": "Hilbert Shield",
+        "it": "Hilbert Shield",
+        "de": "Hilbert Shield",
+        "es": "Hilbert Shield",
+        "pt-BR": "Hilbert Shield",
+        "pl": "Hilbert Shield",
+        "ru": "Hilbert Shield",
+        "tr": "Hilbert Shield",
+        "zh-CN": "Hilbert Shield",
+        "ja": "Hilbert Shield",
+        "ko": "Hilbert Shield",
+        "zh-TW": "Hilbert Shield",
+        "uk": "Hilbert Shield"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "fr": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "it": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "de": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "es": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "pt-BR": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "pl": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "ru": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "tr": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "zh-CN": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "ja": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "ko": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "zh-TW": "Scientific shield temporarily repels alleged ghostly enemies.",
+        "uk": "Scientific shield temporarily repels alleged ghostly enemies."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
+  },
+  "SCUTUS_GRASS": {
+    "name": {
+      "_value": {
+        "en": "Grass Crest Shield",
+        "fr": "Grass Crest Shield",
+        "it": "Grass Crest Shield",
+        "de": "Grass Crest Shield",
+        "es": "Grass Crest Shield",
+        "pt-BR": "Grass Crest Shield",
+        "pl": "Grass Crest Shield",
+        "ru": "Grass Crest Shield",
+        "tr": "Grass Crest Shield",
+        "zh-CN": "Grass Crest Shield",
+        "ja": "Grass Crest Shield",
+        "ko": "Grass Crest Shield",
+        "zh-TW": "Grass Crest Shield",
+        "uk": "Grass Crest Shield"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Relaxing shield temporarily slows enemies down.",
+        "fr": "Relaxing shield temporarily slows enemies down.",
+        "it": "Relaxing shield temporarily slows enemies down.",
+        "de": "Relaxing shield temporarily slows enemies down.",
+        "es": "Relaxing shield temporarily slows enemies down.",
+        "pt-BR": "Relaxing shield temporarily slows enemies down.",
+        "pl": "Relaxing shield temporarily slows enemies down.",
+        "ru": "Relaxing shield temporarily slows enemies down.",
+        "tr": "Relaxing shield temporarily slows enemies down.",
+        "zh-CN": "Relaxing shield temporarily slows enemies down.",
+        "ja": "Relaxing shield temporarily slows enemies down.",
+        "ko": "Relaxing shield temporarily slows enemies down.",
+        "zh-TW": "Relaxing shield temporarily slows enemies down.",
+        "uk": "Relaxing shield temporarily slows enemies down."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
+  },
+  "SCUTUS_AT": {
+    "name": {
+      "_value": {
+        "en": "AT Shield",
+        "fr": "AT Shield",
+        "it": "AT Shield",
+        "de": "AT Shield",
+        "es": "AT Shield",
+        "pt-BR": "AT Shield",
+        "pl": "AT Shield",
+        "ru": "AT Shield",
+        "tr": "AT Shield",
+        "zh-CN": "AT Shield",
+        "ja": "AT Shield",
+        "ko": "AT Shield",
+        "zh-TW": "AT Shield",
+        "uk": "AT Shield"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "fr": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "it": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "de": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "es": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "pt-BR": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "pl": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "ru": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "tr": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "zh-CN": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "ja": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "ko": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "zh-TW": "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "uk": "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": null,
+        "fr": null,
+        "it": null,
+        "de": null,
+        "es": null,
+        "pt-BR": null,
+        "pl": null,
+        "ru": null,
+        "tr": null,
+        "zh-CN": null,
+        "ja": null,
+        "ko": null,
+        "zh-TW": null,
+        "uk": null
+      }
+    }
+  },
+  "RELIC_MAP_BD": {
+    "name": {
+      "_value": {
+        "en": "Biggus Discus Map",
+        "fr": "Biggus Discus Map",
+        "it": "Biggus Discus Map",
+        "de": "Biggus Discus Map",
+        "es": "Biggus Discus Map",
+        "pt-BR": "Biggus Discus Map",
+        "pl": "Biggus Discus Map",
+        "ru": "Biggus Discus Map",
+        "tr": "Biggus Discus Map",
+        "zh-CN": "Biggus Discus Map",
+        "ja": "Biggus Discus Map",
+        "ko": "Biggus Discus Map",
+        "zh-TW": "Biggus Discus Map",
+        "uk": "Biggus Discus Map"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Displays a detailed map when in Biggus Discus.",
+        "fr": "Displays a detailed map when in Biggus Discus.",
+        "it": "Displays a detailed map when in Biggus Discus.",
+        "de": "Displays a detailed map when in Biggus Discus.",
+        "es": "Displays a detailed map when in Biggus Discus.",
+        "pt-BR": "Displays a detailed map when in Biggus Discus.",
+        "pl": "Displays a detailed map when in Biggus Discus.",
+        "ru": "Displays a detailed map when in Biggus Discus.",
+        "tr": "Displays a detailed map when in Biggus Discus.",
+        "zh-CN": "Displays a detailed map when in Biggus Discus.",
+        "ja": "Displays a detailed map when in Biggus Discus.",
+        "ko": "Displays a detailed map when in Biggus Discus.",
+        "zh-TW": "Displays a detailed map when in Biggus Discus.",
+        "uk": "Displays a detailed map when in Biggus Discus."
+      }
+    },
+    "achievementTips": {
+      "_value": {
+        "en": "Biggus Discus Map.",
+        "fr": "Biggus Discus Map.",
+        "it": "Biggus Discus Map.",
+        "de": "Biggus Discus Map.",
+        "es": "Biggus Discus Map.",
+        "pt-BR": "Biggus Discus Map.",
+        "pl": "Biggus Discus Map.",
+        "ru": "Biggus Discus Map.",
+        "tr": "Biggus Discus Map.",
+        "zh-CN": "Biggus Discus Map.",
+        "ja": "Biggus Discus Map.",
+        "ko": "Biggus Discus Map.",
+        "zh-TW": "Biggus Discus Map.",
+        "uk": "Biggus Discus Map."
+      }
+    }
   }
 }

@@ -4816,10 +4816,10 @@
       "pl": "W grze występują jasne, migające światła. W razie wystąpienia zawrotów głowy, zaburzeń widzenia, skurczów oczu lub twarzy, drżenia rąk lub nóg, dezorientacji lub chwilowej utraty świadomości należy natychmiast zaprzestać grania i zasięgnąć porady lekarskiej.\\n\\nJeśli u Ciebie lub kogoś z Twoich krewnych występowały ataki epileptyczne, przed przystąpieniem do gry skonsultuj się z lekarzem.",
       "ru": "В игре есть яркие вспышки света! Если вы испытываете головокружение, ухудшение зрения, подергивания глаз или лица, дрожь в руках или ногах, дезориентацию, спутанность или кратковременные потери сознания, пожалуйста, немедленно прекратите играть и обратитесь к врачу.\\n\\nЕсли у вас или у кого-либо из ваших родственников в прошлом были эпилептические припадки, проконсультируйтесь с врачом перед игрой.",
       "tr": "Bu oyun parlak yanıp sönen ışıklar içerir. Baş dönmesi, görme bozukluğu, göz veya yüz seğirmesi, kol veya bacaklarda sarsılma veya titreme, oryantasyon bozukluğu, kafa karışıklığı veya anlık bilinç kaybı yaşarsanız lütfen oynamayı hemen bırakın ve bir doktora danışın.\\n\\nSizin veya akrabalarınızdan herhangi birinin nöbet veya epilepsi geçmişi varsa, oynamadan önce bir doktora danışın.",
-      "zh-CN": "本游戏包含刺眼的闪光视效。 如果您出现头晕, 视物变形, 头眼抽搐, 手脚震颤, 定向障碍, 意识模糊或短暂失去意识, 请立即停止游戏并及时就诊。 \\n\\n如果您或您的任何亲属有痉挛或癫痫发作的病史, 请在游戏前咨询医生。",
-      "ja": "このゲームには明るい点滅光が含まれています。 \\n軽い頭痛, 視界の変化, 目や顔の痙攣, 手足の痙動や震え, \\n方向感覚の喪失, 混乱, 一瞬の意識の喪失などを感じたら, \\n直ちにプレイを中止し, 医師に相談してください。 \\nご本人またはご家族に発作やてんかんの既往症がある場合は, \\nプレイ前に医師にご相談ください。",
+      "zh-CN": "本游戏包含刺眼的闪光视效。 如果您出现头晕，视物变形，头眼抽搐，手脚震颤，定向障碍，意识模糊或短暂失去意识，请立即停止游戏并及时就诊。 \\n\\n如果您或您的任何亲属有痉挛或癫痫发作的病史，请在游戏前咨询医生。",
+      "ja": "このゲームには明るい点滅光が含まれています。 \\n軽い頭痛、視界の変化、目や顔の痙攣、手足の痙動や震え、\\n方向感覚の喪失、混乱、一瞬の意識の喪失などを感じたら、\\n直ちにプレイを中止し、医師に相談してください。 \\nご本人またはご家族に発作やてんかんの既往症がある場合は、\\nプレイ前に医師にご相談ください。",
       "ko": "이 게임에는 밝게 깜박이는 조명이 포함되어 있습니다. 현기증, 시력 변화, 눈이나 얼굴의 경련, 팔이나 다리의 경련 또는 떨림, 방향 감각 상실, 혼란 또는 일시적인 의식 상실을 경험하면 즉시 게임을 중단하고 의사와 상담하십시오.\\n\\n본인이나 친척이 발작이나 간질의 병력이 있는 경우 게임을 하기 전에 의사와 상담하십시오.",
-      "zh-TW": "本遊戲包含刺眼的閃光視覺特效。如果你出現頭暈、視力變化、頭眼抽搐、手腳顫抖、迷失方向感、意識模糊或短暫失去意識等症狀，請立即停止遊玩並迅速就醫。\\n\\n如果你或你的任意親屬有痙攣或癲癇發作的病史，請在進行遊戲前先諮詢醫師的建議。",
+      "zh-TW": "本遊戲包含刺眼的閃光視覺特效。如果你出現頭暈、視力變化、頭眼抽搐、手腳顫抖、迷失方向感、意識模糊或短暫失去意識等症狀、 請立即停止遊玩並迅速就醫。\\n\\n如果你或你的任意親屬有痙攣或癲癇發作的病史、 請在進行遊戲前先諮詢醫師的建議。",
       "uk": "Гра містить яскраві спалахи світла! Якщо відчуваєте запаморочення, погіршення зору, смикання очей або обличчя, тремтіння рук або ніг, дезорієнтацію, сплутаність або короткострокові втрати свідомості негайно зупинить гру й зверніться до лікаря.\\n\\nЯкщо у вас або в когось із родичів у минулому були напади епілепсії, проконсультуйтеся з лікарем перед початком гри."
     }
   },
@@ -8517,13 +8517,13 @@
     "_value": {
       "en": "Random\\nLevelUp",
       "fr": "Sélections du niveau sup\\naléatoires",
-      "it": "Nuovo livello\\casuale",
+      "it": "Nuovo livello\\ncasuale",
       "de": "Zufalls-\\nLevelaufstieg",
       "es": "Subida de nivel\\naleatoria",
       "pt-BR": "Nível+\\nAleatório",
       "pl": "Losowe\\nzdobywanie poziomów",
       "ru": "Случайное\\nповышение ур.",
-      "tr": "Rastgele\\nSeviyeAtlama",
+      "tr": "Rastgele\\nSeviye Atlama",
       "zh-CN": "随机\\n升级",
       "ja": "ランダム\\nレベルアップ",
       "ko": "랜덤\\n레벨업",
@@ -15273,7 +15273,7 @@
       "pt-BR": "Nível+Aleatório",
       "pl": "Losowe zdobywanie poziomów",
       "ru": "Случайное повышение ур.",
-      "tr": "Rastgele SeviyeAtlama",
+      "tr": "Rastgele Seviye Atlama",
       "zh-CN": "随机 升级",
       "ja": "ランダム レベルアップ",
       "ko": "랜덤 레벨업",
@@ -16507,19 +16507,19 @@
     "description": {
       "_value": {
         "en": "Puts a cap on Area at 150%.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Puts a cap on Area at 150%.",
+        "it": "Puts a cap on Area at 150%.",
+        "de": "Puts a cap on Area at 150%.",
+        "es": "Puts a cap on Area at 150%.",
+        "pt-BR": "Puts a cap on Area at 150%.",
+        "pl": "Puts a cap on Area at 150%.",
+        "ru": "Puts a cap on Area at 150%.",
+        "tr": "Puts a cap on Area at 150%.",
+        "zh-CN": "Puts a cap on Area at 150%.",
+        "ja": "Puts a cap on Area at 150%.",
+        "ko": "Puts a cap on Area at 150%.",
+        "zh-TW": "Puts a cap on Area at 150%.",
+        "uk": "Puts a cap on Area at 150%."
       }
     }
   },
@@ -16543,19 +16543,19 @@
     "description": {
       "_value": {
         "en": "Puts a cap on Move speed and Speed at 150%.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Puts a cap on Move speed and Speed at 150%.",
+        "it": "Puts a cap on Move speed and Speed at 150%.",
+        "de": "Puts a cap on Move speed and Speed at 150%.",
+        "es": "Puts a cap on Move speed and Speed at 150%.",
+        "pt-BR": "Puts a cap on Move speed and Speed at 150%.",
+        "pl": "Puts a cap on Move speed and Speed at 150%.",
+        "ru": "Puts a cap on Move speed and Speed at 150%.",
+        "tr": "Puts a cap on Move speed and Speed at 150%.",
+        "zh-CN": "Puts a cap on Move speed and Speed at 150%.",
+        "ja": "Puts a cap on Move speed and Speed at 150%.",
+        "ko": "Puts a cap on Move speed and Speed at 150%.",
+        "zh-TW": "Puts a cap on Move speed and Speed at 150%.",
+        "uk": "Puts a cap on Move speed and Speed at 150%."
       }
     }
   },
@@ -16579,19 +16579,19 @@
     "description": {
       "_value": {
         "en": "Blocks the activation of all weapons but those in the first 4 slots.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "it": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "de": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "es": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "pt-BR": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "pl": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "ru": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "tr": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "zh-CN": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "ja": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "ko": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "zh-TW": "Blocks the activation of all weapons but those in the first 4 slots.",
+        "uk": "Blocks the activation of all weapons but those in the first 4 slots."
       }
     }
   },
@@ -16615,200 +16615,922 @@
     "description": {
       "_value": {
         "en": "All bought Power Up bonuses for combat stats are ignored.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "All bought Power Up bonuses for combat stats are ignored.",
+        "it": "All bought Power Up bonuses for combat stats are ignored.",
+        "de": "All bought Power Up bonuses for combat stats are ignored.",
+        "es": "All bought Power Up bonuses for combat stats are ignored.",
+        "pt-BR": "All bought Power Up bonuses for combat stats are ignored.",
+        "pl": "All bought Power Up bonuses for combat stats are ignored.",
+        "ru": "All bought Power Up bonuses for combat stats are ignored.",
+        "tr": "All bought Power Up bonuses for combat stats are ignored.",
+        "zh-CN": "All bought Power Up bonuses for combat stats are ignored.",
+        "ja": "All bought Power Up bonuses for combat stats are ignored.",
+        "ko": "All bought Power Up bonuses for combat stats are ignored.",
+        "zh-TW": "All bought Power Up bonuses for combat stats are ignored.",
+        "uk": "All bought Power Up bonuses for combat stats are ignored."
       }
     }
   },
   "law_solitaryexplorer": {
     "_value": {
       "en": "SOLITARY EXPLORER LAW",
-      "fr": null,
-      "it": null,
-      "de": null,
-      "es": null,
-      "pt-BR": null,
-      "pl": null,
-      "ru": null,
-      "tr": null,
-      "zh-CN": null,
-      "ja": null,
-      "ko": null,
-      "zh-TW": null,
-      "uk": null
+      "fr": "SOLITARY EXPLORER LAW",
+      "it": "SOLITARY EXPLORER LAW",
+      "de": "SOLITARY EXPLORER LAW",
+      "es": "SOLITARY EXPLORER LAW",
+      "pt-BR": "SOLITARY EXPLORER LAW",
+      "pl": "SOLITARY EXPLORER LAW",
+      "ru": "SOLITARY EXPLORER LAW",
+      "tr": "SOLITARY EXPLORER LAW",
+      "zh-CN": "SOLITARY EXPLORER LAW",
+      "ja": "SOLITARY EXPLORER LAW",
+      "ko": "SOLITARY EXPLORER LAW",
+      "zh-TW": "SOLITARY EXPLORER LAW",
+      "uk": "SOLITARY EXPLORER LAW"
     },
     "description": {
       "_value": {
         "en": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "it": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "de": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "es": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "pt-BR": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "pl": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "ru": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "tr": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "zh-CN": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "ja": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "ko": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "zh-TW": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger.",
+        "uk": "Enemy quantity is greatly reduced. Enemy Health and XP yield is greatly increased. Player attacks are slower but stronger."
       }
     }
   },
   "law_forebodingascetic": {
     "_value": {
       "en": "FOREBODING ASCETIC LAW",
-      "fr": null,
-      "it": null,
-      "de": null,
-      "es": null,
-      "pt-BR": null,
-      "pl": null,
-      "ru": null,
-      "tr": null,
-      "zh-CN": null,
-      "ja": null,
-      "ko": null,
-      "zh-TW": null,
-      "uk": null
+      "fr": "FOREBODING ASCETIC LAW",
+      "it": "FOREBODING ASCETIC LAW",
+      "de": "FOREBODING ASCETIC LAW",
+      "es": "FOREBODING ASCETIC LAW",
+      "pt-BR": "FOREBODING ASCETIC LAW",
+      "pl": "FOREBODING ASCETIC LAW",
+      "ru": "FOREBODING ASCETIC LAW",
+      "tr": "FOREBODING ASCETIC LAW",
+      "zh-CN": "FOREBODING ASCETIC LAW",
+      "ja": "FOREBODING ASCETIC LAW",
+      "ko": "FOREBODING ASCETIC LAW",
+      "zh-TW": "FOREBODING ASCETIC LAW",
+      "uk": "FOREBODING ASCETIC LAW"
     },
     "description": {
       "_value": {
         "en": "Puts a cap on Level at 80.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Puts a cap on Level at 80.",
+        "it": "Puts a cap on Level at 80.",
+        "de": "Puts a cap on Level at 80.",
+        "es": "Puts a cap on Level at 80.",
+        "pt-BR": "Puts a cap on Level at 80.",
+        "pl": "Puts a cap on Level at 80.",
+        "ru": "Puts a cap on Level at 80.",
+        "tr": "Puts a cap on Level at 80.",
+        "zh-CN": "Puts a cap on Level at 80.",
+        "ja": "Puts a cap on Level at 80.",
+        "ko": "Puts a cap on Level at 80.",
+        "zh-TW": "Puts a cap on Level at 80.",
+        "uk": "Puts a cap on Level at 80."
       }
     }
   },
   "law_huntedwolf": {
     "_value": {
       "en": "HUNTED WOLF LAW",
-      "fr": null,
-      "it": null,
-      "de": null,
-      "es": null,
-      "pt-BR": null,
-      "pl": null,
-      "ru": null,
-      "tr": null,
-      "zh-CN": null,
-      "ja": null,
-      "ko": null,
-      "zh-TW": null,
-      "uk": null
+      "fr": "HUNTED WOLF LAW",
+      "it": "HUNTED WOLF LAW",
+      "de": "HUNTED WOLF LAW",
+      "es": "HUNTED WOLF LAW",
+      "pt-BR": "HUNTED WOLF LAW",
+      "pl": "HUNTED WOLF LAW",
+      "ru": "HUNTED WOLF LAW",
+      "tr": "HUNTED WOLF LAW",
+      "zh-CN": "HUNTED WOLF LAW",
+      "ja": "HUNTED WOLF LAW",
+      "ko": "HUNTED WOLF LAW",
+      "zh-TW": "HUNTED WOLF LAW",
+      "uk": "HUNTED WOLF LAW"
     },
     "description": {
       "_value": {
         "en": "Light Sources don't spawn.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Light Sources don't spawn.",
+        "it": "Light Sources don't spawn.",
+        "de": "Light Sources don't spawn.",
+        "es": "Light Sources don't spawn.",
+        "pt-BR": "Light Sources don't spawn.",
+        "pl": "Light Sources don't spawn.",
+        "ru": "Light Sources don't spawn.",
+        "tr": "Light Sources don't spawn.",
+        "zh-CN": "Light Sources don't spawn.",
+        "ja": "Light Sources don't spawn.",
+        "ko": "Light Sources don't spawn.",
+        "zh-TW": "Light Sources don't spawn.",
+        "uk": "Light Sources don't spawn."
       }
     }
   },
   "law_foreordainedraven": {
     "_value": {
       "en": "FOREORDAINED RAVEN LAW",
-      "fr": null,
-      "it": null,
-      "de": null,
-      "es": null,
-      "pt-BR": null,
-      "pl": null,
-      "ru": null,
-      "tr": null,
-      "zh-CN": null,
-      "ja": null,
-      "ko": null,
-      "zh-TW": null,
-      "uk": null
+      "fr": "FOREORDAINED RAVEN LAW",
+      "it": "FOREORDAINED RAVEN LAW",
+      "de": "FOREORDAINED RAVEN LAW",
+      "es": "FOREORDAINED RAVEN LAW",
+      "pt-BR": "FOREORDAINED RAVEN LAW",
+      "pl": "FOREORDAINED RAVEN LAW",
+      "ru": "FOREORDAINED RAVEN LAW",
+      "tr": "FOREORDAINED RAVEN LAW",
+      "zh-CN": "FOREORDAINED RAVEN LAW",
+      "ja": "FOREORDAINED RAVEN LAW",
+      "ko": "FOREORDAINED RAVEN LAW",
+      "zh-TW": "FOREORDAINED RAVEN LAW",
+      "uk": "FOREORDAINED RAVEN LAW"
     },
     "description": {
       "_value": {
         "en": "Synergies always appear as level up options.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Synergies always appear as level up options.",
+        "it": "Synergies always appear as level up options.",
+        "de": "Synergies always appear as level up options.",
+        "es": "Synergies always appear as level up options.",
+        "pt-BR": "Synergies always appear as level up options.",
+        "pl": "Synergies always appear as level up options.",
+        "ru": "Synergies always appear as level up options.",
+        "tr": "Synergies always appear as level up options.",
+        "zh-CN": "Synergies always appear as level up options.",
+        "ja": "Synergies always appear as level up options.",
+        "ko": "Synergies always appear as level up options.",
+        "zh-TW": "Synergies always appear as level up options.",
+        "uk": "Synergies always appear as level up options."
       }
     }
   },
   "law_steadfastruler": {
     "_value": {
       "en": "STEADFAST RULER LAW",
-      "fr": null,
-      "it": null,
-      "de": null,
-      "es": null,
-      "pt-BR": null,
-      "pl": null,
-      "ru": null,
-      "tr": null,
-      "zh-CN": null,
-      "ja": null,
-      "ko": null,
-      "zh-TW": null,
-      "uk": null
+      "fr": "STEADFAST RULER LAW",
+      "it": "STEADFAST RULER LAW",
+      "de": "STEADFAST RULER LAW",
+      "es": "STEADFAST RULER LAW",
+      "pt-BR": "STEADFAST RULER LAW",
+      "pl": "STEADFAST RULER LAW",
+      "ru": "STEADFAST RULER LAW",
+      "tr": "STEADFAST RULER LAW",
+      "zh-CN": "STEADFAST RULER LAW",
+      "ja": "STEADFAST RULER LAW",
+      "ko": "STEADFAST RULER LAW",
+      "zh-TW": "STEADFAST RULER LAW",
+      "uk": "STEADFAST RULER LAW"
     },
     "description": {
       "_value": {
         "en": "Cannot gain Golden Eggs.",
-        "fr": null,
-        "it": null,
-        "de": null,
-        "es": null,
-        "pt-BR": null,
-        "pl": null,
-        "ru": null,
-        "tr": null,
-        "zh-CN": null,
-        "ja": null,
-        "ko": null,
-        "zh-TW": null,
-        "uk": null
+        "fr": "Cannot gain Golden Eggs.",
+        "it": "Cannot gain Golden Eggs.",
+        "de": "Cannot gain Golden Eggs.",
+        "es": "Cannot gain Golden Eggs.",
+        "pt-BR": "Cannot gain Golden Eggs.",
+        "pl": "Cannot gain Golden Eggs.",
+        "ru": "Cannot gain Golden Eggs.",
+        "tr": "Cannot gain Golden Eggs.",
+        "zh-CN": "Cannot gain Golden Eggs.",
+        "ja": "Cannot gain Golden Eggs.",
+        "ko": "Cannot gain Golden Eggs.",
+        "zh-TW": "Cannot gain Golden Eggs.",
+        "uk": "Cannot gain Golden Eggs."
       }
+    }
+  },
+  "law_jollyrabbit": {
+    "_value": {
+      "en": "JOLLY RABBIT LAW",
+      "fr": "JOLLY RABBIT LAW",
+      "it": "JOLLY RABBIT LAW",
+      "de": "JOLLY RABBIT LAW",
+      "es": "JOLLY RABBIT LAW",
+      "pt-BR": "JOLLY RABBIT LAW",
+      "pl": "JOLLY RABBIT LAW",
+      "ru": "JOLLY RABBIT LAW",
+      "tr": "JOLLY RABBIT LAW",
+      "zh-CN": "JOLLY RABBIT LAW",
+      "ja": "JOLLY RABBIT LAW",
+      "ko": "JOLLY RABBIT LAW",
+      "zh-TW": "JOLLY RABBIT LAW",
+      "uk": "JOLLY RABBIT LAW"
+    }
+  },
+  "law_law_jollyrabbit": {
+    "description": {
+      "_value": {
+        "en": "Playing characters are bouncy.",
+        "fr": "Playing characters are bouncy.",
+        "it": "Playing characters are bouncy.",
+        "de": "Playing characters are bouncy.",
+        "es": "Playing characters are bouncy.",
+        "pt-BR": "Playing characters are bouncy.",
+        "pl": "Playing characters are bouncy.",
+        "ru": "Playing characters are bouncy.",
+        "tr": "Playing characters are bouncy.",
+        "zh-CN": "Playing characters are bouncy.",
+        "ja": "Playing characters are bouncy.",
+        "ko": "Playing characters are bouncy.",
+        "zh-TW": "Playing characters are bouncy.",
+        "uk": "Playing characters are bouncy."
+      }
+    }
+  },
+  "options_tab_mods": {
+    "_value": {
+      "en": "Mods",
+      "fr": "Mods",
+      "it": "Mods",
+      "de": "Mods",
+      "es": "Mods",
+      "pt-BR": "Mods",
+      "pl": "Mods",
+      "ru": "Mods",
+      "tr": "Mods",
+      "zh-CN": "Mods",
+      "ja": "Mods",
+      "ko": "Mods",
+      "zh-TW": "Mods",
+      "uk": "Mods"
+    }
+  },
+  "mods_workshop_page": {
+    "_value": {
+      "en": "Vampire Survivors Steam Workshop",
+      "fr": "Vampire Survivors Steam Workshop",
+      "it": "Vampire Survivors Steam Workshop",
+      "de": "Vampire Survivors Steam Workshop",
+      "es": "Vampire Survivors Steam Workshop",
+      "pt-BR": "Vampire Survivors Steam Workshop",
+      "pl": "Vampire Survivors Steam Workshop",
+      "ru": "Vampire Survivors Steam Workshop",
+      "tr": "Vampire Survivors Steam Workshop",
+      "zh-CN": "Vampire Survivors Steam Workshop",
+      "ja": "Vampire Survivors Steam Workshop",
+      "ko": "Vampire Survivors Steam Workshop",
+      "zh-TW": "Vampire Survivors Steam Workshop",
+      "uk": "Vampire Survivors Steam Workshop"
+    }
+  },
+  "mods_active_items": {
+    "_value": {
+      "en": "Active Workshop items",
+      "fr": "Active Workshop items",
+      "it": "Active Workshop items",
+      "de": "Active Workshop items",
+      "es": "Active Workshop items",
+      "pt-BR": "Active Workshop items",
+      "pl": "Active Workshop items",
+      "ru": "Active Workshop items",
+      "tr": "Active Workshop items",
+      "zh-CN": "Active Workshop items",
+      "ja": "Active Workshop items",
+      "ko": "Active Workshop items",
+      "zh-TW": "Active Workshop items",
+      "uk": "Active Workshop items"
+    }
+  },
+  "mods_no_items": {
+    "_value": {
+      "en": "No Workshop items are subscribed.",
+      "fr": "No Workshop items are subscribed.",
+      "it": "No Workshop items are subscribed.",
+      "de": "No Workshop items are subscribed.",
+      "es": "No Workshop items are subscribed.",
+      "pt-BR": "No Workshop items are subscribed.",
+      "pl": "No Workshop items are subscribed.",
+      "ru": "No Workshop items are subscribed.",
+      "tr": "No Workshop items are subscribed.",
+      "zh-CN": "No Workshop items are subscribed.",
+      "ja": "No Workshop items are subscribed.",
+      "ko": "No Workshop items are subscribed.",
+      "zh-TW": "No Workshop items are subscribed.",
+      "uk": "No Workshop items are subscribed."
+    }
+  },
+  "mods_upload_desc": {
+    "_value": {
+      "en": "Upload a character to the Workshop",
+      "fr": "Upload a character to the Workshop",
+      "it": "Upload a character to the Workshop",
+      "de": "Upload a character to the Workshop",
+      "es": "Upload a character to the Workshop",
+      "pt-BR": "Upload a character to the Workshop",
+      "pl": "Upload a character to the Workshop",
+      "ru": "Upload a character to the Workshop",
+      "tr": "Upload a character to the Workshop",
+      "zh-CN": "Upload a character to the Workshop",
+      "ja": "Upload a character to the Workshop",
+      "ko": "Upload a character to the Workshop",
+      "zh-TW": "Upload a character to the Workshop",
+      "uk": "Upload a character to the Workshop"
+    }
+  },
+  "mods_upload": {
+    "_value": {
+      "en": "UPLOAD",
+      "fr": "UPLOAD",
+      "it": "UPLOAD",
+      "de": "UPLOAD",
+      "es": "UPLOAD",
+      "pt-BR": "UPLOAD",
+      "pl": "UPLOAD",
+      "ru": "UPLOAD",
+      "tr": "UPLOAD",
+      "zh-CN": "UPLOAD",
+      "ja": "UPLOAD",
+      "ko": "UPLOAD",
+      "zh-TW": "UPLOAD",
+      "uk": "UPLOAD"
+    }
+  },
+  "mods_upload_title": {
+    "_value": {
+      "en": "Upload a character to the Workshop",
+      "fr": "Upload a character to the Workshop",
+      "it": "Upload a character to the Workshop",
+      "de": "Upload a character to the Workshop",
+      "es": "Upload a character to the Workshop",
+      "pt-BR": "Upload a character to the Workshop",
+      "pl": "Upload a character to the Workshop",
+      "ru": "Upload a character to the Workshop",
+      "tr": "Upload a character to the Workshop",
+      "zh-CN": "Upload a character to the Workshop",
+      "ja": "Upload a character to the Workshop",
+      "ko": "Upload a character to the Workshop",
+      "zh-TW": "Upload a character to the Workshop",
+      "uk": "Upload a character to the Workshop"
+    }
+  },
+  "mods_select_file": {
+    "_value": {
+      "en": "Select character file (.zip)",
+      "fr": "Select character file (.zip)",
+      "it": "Select character file (.zip)",
+      "de": "Select character file (.zip)",
+      "es": "Select character file (.zip)",
+      "pt-BR": "Select character file (.zip)",
+      "pl": "Select character file (.zip)",
+      "ru": "Select character file (.zip)",
+      "tr": "Select character file (.zip)",
+      "zh-CN": "Select character file (.zip)",
+      "ja": "Select character file (.zip)",
+      "ko": "Select character file (.zip)",
+      "zh-TW": "Select character file (.zip)",
+      "uk": "Select character file (.zip)"
+    }
+  },
+  "mods_select_preview": {
+    "_value": {
+      "en": "Select preview image",
+      "fr": "Select preview image",
+      "it": "Select preview image",
+      "de": "Select preview image",
+      "es": "Select preview image",
+      "pt-BR": "Select preview image",
+      "pl": "Select preview image",
+      "ru": "Select preview image",
+      "tr": "Select preview image",
+      "zh-CN": "Select preview image",
+      "ja": "Select preview image",
+      "ko": "Select preview image",
+      "zh-TW": "Select preview image",
+      "uk": "Select preview image"
+    }
+  },
+  "mods_no_item_id": {
+    "_value": {
+      "en": "No workshop ID",
+      "fr": "No workshop ID",
+      "it": "No workshop ID",
+      "de": "No workshop ID",
+      "es": "No workshop ID",
+      "pt-BR": "No workshop ID",
+      "pl": "No workshop ID",
+      "ru": "No workshop ID",
+      "tr": "No workshop ID",
+      "zh-CN": "No workshop ID",
+      "ja": "No workshop ID",
+      "ko": "No workshop ID",
+      "zh-TW": "No workshop ID",
+      "uk": "No workshop ID"
+    }
+  },
+  "mods_terms": {
+    "_value": {
+      "en": "By submitting this item, you agree to the",
+      "fr": "By submitting this item, you agree to the",
+      "it": "By submitting this item, you agree to the",
+      "de": "By submitting this item, you agree to the",
+      "es": "By submitting this item, you agree to the",
+      "pt-BR": "By submitting this item, you agree to the",
+      "pl": "By submitting this item, you agree to the",
+      "ru": "By submitting this item, you agree to the",
+      "tr": "By submitting this item, you agree to the",
+      "zh-CN": "By submitting this item, you agree to the",
+      "ja": "By submitting this item, you agree to the",
+      "ko": "By submitting this item, you agree to the",
+      "zh-TW": "By submitting this item, you agree to the",
+      "uk": "By submitting this item, you agree to the"
+    }
+  },
+  "mods_terms_link": {
+    "_value": {
+      "en": "workshop terms of service",
+      "fr": "workshop terms of service",
+      "it": "workshop terms of service",
+      "de": "workshop terms of service",
+      "es": "workshop terms of service",
+      "pt-BR": "workshop terms of service",
+      "pl": "workshop terms of service",
+      "ru": "workshop terms of service",
+      "tr": "workshop terms of service",
+      "zh-CN": "workshop terms of service",
+      "ja": "workshop terms of service",
+      "ko": "workshop terms of service",
+      "zh-TW": "workshop terms of service",
+      "uk": "workshop terms of service"
+    }
+  },
+  "mods_instructions": {
+    "_value": {
+      "en": "Instructions",
+      "fr": "Instructions",
+      "it": "Instructions",
+      "de": "Instructions",
+      "es": "Instructions",
+      "pt-BR": "Instructions",
+      "pl": "Instructions",
+      "ru": "Instructions",
+      "tr": "Instructions",
+      "zh-CN": "Instructions",
+      "ja": "Instructions",
+      "ko": "Instructions",
+      "zh-TW": "Instructions",
+      "uk": "Instructions"
+    }
+  },
+  "mods_instructions_1": {
+    "_value": {
+      "en": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "fr": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "it": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "de": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "es": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "pt-BR": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "pl": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "ru": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "tr": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "zh-CN": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "ja": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "ko": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "zh-TW": "1) Select the character you want to upload (a .zip made with a character editor)",
+      "uk": "1) Select the character you want to upload (a .zip made with a character editor)"
+    }
+  },
+  "mods_instructions_2": {
+    "_value": {
+      "en": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "fr": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "it": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "de": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "es": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "pt-BR": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "pl": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "ru": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "tr": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "zh-CN": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "ja": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "ko": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "zh-TW": "2) Select a preview image (.png or .jpg, up to 1 MB)",
+      "uk": "2) Select a preview image (.png or .jpg, up to 1 MB)"
+    }
+  },
+  "mods_instructions_3": {
+    "_value": {
+      "en": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "fr": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "it": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "de": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "es": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "pt-BR": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "pl": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "ru": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "tr": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "zh-CN": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "ja": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "ko": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "zh-TW": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character",
+      "uk": "3) Add the character's Workshop ID if you're updating it, leave empty if it's a new character"
+    }
+  },
+  "mods_instructions_4": {
+    "_value": {
+      "en": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "fr": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "it": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "de": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "es": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "pt-BR": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "pl": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "ru": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "tr": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "zh-CN": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "ja": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "ko": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "zh-TW": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it",
+      "uk": "4) Upload it and take note of the Workshop ID if it's a new character. Use it when you want to update it"
+    }
+  },
+  "mods_instructions_5": {
+    "_value": {
+      "en": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "fr": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "it": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "de": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "es": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "pt-BR": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "pl": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "ru": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "tr": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "zh-CN": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "ja": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "ko": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "zh-TW": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready",
+      "uk": "5) Check and edit your character in the Steam Workshop, then set it public when it's ready"
+    }
+  },
+  "mods_steam_ok": {
+    "_value": {
+      "en": "Steam initialization OK!",
+      "fr": "Steam initialization OK!",
+      "it": "Steam initialization OK!",
+      "de": "Steam initialization OK!",
+      "es": "Steam initialization OK!",
+      "pt-BR": "Steam initialization OK!",
+      "pl": "Steam initialization OK!",
+      "ru": "Steam initialization OK!",
+      "tr": "Steam initialization OK!",
+      "zh-CN": "Steam initialization OK!",
+      "ja": "Steam initialization OK!",
+      "ko": "Steam initialization OK!",
+      "zh-TW": "Steam initialization OK!",
+      "uk": "Steam initialization OK!"
+    }
+  },
+  "mods_steam_missing": {
+    "_value": {
+      "en": "Steam is not running, so uploading is not available.",
+      "fr": "Steam is not running, so uploading is not available.",
+      "it": "Steam is not running, so uploading is not available.",
+      "de": "Steam is not running, so uploading is not available.",
+      "es": "Steam is not running, so uploading is not available.",
+      "pt-BR": "Steam is not running, so uploading is not available.",
+      "pl": "Steam is not running, so uploading is not available.",
+      "ru": "Steam is not running, so uploading is not available.",
+      "tr": "Steam is not running, so uploading is not available.",
+      "zh-CN": "Steam is not running, so uploading is not available.",
+      "ja": "Steam is not running, so uploading is not available.",
+      "ko": "Steam is not running, so uploading is not available.",
+      "zh-TW": "Steam is not running, so uploading is not available.",
+      "uk": "Steam is not running, so uploading is not available."
+    }
+  },
+  "mods_no_picker": {
+    "_value": {
+      "en": "No file dialog is available here. Type or paste the path instead.",
+      "fr": "No file dialog is available here. Type or paste the path instead.",
+      "it": "No file dialog is available here. Type or paste the path instead.",
+      "de": "No file dialog is available here. Type or paste the path instead.",
+      "es": "No file dialog is available here. Type or paste the path instead.",
+      "pt-BR": "No file dialog is available here. Type or paste the path instead.",
+      "pl": "No file dialog is available here. Type or paste the path instead.",
+      "ru": "No file dialog is available here. Type or paste the path instead.",
+      "tr": "No file dialog is available here. Type or paste the path instead.",
+      "zh-CN": "No file dialog is available here. Type or paste the path instead.",
+      "ja": "No file dialog is available here. Type or paste the path instead.",
+      "ko": "No file dialog is available here. Type or paste the path instead.",
+      "zh-TW": "No file dialog is available here. Type or paste the path instead.",
+      "uk": "No file dialog is available here. Type or paste the path instead."
+    }
+  },
+  "mods_selected": {
+    "_value": {
+      "en": "Selected",
+      "fr": "Selected",
+      "it": "Selected",
+      "de": "Selected",
+      "es": "Selected",
+      "pt-BR": "Selected",
+      "pl": "Selected",
+      "ru": "Selected",
+      "tr": "Selected",
+      "zh-CN": "Selected",
+      "ja": "Selected",
+      "ko": "Selected",
+      "zh-TW": "Selected",
+      "uk": "Selected"
+    }
+  },
+  "mods_uploading": {
+    "_value": {
+      "en": "Uploading",
+      "fr": "Uploading",
+      "it": "Uploading",
+      "de": "Uploading",
+      "es": "Uploading",
+      "pt-BR": "Uploading",
+      "pl": "Uploading",
+      "ru": "Uploading",
+      "tr": "Uploading",
+      "zh-CN": "Uploading",
+      "ja": "Uploading",
+      "ko": "Uploading",
+      "zh-TW": "Uploading",
+      "uk": "Uploading"
+    }
+  },
+  "mods_item_id_title": {
+    "_value": {
+      "en": "Mod ID (optional)",
+      "fr": "Mod ID (optional)",
+      "it": "Mod ID (optional)",
+      "de": "Mod ID (optional)",
+      "es": "Mod ID (optional)",
+      "pt-BR": "Mod ID (optional)",
+      "pl": "Mod ID (optional)",
+      "ru": "Mod ID (optional)",
+      "tr": "Mod ID (optional)",
+      "zh-CN": "Mod ID (optional)",
+      "ja": "Mod ID (optional)",
+      "ko": "Mod ID (optional)",
+      "zh-TW": "Mod ID (optional)",
+      "uk": "Mod ID (optional)"
+    }
+  },
+  "mods_status_downloading": {
+    "_value": {
+      "en": "Downloading {0}%",
+      "fr": "Downloading {0}%",
+      "it": "Downloading {0}%",
+      "de": "Downloading {0}%",
+      "es": "Downloading {0}%",
+      "pt-BR": "Downloading {0}%",
+      "pl": "Downloading {0}%",
+      "ru": "Downloading {0}%",
+      "tr": "Downloading {0}%",
+      "zh-CN": "Downloading {0}%",
+      "ja": "Downloading {0}%",
+      "ko": "Downloading {0}%",
+      "zh-TW": "Downloading {0}%",
+      "uk": "Downloading {0}%"
+    }
+  },
+  "mods_status_pending": {
+    "_value": {
+      "en": "Waiting to download",
+      "fr": "Waiting to download",
+      "it": "Waiting to download",
+      "de": "Waiting to download",
+      "es": "Waiting to download",
+      "pt-BR": "Waiting to download",
+      "pl": "Waiting to download",
+      "ru": "Waiting to download",
+      "tr": "Waiting to download",
+      "zh-CN": "Waiting to download",
+      "ja": "Waiting to download",
+      "ko": "Waiting to download",
+      "zh-TW": "Waiting to download",
+      "uk": "Waiting to download"
+    }
+  },
+  "mods_status_not_downloaded": {
+    "_value": {
+      "en": "Not downloaded",
+      "fr": "Not downloaded",
+      "it": "Not downloaded",
+      "de": "Not downloaded",
+      "es": "Not downloaded",
+      "pt-BR": "Not downloaded",
+      "pl": "Not downloaded",
+      "ru": "Not downloaded",
+      "tr": "Not downloaded",
+      "zh-CN": "Not downloaded",
+      "ja": "Not downloaded",
+      "ko": "Not downloaded",
+      "zh-TW": "Not downloaded",
+      "uk": "Not downloaded"
+    }
+  },
+  "mods_status_update": {
+    "_value": {
+      "en": "Update pending",
+      "fr": "Update pending",
+      "it": "Update pending",
+      "de": "Update pending",
+      "es": "Update pending",
+      "pt-BR": "Update pending",
+      "pl": "Update pending",
+      "ru": "Update pending",
+      "tr": "Update pending",
+      "zh-CN": "Update pending",
+      "ja": "Update pending",
+      "ko": "Update pending",
+      "zh-TW": "Update pending",
+      "uk": "Update pending"
+    }
+  },
+  "mods_status_not_loaded": {
+    "_value": {
+      "en": "Downloaded, reload to play",
+      "fr": "Downloaded, reload to play",
+      "it": "Downloaded, reload to play",
+      "de": "Downloaded, reload to play",
+      "es": "Downloaded, reload to play",
+      "pt-BR": "Downloaded, reload to play",
+      "pl": "Downloaded, reload to play",
+      "ru": "Downloaded, reload to play",
+      "tr": "Downloaded, reload to play",
+      "zh-CN": "Downloaded, reload to play",
+      "ja": "Downloaded, reload to play",
+      "ko": "Downloaded, reload to play",
+      "zh-TW": "Downloaded, reload to play",
+      "uk": "Downloaded, reload to play"
+    }
+  },
+  "mods_status_unsubscribed": {
+    "_value": {
+      "en": "Unsubscribed, reload to remove",
+      "fr": "Unsubscribed, reload to remove",
+      "it": "Unsubscribed, reload to remove",
+      "de": "Unsubscribed, reload to remove",
+      "es": "Unsubscribed, reload to remove",
+      "pt-BR": "Unsubscribed, reload to remove",
+      "pl": "Unsubscribed, reload to remove",
+      "ru": "Unsubscribed, reload to remove",
+      "tr": "Unsubscribed, reload to remove",
+      "zh-CN": "Unsubscribed, reload to remove",
+      "ja": "Unsubscribed, reload to remove",
+      "ko": "Unsubscribed, reload to remove",
+      "zh-TW": "Unsubscribed, reload to remove",
+      "uk": "Unsubscribed, reload to remove"
+    }
+  },
+  "mods_load_new": {
+    "_value": {
+      "en": "RELOAD",
+      "fr": "RELOAD",
+      "it": "RELOAD",
+      "de": "RELOAD",
+      "es": "RELOAD",
+      "pt-BR": "RELOAD",
+      "pl": "RELOAD",
+      "ru": "RELOAD",
+      "tr": "RELOAD",
+      "zh-CN": "RELOAD",
+      "ja": "RELOAD",
+      "ko": "RELOAD",
+      "zh-TW": "RELOAD",
+      "uk": "RELOAD"
+    }
+  },
+  "mods_loading": {
+    "_value": {
+      "en": "Reloading the Workshop characters...",
+      "fr": "Reloading the Workshop characters...",
+      "it": "Reloading the Workshop characters...",
+      "de": "Reloading the Workshop characters...",
+      "es": "Reloading the Workshop characters...",
+      "pt-BR": "Reloading the Workshop characters...",
+      "pl": "Reloading the Workshop characters...",
+      "ru": "Reloading the Workshop characters...",
+      "tr": "Reloading the Workshop characters...",
+      "zh-CN": "Reloading the Workshop characters...",
+      "ja": "Reloading the Workshop characters...",
+      "ko": "Reloading the Workshop characters...",
+      "zh-TW": "Reloading the Workshop characters...",
+      "uk": "Reloading the Workshop characters..."
+    }
+  },
+  "mods_status_unsubscribed_done": {
+    "_value": {
+      "en": "Unsubscribed",
+      "fr": "Unsubscribed",
+      "it": "Unsubscribed",
+      "de": "Unsubscribed",
+      "es": "Unsubscribed",
+      "pt-BR": "Unsubscribed",
+      "pl": "Unsubscribed",
+      "ru": "Unsubscribed",
+      "tr": "Unsubscribed",
+      "zh-CN": "Unsubscribed",
+      "ja": "Unsubscribed",
+      "ko": "Unsubscribed",
+      "zh-TW": "Unsubscribed",
+      "uk": "Unsubscribed"
+    }
+  },
+  "mods_reload_changes": {
+    "_value": {
+      "en": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "fr": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "it": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "de": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "es": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "pt-BR": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "pl": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "ru": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "tr": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "zh-CN": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "ja": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "ko": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "zh-TW": "Since the characters were loaded: {0} downloaded, {1} unsubscribed",
+      "uk": "Since the characters were loaded: {0} downloaded, {1} unsubscribed"
+    }
+  },
+  "mods_unsubscribe_confirm": {
+    "_value": {
+      "en": "Unsubscribe from this item?",
+      "fr": "Unsubscribe from this item?",
+      "it": "Unsubscribe from this item?",
+      "de": "Unsubscribe from this item?",
+      "es": "Unsubscribe from this item?",
+      "pt-BR": "Unsubscribe from this item?",
+      "pl": "Unsubscribe from this item?",
+      "ru": "Unsubscribe from this item?",
+      "tr": "Unsubscribe from this item?",
+      "zh-CN": "Unsubscribe from this item?",
+      "ja": "Unsubscribe from this item?",
+      "ko": "Unsubscribe from this item?",
+      "zh-TW": "Unsubscribe from this item?",
+      "uk": "Unsubscribe from this item?"
+    }
+  },
+  "options_announcer": {
+    "_value": {
+      "en": "Announcer",
+      "fr": "Announcer",
+      "it": "Announcer",
+      "de": "Announcer",
+      "es": "Announcer",
+      "pt-BR": "Announcer",
+      "pl": "Announcer",
+      "ru": "Announcer",
+      "tr": "Announcer",
+      "zh-CN": "Announcer",
+      "ja": "Announcer",
+      "ko": "Announcer",
+      "zh-TW": "Announcer",
+      "uk": "Announcer"
+    }
+  },
+  "options_announcer_volume": {
+    "_value": {
+      "en": "Voice volume",
+      "fr": "Voice volume",
+      "it": "Voice volume",
+      "de": "Voice volume",
+      "es": "Voice volume",
+      "pt-BR": "Voice volume",
+      "pl": "Voice volume",
+      "ru": "Voice volume",
+      "tr": "Voice volume",
+      "zh-CN": "Voice volume",
+      "ja": "Voice volume",
+      "ko": "Voice volume",
+      "zh-TW": "Voice volume",
+      "uk": "Voice volume"
+    }
+  },
+  "scutusSelector_title": {
+    "_value": {
+      "en": "Shield Selector",
+      "fr": "Shield Selector",
+      "it": "Shield Selector",
+      "de": "Shield Selector",
+      "es": "Shield Selector",
+      "pt-BR": "Shield Selector",
+      "pl": "Shield Selector",
+      "ru": "Shield Selector",
+      "tr": "Shield Selector",
+      "zh-CN": "Shield Selector",
+      "ja": "Shield Selector",
+      "ko": "Shield Selector",
+      "zh-TW": "Shield Selector",
+      "uk": "Shield Selector"
     }
   }
 }

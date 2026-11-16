@@ -1618,20 +1618,20 @@
   "SKIN_SEFIROTTO_CHESTELLO": {
     "description": {
       "_value": {
-        "en": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "fr": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "it": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "de": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "es": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "pt-BR": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "pl": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "ru": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "tr": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "zh-CN": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "ja": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "ko": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "zh-TW": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
-        "uk": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
+        "en": "Might consume coin pickups to gain Might.",
+        "fr": "Might consume coin pickups to gain Might.",
+        "it": "Might consume coin pickups to gain Might.",
+        "de": "Might consume coin pickups to gain Might.",
+        "es": "Might consume coin pickups to gain Might.",
+        "pt-BR": "Might consume coin pickups to gain Might.",
+        "pl": "Might consume coin pickups to gain Might.",
+        "ru": "Might consume coin pickups to gain Might.",
+        "tr": "Might consume coin pickups to gain Might.",
+        "zh-CN": "Might consume coin pickups to gain Might.",
+        "ja": "Might consume coin pickups to gain Might.",
+        "ko": "Might consume coin pickups to gain Might.",
+        "zh-TW": "Might consume coin pickups to gain Might.",
+        "uk": "Might consume coin pickups to gain Might."
       }
     },
     "charName": {
@@ -1656,20 +1656,20 @@
   "SKIN_SEFIROTTO_CICOVA": {
     "description": {
       "_value": {
-        "en": "Might consume coin pickups to gain Might.",
-        "fr": "Might consume coin pickups to gain Might.",
-        "it": "Might consume coin pickups to gain Might.",
-        "de": "Might consume coin pickups to gain Might.",
-        "es": "Might consume coin pickups to gain Might.",
-        "pt-BR": "Might consume coin pickups to gain Might.",
-        "pl": "Might consume coin pickups to gain Might.",
-        "ru": "Might consume coin pickups to gain Might.",
-        "tr": "Might consume coin pickups to gain Might.",
-        "zh-CN": "Might consume coin pickups to gain Might.",
-        "ja": "Might consume coin pickups to gain Might.",
-        "ko": "Might consume coin pickups to gain Might.",
-        "zh-TW": "Might consume coin pickups to gain Might.",
-        "uk": "Might consume coin pickups to gain Might."
+        "en": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "fr": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "it": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "de": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "es": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "pt-BR": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "pl": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "ru": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "tr": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "zh-CN": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "ja": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "ko": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "zh-TW": "Gains an incremental Cooldown bonus while standing still (Max -20%).",
+        "uk": "Gains an incremental Cooldown bonus while standing still (Max -20%)."
       }
     },
     "charName": {

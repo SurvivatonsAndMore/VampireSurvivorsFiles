@@ -5454,6 +5454,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "fr": {
@@ -10911,6 +10933,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "it": {
@@ -11654,7 +11698,7 @@
         "_value": "Bombarda una zona circolare."
       },
       "tips": {
-        "_value": "Best with: Cooldown, Duration."
+        "_value": "Ideale con: Tempo di ricarica, Durata."
       }
     },
     "GUNS_COUNTER": {
@@ -11698,7 +11742,7 @@
         "_value": "Colpisce con una combo il nemico più vicino. Contrattacca."
       },
       "tips": {
-        "_value": "Ignores: Speed, Duration."
+        "_value": "Ignora: Velocità, Durata."
       },
       "customDescValue": {
         "_value": "Attiva i colpi critici e le combo di colpi di grazia."
@@ -11723,7 +11767,7 @@
         "_value": "Ha una probabilità di evocare fonti di luce."
       },
       "tips": {
-        "_value": "Best with: Luck."
+        "_value": "Ideale con: Fortuna."
       },
       "customDescValue": {
         "_value": "Attiva i colpi di grazia."
@@ -16367,6 +16411,28 @@
       },
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
       }
     }
   },
@@ -21825,6 +21891,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "es": {
@@ -27281,6 +27369,28 @@
       },
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
       }
     }
   },
@@ -32739,6 +32849,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "pl": {
@@ -38196,6 +38328,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "ru": {
@@ -39019,7 +39173,7 @@
         "_value": "Пламя оговорки"
       },
       "description": {
-        "_value": "Выпускает конусы пламени."
+        "_value": "Выделяет конусы пламени."
       },
       "tips": {
         "_value": null
@@ -43652,6 +43806,28 @@
       },
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
       }
     }
   },
@@ -49110,6 +49286,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "zh-CN": {
@@ -54566,6 +54764,28 @@
       },
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
       }
     }
   },
@@ -60024,6 +60244,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "ko": {
@@ -65480,6 +65722,28 @@
       },
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
       }
     }
   },
@@ -70938,6 +71202,28 @@
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
       }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
     }
   },
   "uk": {
@@ -76394,6 +76680,28 @@
       },
       "description3": {
         "_value": "Defeated enemies might drop gold coins. Enemies always drop gold coins if defeated by a FIRE-type weapon."
+      }
+    },
+    "EX_BOMBAROLO": {
+      "name": {
+        "_value": "Bombarolo"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
+      }
+    },
+    "D15_COINCANNON": {
+      "name": {
+        "_value": "Everything to lose"
+      },
+      "tips": {
+        "_value": null
+      },
+      "description": {
+        "_value": null
       }
     }
   }

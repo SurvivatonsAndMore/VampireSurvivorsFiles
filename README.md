@@ -1,5 +1,7 @@
 # Vampire Survivors Files
 
+<img src="Images/VS_Logo.png" alt="Vampire Survivors Official Logo" width="40%" height="40%">
+
 Some data files of Vampire Survivors game.
 
 This branch will **not** be merged with main and contains data from `public-beta` version on Steam.

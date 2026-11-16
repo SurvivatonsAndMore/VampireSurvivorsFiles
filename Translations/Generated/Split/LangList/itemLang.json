@@ -5774,5 +5774,415 @@
         "Мапа Замку Червоного Місяця."
       ]
     }
+  },
+  "RELIC_JET": {
+    "name": {
+      "_value": [
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet",
+        "Chaos Jet"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80.",
+        "Allows Real Trio to morph when reaching Level 80."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel.",
+        "One Disserting Angel."
+      ]
+    },
+    "tips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "RELIC_MPSHOUT": {
+    "name": {
+      "_value": [
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout",
+        "MP Shout"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer.",
+        "Enables the Announcer."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option.",
+        "Announcer option."
+      ]
+    }
+  },
+  "SCUTUS_OMEGA": {
+    "name": {
+      "_value": [
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield",
+        "Omega Shield"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles.",
+        "Dramatically named shield temporarily blocks enemy projectiles."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SCUTUS_HILBERT": {
+    "name": {
+      "_value": [
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield",
+        "Hilbert Shield"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies.",
+        "Scientific shield temporarily repels alleged ghostly enemies."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SCUTUS_GRASS": {
+    "name": {
+      "_value": [
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield",
+        "Grass Crest Shield"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down.",
+        "Relaxing shield temporarily slows enemies down."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SCUTUS_AT": {
+    "name": {
+      "_value": [
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield",
+        "AT Shield"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals.",
+        "Traumatic shield temporarily pushes enemies away at fixed intervals."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "RELIC_MAP_BD": {
+    "name": {
+      "_value": [
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map",
+        "Biggus Discus Map"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus.",
+        "Displays a detailed map when in Biggus Discus."
+      ]
+    },
+    "achievementTips": {
+      "_value": [
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map.",
+        "Biggus Discus Map."
+      ]
+    }
   }
 }
