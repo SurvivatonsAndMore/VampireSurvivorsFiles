@@ -1728,5 +1728,81 @@
         "Sefi Rotto"
       ]
     }
+  },
+  "SKIN_HUSKER_ONLY_EBONY": {
+    "suffix": {
+      "_value": [
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)",
+        "(Ebony)"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings.",
+        "Has only a hidden Ebony Wings."
+      ]
+    }
+  },
+  "SKIN_HUSKER_ONLY_PAKO": {
+    "suffix": {
+      "_value": [
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)",
+        "(Pako)"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia.",
+        "Has only a hidden Pako Battilia."
+      ]
+    }
   }
 }

@@ -364,6 +364,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "fr": {
@@ -730,6 +746,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   },
@@ -1098,6 +1130,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "de": {
@@ -1464,6 +1512,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   },
@@ -1832,6 +1896,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "pt-BR": {
@@ -2198,6 +2278,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   },
@@ -2566,6 +2662,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "ru": {
@@ -2932,6 +3044,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   },
@@ -3300,6 +3428,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "zh-CN": {
@@ -3666,6 +3810,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   },
@@ -4034,6 +4194,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "ko": {
@@ -4400,6 +4576,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   },
@@ -4768,6 +4960,22 @@
       "charName": {
         "_value": "Sefi Rotto"
       }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
+      }
     }
   },
   "uk": {
@@ -5134,6 +5342,22 @@
       },
       "charName": {
         "_value": "Sefi Rotto"
+      }
+    },
+    "SKIN_HUSKER_ONLY_EBONY": {
+      "suffix": {
+        "_value": "(Ebony)"
+      },
+      "description": {
+        "_value": "Has only a hidden Ebony Wings."
+      }
+    },
+    "SKIN_HUSKER_ONLY_PAKO": {
+      "suffix": {
+        "_value": "(Pako)"
+      },
+      "description": {
+        "_value": "Has only a hidden Pako Battilia."
       }
     }
   }

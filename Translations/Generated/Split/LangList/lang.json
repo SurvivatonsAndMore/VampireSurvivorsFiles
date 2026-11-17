@@ -3007,7 +3007,7 @@
   },
   "credits_announcer": {
     "_value": [
-      "ANNOUNCER",
+      "TRAILER ANNOUNCER VO",
       "ANNONCEUR",
       "ANNUNCI",
       "SPRECHER",
@@ -16433,24 +16433,6 @@
       "Знижує прокляття на %0%.\\n"
     ]
   },
-  "weaponLevelUp_bounces": {
-    "_value": [
-      "Projectiles bounce %0 more time.\\n",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
-  },
   "law_sheatedpower": {
     "_value": [
       "SHEATHED POWER LAW",
@@ -16848,6 +16830,24 @@
         "Playing characters are bouncy."
       ]
     }
+  },
+  "weaponLevelUp_bounces": {
+    "_value": [
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n",
+      "Projectiles bounce %0 more time.\\n"
+    ]
   },
   "options_tab_mods": {
     "_value": [
@@ -17481,20 +17481,20 @@
   },
   "options_announcer": {
     "_value": [
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer",
-      "Announcer"
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)",
+      "Announcer (Menu)"
     ]
   },
   "options_announcer_volume": {
@@ -17531,6 +17531,42 @@
       "Shield Selector",
       "Shield Selector",
       "Shield Selector"
+    ]
+  },
+  "options_announcer_gameplay": {
+    "_value": [
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)",
+      "Announcer (Game)"
+    ]
+  },
+  "credits_announcer_game": {
+    "_value": [
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER",
+      "GAME ANNOUNCER"
     ]
   }
 }

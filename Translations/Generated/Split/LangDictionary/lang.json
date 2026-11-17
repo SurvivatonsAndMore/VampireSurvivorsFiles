@@ -3007,7 +3007,7 @@
   },
   "credits_announcer": {
     "_value": {
-      "en": "ANNOUNCER",
+      "en": "TRAILER ANNOUNCER VO",
       "fr": "ANNONCEUR",
       "it": "ANNUNCI",
       "de": "SPRECHER",
@@ -16433,24 +16433,6 @@
       "uk": "Знижує прокляття на %0%.\\n"
     }
   },
-  "weaponLevelUp_bounces": {
-    "_value": {
-      "en": "Projectiles bounce %0 more time.\\n",
-      "fr": null,
-      "it": null,
-      "de": null,
-      "es": null,
-      "pt-BR": null,
-      "pl": null,
-      "ru": null,
-      "tr": null,
-      "zh-CN": null,
-      "ja": null,
-      "ko": null,
-      "zh-TW": null,
-      "uk": null
-    }
-  },
   "law_sheatedpower": {
     "_value": {
       "en": "SHEATHED POWER LAW",
@@ -16847,6 +16829,24 @@
         "zh-TW": "Playing characters are bouncy.",
         "uk": "Playing characters are bouncy."
       }
+    }
+  },
+  "weaponLevelUp_bounces": {
+    "_value": {
+      "en": "Projectiles bounce %0 more time.\\n",
+      "fr": "Projectiles bounce %0 more time.\\n",
+      "it": "Projectiles bounce %0 more time.\\n",
+      "de": "Projectiles bounce %0 more time.\\n",
+      "es": "Projectiles bounce %0 more time.\\n",
+      "pt-BR": "Projectiles bounce %0 more time.\\n",
+      "pl": "Projectiles bounce %0 more time.\\n",
+      "ru": "Projectiles bounce %0 more time.\\n",
+      "tr": "Projectiles bounce %0 more time.\\n",
+      "zh-CN": "Projectiles bounce %0 more time.\\n",
+      "ja": "Projectiles bounce %0 more time.\\n",
+      "ko": "Projectiles bounce %0 more time.\\n",
+      "zh-TW": "Projectiles bounce %0 more time.\\n",
+      "uk": "Projectiles bounce %0 more time.\\n"
     }
   },
   "options_tab_mods": {
@@ -17481,20 +17481,20 @@
   },
   "options_announcer": {
     "_value": {
-      "en": "Announcer",
-      "fr": "Announcer",
-      "it": "Announcer",
-      "de": "Announcer",
-      "es": "Announcer",
-      "pt-BR": "Announcer",
-      "pl": "Announcer",
-      "ru": "Announcer",
-      "tr": "Announcer",
-      "zh-CN": "Announcer",
-      "ja": "Announcer",
-      "ko": "Announcer",
-      "zh-TW": "Announcer",
-      "uk": "Announcer"
+      "en": "Announcer (Menu)",
+      "fr": "Announcer (Menu)",
+      "it": "Announcer (Menu)",
+      "de": "Announcer (Menu)",
+      "es": "Announcer (Menu)",
+      "pt-BR": "Announcer (Menu)",
+      "pl": "Announcer (Menu)",
+      "ru": "Announcer (Menu)",
+      "tr": "Announcer (Menu)",
+      "zh-CN": "Announcer (Menu)",
+      "ja": "Announcer (Menu)",
+      "ko": "Announcer (Menu)",
+      "zh-TW": "Announcer (Menu)",
+      "uk": "Announcer (Menu)"
     }
   },
   "options_announcer_volume": {
@@ -17531,6 +17531,42 @@
       "ko": "Shield Selector",
       "zh-TW": "Shield Selector",
       "uk": "Shield Selector"
+    }
+  },
+  "options_announcer_gameplay": {
+    "_value": {
+      "en": "Announcer (Game)",
+      "fr": "Announcer (Game)",
+      "it": "Announcer (Game)",
+      "de": "Announcer (Game)",
+      "es": "Announcer (Game)",
+      "pt-BR": "Announcer (Game)",
+      "pl": "Announcer (Game)",
+      "ru": "Announcer (Game)",
+      "tr": "Announcer (Game)",
+      "zh-CN": "Announcer (Game)",
+      "ja": "Announcer (Game)",
+      "ko": "Announcer (Game)",
+      "zh-TW": "Announcer (Game)",
+      "uk": "Announcer (Game)"
+    }
+  },
+  "credits_announcer_game": {
+    "_value": {
+      "en": "GAME ANNOUNCER",
+      "fr": "GAME ANNOUNCER",
+      "it": "GAME ANNOUNCER",
+      "de": "GAME ANNOUNCER",
+      "es": "GAME ANNOUNCER",
+      "pt-BR": "GAME ANNOUNCER",
+      "pl": "GAME ANNOUNCER",
+      "ru": "GAME ANNOUNCER",
+      "tr": "GAME ANNOUNCER",
+      "zh-CN": "GAME ANNOUNCER",
+      "ja": "GAME ANNOUNCER",
+      "ko": "GAME ANNOUNCER",
+      "zh-TW": "GAME ANNOUNCER",
+      "uk": "GAME ANNOUNCER"
     }
   }
 }

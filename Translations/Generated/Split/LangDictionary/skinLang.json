@@ -1728,5 +1728,81 @@
         "uk": "Sefi Rotto"
       }
     }
+  },
+  "SKIN_HUSKER_ONLY_EBONY": {
+    "suffix": {
+      "_value": {
+        "en": "(Ebony)",
+        "fr": "(Ebony)",
+        "it": "(Ebony)",
+        "de": "(Ebony)",
+        "es": "(Ebony)",
+        "pt-BR": "(Ebony)",
+        "pl": "(Ebony)",
+        "ru": "(Ebony)",
+        "tr": "(Ebony)",
+        "zh-CN": "(Ebony)",
+        "ja": "(Ebony)",
+        "ko": "(Ebony)",
+        "zh-TW": "(Ebony)",
+        "uk": "(Ebony)"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Has only a hidden Ebony Wings.",
+        "fr": "Has only a hidden Ebony Wings.",
+        "it": "Has only a hidden Ebony Wings.",
+        "de": "Has only a hidden Ebony Wings.",
+        "es": "Has only a hidden Ebony Wings.",
+        "pt-BR": "Has only a hidden Ebony Wings.",
+        "pl": "Has only a hidden Ebony Wings.",
+        "ru": "Has only a hidden Ebony Wings.",
+        "tr": "Has only a hidden Ebony Wings.",
+        "zh-CN": "Has only a hidden Ebony Wings.",
+        "ja": "Has only a hidden Ebony Wings.",
+        "ko": "Has only a hidden Ebony Wings.",
+        "zh-TW": "Has only a hidden Ebony Wings.",
+        "uk": "Has only a hidden Ebony Wings."
+      }
+    }
+  },
+  "SKIN_HUSKER_ONLY_PAKO": {
+    "suffix": {
+      "_value": {
+        "en": "(Pako)",
+        "fr": "(Pako)",
+        "it": "(Pako)",
+        "de": "(Pako)",
+        "es": "(Pako)",
+        "pt-BR": "(Pako)",
+        "pl": "(Pako)",
+        "ru": "(Pako)",
+        "tr": "(Pako)",
+        "zh-CN": "(Pako)",
+        "ja": "(Pako)",
+        "ko": "(Pako)",
+        "zh-TW": "(Pako)",
+        "uk": "(Pako)"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Has only a hidden Pako Battilia.",
+        "fr": "Has only a hidden Pako Battilia.",
+        "it": "Has only a hidden Pako Battilia.",
+        "de": "Has only a hidden Pako Battilia.",
+        "es": "Has only a hidden Pako Battilia.",
+        "pt-BR": "Has only a hidden Pako Battilia.",
+        "pl": "Has only a hidden Pako Battilia.",
+        "ru": "Has only a hidden Pako Battilia.",
+        "tr": "Has only a hidden Pako Battilia.",
+        "zh-CN": "Has only a hidden Pako Battilia.",
+        "ja": "Has only a hidden Pako Battilia.",
+        "ko": "Has only a hidden Pako Battilia.",
+        "zh-TW": "Has only a hidden Pako Battilia.",
+        "uk": "Has only a hidden Pako Battilia."
+      }
+    }
   }
 }

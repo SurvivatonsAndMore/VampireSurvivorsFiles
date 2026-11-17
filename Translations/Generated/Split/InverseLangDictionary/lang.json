@@ -502,7 +502,7 @@
       "_value": "TRAILERS"
     },
     "credits_announcer": {
-      "_value": "ANNOUNCER"
+      "_value": "TRAILER ANNOUNCER VO"
     },
     "credits_sigma_animation": {
       "_value": "QUEEN SIGMA TRAILER ANIMATION"
@@ -2739,9 +2739,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Curse is reduced by %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": "Projectiles bounce %0 more time.\\n"
-    },
     "law_sheatedpower": {
       "_value": "SHEATHED POWER LAW",
       "description": {
@@ -2809,6 +2806,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -2916,13 +2916,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "fr": {
@@ -5665,9 +5671,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Malédiction : -%0 %.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "LOI POUVOIR CONTENU",
       "description": {
@@ -5735,6 +5738,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -5842,13 +5848,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "it": {
@@ -8591,9 +8603,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "La Maledizione è ridotta del %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "LEGGE POTERE GUAINA",
       "description": {
@@ -8661,6 +8670,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -8768,13 +8780,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "de": {
@@ -11517,9 +11535,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Fluch reduziert um %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "GESETZ: MACHTSCHWUND",
       "description": {
@@ -11587,6 +11602,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -11694,13 +11712,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "es": {
@@ -14443,9 +14467,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Reduce la maldición un %0 %.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "LEY DE PODER OCULTO",
       "description": {
@@ -14513,6 +14534,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -14620,13 +14644,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "pt-BR": {
@@ -17369,9 +17399,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Maldição reduzida em %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "LEI DO PODER OCULTO",
       "description": {
@@ -17439,6 +17466,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -17546,13 +17576,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "pl": {
@@ -20295,9 +20331,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Klątwa mniejsza o %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "PRAWO UKRYTEJ MOCY",
       "description": {
@@ -20365,6 +20398,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -20472,13 +20508,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "ru": {
@@ -23221,9 +23263,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Проклятие снижается на %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "ЗАКОН СКРЫТОЙ СИЛЫ",
       "description": {
@@ -23291,6 +23330,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -23398,13 +23440,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "tr": {
@@ -26147,9 +26195,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Lanet %0% azaldı.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "KILIFLI GÜÇ YASASI",
       "description": {
@@ -26217,6 +26262,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -26324,13 +26372,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "zh-CN": {
@@ -29073,9 +29127,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "诅咒-%0%。\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "入鞘之力定律",
       "description": {
@@ -29143,6 +29194,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -29250,13 +29304,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "ja": {
@@ -31999,9 +32059,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "呪いが%0%減少する。\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "鞘に秘めし力の法則",
       "description": {
@@ -32069,6 +32126,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -32176,13 +32236,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "ko": {
@@ -34925,9 +34991,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "저주가 %0% 감소합니다.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "칼집 속 힘의 법칙",
       "description": {
@@ -34995,6 +35058,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -35102,13 +35168,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "zh-TW": {
@@ -37851,9 +37923,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "詛咒降低 %0%。\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "藏鋒法則",
       "description": {
@@ -37921,6 +37990,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -38028,13 +38100,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   },
   "uk": {
@@ -40777,9 +40855,6 @@
     "weaponLevelUp_curseReduction": {
       "_value": "Знижує прокляття на %0%.\\n"
     },
-    "weaponLevelUp_bounces": {
-      "_value": null
-    },
     "law_sheatedpower": {
       "_value": "ЗАКОН СКУТОЇ СИЛИ",
       "description": {
@@ -40847,6 +40922,9 @@
       "description": {
         "_value": "Playing characters are bouncy."
       }
+    },
+    "weaponLevelUp_bounces": {
+      "_value": "Projectiles bounce %0 more time.\\n"
     },
     "options_tab_mods": {
       "_value": "Mods"
@@ -40954,13 +41032,19 @@
       "_value": "Unsubscribe from this item?"
     },
     "options_announcer": {
-      "_value": "Announcer"
+      "_value": "Announcer (Menu)"
     },
     "options_announcer_volume": {
       "_value": "Voice volume"
     },
     "scutusSelector_title": {
       "_value": "Shield Selector"
+    },
+    "options_announcer_gameplay": {
+      "_value": "Announcer (Game)"
+    },
+    "credits_announcer_game": {
+      "_value": "GAME ANNOUNCER"
     }
   }
 }

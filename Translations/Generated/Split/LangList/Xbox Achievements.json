@@ -4982,26 +4982,6 @@
   "DefeatBatDragons": {
     "description": {
       "_value": [
-        "EXTRA: Big Troubler",
-        "EXTRA : Lo-Pain",
-        "EXTRA: Grosso combinaguai",
-        "EXTRA: Po Lan",
-        "ADICIONAL: Golpista",
-        "EXTRA: Po Lan",
-        "EKSTRA: Wielki Drako",
-        "ДОПОЛНИТЕЛЬНО: Большой Переполох",
-        "EKSTRA: Büyük Bela",
-        "额外：大妖魔",
-        "追加：怪奇の魔術師",
-        "추가: 빅 트러블러",
-        "額外：大尾妖魔",
-        "ДОДАТКОВО: Великий Винуватець"
-      ]
-    }
-  },
-  "EvolveUnearthlyBolt": {
-    "description": {
-      "_value": [
         "EXTRA: Unearthly Bolt",
         "EXTRA : Éclair surnaturel",
         "EXTRA: Saetta spettrale",
@@ -5016,6 +4996,26 @@
         "추가: 기이한 볼트",
         "額外：異界之矢",
         "ДОДАТКОВО: Неземна блискавка"
+      ]
+    }
+  },
+  "EvolveUnearthlyBolt": {
+    "description": {
+      "_value": [
+        "EXTRA: Big Troubler",
+        "EXTRA : Lo-Pain",
+        "EXTRA: Grosso combinaguai",
+        "EXTRA: Po Lan",
+        "ADICIONAL: Golpista",
+        "EXTRA: Po Lan",
+        "EKSTRA: Wielki Drako",
+        "ДОПОЛНИТЕЛЬНО: Большой Переполох",
+        "EKSTRA: Büyük Bela",
+        "额外：大妖魔",
+        "追加：怪奇の魔術師",
+        "추가: 빅 트러블러",
+        "額外：大尾妖魔",
+        "ДОДАТКОВО: Великий Винуватець"
       ]
     }
   },
@@ -5676,6 +5676,246 @@
         "붉은 달 장원 지도",
         "紅月莊園的地圖",
         "Мапа Замку Червоного Місяця"
+      ]
+    }
+  },
+  "FindManyGildedClovers": {
+    "description": {
+      "_value": [
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus",
+        "EXTRA: BIggus Discus"
+      ]
+    }
+  },
+  "GetMartHelloToLevel7": {
+    "description": {
+      "_value": [
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello",
+        "EXTRA: Mart-Hello"
+      ]
+    }
+  },
+  "EvolveMartHello": {
+    "description": {
+      "_value": [
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah",
+        "EXTRA: Hammer-Dah"
+      ]
+    }
+  },
+  "Survive20minutesInScutum": {
+    "description": {
+      "_value": [
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne",
+        "EXTRA: Amberborne"
+      ]
+    }
+  },
+  "Dark_14Amberborne": {
+    "description": {
+      "_value": [
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky",
+        "EXTRA: XIV - Jaws of a Golden Sky"
+      ]
+    }
+  },
+  "FindAntipyretic": {
+    "description": {
+      "_value": [
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic",
+        "EXTRA: Antipyretic"
+      ]
+    }
+  },
+  "FindAmimic": {
+    "description": {
+      "_value": [
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic",
+        "EXTRA: Amimic"
+      ]
+    }
+  },
+  "Defeat1000SelfDestructEnemies": {
+    "description": {
+      "_value": [
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton",
+        "EXTRA: Garneton"
+      ]
+    }
+  },
+  "EvolveGarneton": {
+    "description": {
+      "_value": [
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna",
+        "EXTRA: Cannone Ladonna"
+      ]
+    }
+  },
+  "Dark_07Cannone": {
+    "description": {
+      "_value": [
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall",
+        "EXTRA: VII - Colorful Wall"
+      ]
+    }
+  },
+  "FindMPShout": {
+    "description": {
+      "_value": [
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout",
+        "EXTRA: MP Shout"
+      ]
+    }
+  },
+  "Dark_15Challenge": {
+    "description": {
+      "_value": [
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose",
+        "EXTRA: Everything to Lose"
       ]
     }
   }

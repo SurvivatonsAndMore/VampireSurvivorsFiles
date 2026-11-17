@@ -6037,6 +6037,7 @@
           "power": 0.35,
           "duration": 0.35,
           "speed": 0.35,
+          "maxHp": 100,
           "addedSkillCards": [
             "SUB_CHARGE_ULTIMASLASHDOUBLE"
           ]
@@ -7167,6 +7168,79 @@
           "spriteName": "player_baronhusker_walk01.png",
           "walkingFrames": 5,
           "unlocked": true,
+          "hiddenWeapons": ["SILF2", "BATTILIA"],
+          "headOffsets": [
+            {
+              "x": 3,
+              "y": 0
+            }
+          ],
+          "spriteAnims": {
+            "meleeAttack": {
+              "textureName": "character_baronhusker",
+              "spriteName": "player_baronhusker_attack01.png",
+              "framesNumber": 5,
+              "frameRate": 12
+            },
+            "rangedAttack": {
+              "textureName": "character_baronhusker",
+              "spriteName": "player_baronhusker_throw01.png",
+              "framesNumber": 4,
+              "frameRate": 12
+            },
+            "magicAttack": {
+              "textureName": "character_baronhusker",
+              "spriteName": "player_baronhusker_summon01.png",
+              "framesNumber": 5,
+              "frameRate": 12
+            }
+          }
+        },
+        {
+          "skinType": "SKIN_HUSKER_ONLY_EBONY",
+          "name": "Ebony",
+          "description": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings.",
+          "textureName": "character_baronhusker",
+          "spriteName": "player_baronhusker_walk01.png",
+          "walkingFrames": 5,
+          "unlocked": true,
+          "hiddenWeapons": ["SILF2"],
+          "headOffsets": [
+            {
+              "x": 3,
+              "y": 0
+            }
+          ],
+          "spriteAnims": {
+            "meleeAttack": {
+              "textureName": "character_baronhusker",
+              "spriteName": "player_baronhusker_attack01.png",
+              "framesNumber": 5,
+              "frameRate": 12
+            },
+            "rangedAttack": {
+              "textureName": "character_baronhusker",
+              "spriteName": "player_baronhusker_throw01.png",
+              "framesNumber": 4,
+              "frameRate": 12
+            },
+            "magicAttack": {
+              "textureName": "character_baronhusker",
+              "spriteName": "player_baronhusker_summon01.png",
+              "framesNumber": 5,
+              "frameRate": 12
+            }
+          }
+        },
+        {
+          "skinType": "SKIN_HUSKER_ONLY_PAKO",
+          "name": "Pako",
+          "description": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Pako Battiliar.",
+          "textureName": "character_baronhusker",
+          "spriteName": "player_baronhusker_walk01.png",
+          "walkingFrames": 5,
+          "unlocked": true,
+          "hiddenWeapons": ["BATTILIA"],
           "headOffsets": [
             {
               "x": 3,
@@ -7229,7 +7303,7 @@
       "rerolls":    0,
       "skips":      0,
       "banish":     0,
-      "hiddenWeapons": ["SILF2", "BATTILIA"],
+      "hiddenWeapons": [],
       "showcase": [
         "MOVESPEED",
         "MOVESPEED",

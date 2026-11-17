@@ -4982,26 +4982,6 @@
   "DefeatBatDragons": {
     "description": {
       "_value": {
-        "en": "EXTRA: Big Troubler",
-        "fr": "EXTRA : Lo-Pain",
-        "it": "EXTRA: Grosso combinaguai",
-        "de": "EXTRA: Po Lan",
-        "es": "ADICIONAL: Golpista",
-        "pt-BR": "EXTRA: Po Lan",
-        "pl": "EKSTRA: Wielki Drako",
-        "ru": "ДОПОЛНИТЕЛЬНО: Большой Переполох",
-        "tr": "EKSTRA: Büyük Bela",
-        "zh-CN": "额外：大妖魔",
-        "ja": "追加：怪奇の魔術師",
-        "ko": "추가: 빅 트러블러",
-        "zh-TW": "額外：大尾妖魔",
-        "uk": "ДОДАТКОВО: Великий Винуватець"
-      }
-    }
-  },
-  "EvolveUnearthlyBolt": {
-    "description": {
-      "_value": {
         "en": "EXTRA: Unearthly Bolt",
         "fr": "EXTRA : Éclair surnaturel",
         "it": "EXTRA: Saetta spettrale",
@@ -5016,6 +4996,26 @@
         "ko": "추가: 기이한 볼트",
         "zh-TW": "額外：異界之矢",
         "uk": "ДОДАТКОВО: Неземна блискавка"
+      }
+    }
+  },
+  "EvolveUnearthlyBolt": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Big Troubler",
+        "fr": "EXTRA : Lo-Pain",
+        "it": "EXTRA: Grosso combinaguai",
+        "de": "EXTRA: Po Lan",
+        "es": "ADICIONAL: Golpista",
+        "pt-BR": "EXTRA: Po Lan",
+        "pl": "EKSTRA: Wielki Drako",
+        "ru": "ДОПОЛНИТЕЛЬНО: Большой Переполох",
+        "tr": "EKSTRA: Büyük Bela",
+        "zh-CN": "额外：大妖魔",
+        "ja": "追加：怪奇の魔術師",
+        "ko": "추가: 빅 트러블러",
+        "zh-TW": "額外：大尾妖魔",
+        "uk": "ДОДАТКОВО: Великий Винуватець"
       }
     }
   },
@@ -5676,6 +5676,246 @@
         "ko": "붉은 달 장원 지도",
         "zh-TW": "紅月莊園的地圖",
         "uk": "Мапа Замку Червоного Місяця"
+      }
+    }
+  },
+  "FindManyGildedClovers": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: BIggus Discus",
+        "fr": "EXTRA: BIggus Discus",
+        "it": "EXTRA: BIggus Discus",
+        "de": "EXTRA: BIggus Discus",
+        "es": "EXTRA: BIggus Discus",
+        "pt-BR": "EXTRA: BIggus Discus",
+        "pl": "EXTRA: BIggus Discus",
+        "ru": "EXTRA: BIggus Discus",
+        "tr": "EXTRA: BIggus Discus",
+        "zh-CN": "EXTRA: BIggus Discus",
+        "ja": "EXTRA: BIggus Discus",
+        "ko": "EXTRA: BIggus Discus",
+        "zh-TW": "EXTRA: BIggus Discus",
+        "uk": "EXTRA: BIggus Discus"
+      }
+    }
+  },
+  "GetMartHelloToLevel7": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Mart-Hello",
+        "fr": "EXTRA: Mart-Hello",
+        "it": "EXTRA: Mart-Hello",
+        "de": "EXTRA: Mart-Hello",
+        "es": "EXTRA: Mart-Hello",
+        "pt-BR": "EXTRA: Mart-Hello",
+        "pl": "EXTRA: Mart-Hello",
+        "ru": "EXTRA: Mart-Hello",
+        "tr": "EXTRA: Mart-Hello",
+        "zh-CN": "EXTRA: Mart-Hello",
+        "ja": "EXTRA: Mart-Hello",
+        "ko": "EXTRA: Mart-Hello",
+        "zh-TW": "EXTRA: Mart-Hello",
+        "uk": "EXTRA: Mart-Hello"
+      }
+    }
+  },
+  "EvolveMartHello": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Hammer-Dah",
+        "fr": "EXTRA: Hammer-Dah",
+        "it": "EXTRA: Hammer-Dah",
+        "de": "EXTRA: Hammer-Dah",
+        "es": "EXTRA: Hammer-Dah",
+        "pt-BR": "EXTRA: Hammer-Dah",
+        "pl": "EXTRA: Hammer-Dah",
+        "ru": "EXTRA: Hammer-Dah",
+        "tr": "EXTRA: Hammer-Dah",
+        "zh-CN": "EXTRA: Hammer-Dah",
+        "ja": "EXTRA: Hammer-Dah",
+        "ko": "EXTRA: Hammer-Dah",
+        "zh-TW": "EXTRA: Hammer-Dah",
+        "uk": "EXTRA: Hammer-Dah"
+      }
+    }
+  },
+  "Survive20minutesInScutum": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Amberborne",
+        "fr": "EXTRA: Amberborne",
+        "it": "EXTRA: Amberborne",
+        "de": "EXTRA: Amberborne",
+        "es": "EXTRA: Amberborne",
+        "pt-BR": "EXTRA: Amberborne",
+        "pl": "EXTRA: Amberborne",
+        "ru": "EXTRA: Amberborne",
+        "tr": "EXTRA: Amberborne",
+        "zh-CN": "EXTRA: Amberborne",
+        "ja": "EXTRA: Amberborne",
+        "ko": "EXTRA: Amberborne",
+        "zh-TW": "EXTRA: Amberborne",
+        "uk": "EXTRA: Amberborne"
+      }
+    }
+  },
+  "Dark_14Amberborne": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: XIV - Jaws of a Golden Sky",
+        "fr": "EXTRA: XIV - Jaws of a Golden Sky",
+        "it": "EXTRA: XIV - Jaws of a Golden Sky",
+        "de": "EXTRA: XIV - Jaws of a Golden Sky",
+        "es": "EXTRA: XIV - Jaws of a Golden Sky",
+        "pt-BR": "EXTRA: XIV - Jaws of a Golden Sky",
+        "pl": "EXTRA: XIV - Jaws of a Golden Sky",
+        "ru": "EXTRA: XIV - Jaws of a Golden Sky",
+        "tr": "EXTRA: XIV - Jaws of a Golden Sky",
+        "zh-CN": "EXTRA: XIV - Jaws of a Golden Sky",
+        "ja": "EXTRA: XIV - Jaws of a Golden Sky",
+        "ko": "EXTRA: XIV - Jaws of a Golden Sky",
+        "zh-TW": "EXTRA: XIV - Jaws of a Golden Sky",
+        "uk": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    }
+  },
+  "FindAntipyretic": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Antipyretic",
+        "fr": "EXTRA: Antipyretic",
+        "it": "EXTRA: Antipyretic",
+        "de": "EXTRA: Antipyretic",
+        "es": "EXTRA: Antipyretic",
+        "pt-BR": "EXTRA: Antipyretic",
+        "pl": "EXTRA: Antipyretic",
+        "ru": "EXTRA: Antipyretic",
+        "tr": "EXTRA: Antipyretic",
+        "zh-CN": "EXTRA: Antipyretic",
+        "ja": "EXTRA: Antipyretic",
+        "ko": "EXTRA: Antipyretic",
+        "zh-TW": "EXTRA: Antipyretic",
+        "uk": "EXTRA: Antipyretic"
+      }
+    }
+  },
+  "FindAmimic": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Amimic",
+        "fr": "EXTRA: Amimic",
+        "it": "EXTRA: Amimic",
+        "de": "EXTRA: Amimic",
+        "es": "EXTRA: Amimic",
+        "pt-BR": "EXTRA: Amimic",
+        "pl": "EXTRA: Amimic",
+        "ru": "EXTRA: Amimic",
+        "tr": "EXTRA: Amimic",
+        "zh-CN": "EXTRA: Amimic",
+        "ja": "EXTRA: Amimic",
+        "ko": "EXTRA: Amimic",
+        "zh-TW": "EXTRA: Amimic",
+        "uk": "EXTRA: Amimic"
+      }
+    }
+  },
+  "Defeat1000SelfDestructEnemies": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Garneton",
+        "fr": "EXTRA: Garneton",
+        "it": "EXTRA: Garneton",
+        "de": "EXTRA: Garneton",
+        "es": "EXTRA: Garneton",
+        "pt-BR": "EXTRA: Garneton",
+        "pl": "EXTRA: Garneton",
+        "ru": "EXTRA: Garneton",
+        "tr": "EXTRA: Garneton",
+        "zh-CN": "EXTRA: Garneton",
+        "ja": "EXTRA: Garneton",
+        "ko": "EXTRA: Garneton",
+        "zh-TW": "EXTRA: Garneton",
+        "uk": "EXTRA: Garneton"
+      }
+    }
+  },
+  "EvolveGarneton": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Cannone Ladonna",
+        "fr": "EXTRA: Cannone Ladonna",
+        "it": "EXTRA: Cannone Ladonna",
+        "de": "EXTRA: Cannone Ladonna",
+        "es": "EXTRA: Cannone Ladonna",
+        "pt-BR": "EXTRA: Cannone Ladonna",
+        "pl": "EXTRA: Cannone Ladonna",
+        "ru": "EXTRA: Cannone Ladonna",
+        "tr": "EXTRA: Cannone Ladonna",
+        "zh-CN": "EXTRA: Cannone Ladonna",
+        "ja": "EXTRA: Cannone Ladonna",
+        "ko": "EXTRA: Cannone Ladonna",
+        "zh-TW": "EXTRA: Cannone Ladonna",
+        "uk": "EXTRA: Cannone Ladonna"
+      }
+    }
+  },
+  "Dark_07Cannone": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: VII - Colorful Wall",
+        "fr": "EXTRA: VII - Colorful Wall",
+        "it": "EXTRA: VII - Colorful Wall",
+        "de": "EXTRA: VII - Colorful Wall",
+        "es": "EXTRA: VII - Colorful Wall",
+        "pt-BR": "EXTRA: VII - Colorful Wall",
+        "pl": "EXTRA: VII - Colorful Wall",
+        "ru": "EXTRA: VII - Colorful Wall",
+        "tr": "EXTRA: VII - Colorful Wall",
+        "zh-CN": "EXTRA: VII - Colorful Wall",
+        "ja": "EXTRA: VII - Colorful Wall",
+        "ko": "EXTRA: VII - Colorful Wall",
+        "zh-TW": "EXTRA: VII - Colorful Wall",
+        "uk": "EXTRA: VII - Colorful Wall"
+      }
+    }
+  },
+  "FindMPShout": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: MP Shout",
+        "fr": "EXTRA: MP Shout",
+        "it": "EXTRA: MP Shout",
+        "de": "EXTRA: MP Shout",
+        "es": "EXTRA: MP Shout",
+        "pt-BR": "EXTRA: MP Shout",
+        "pl": "EXTRA: MP Shout",
+        "ru": "EXTRA: MP Shout",
+        "tr": "EXTRA: MP Shout",
+        "zh-CN": "EXTRA: MP Shout",
+        "ja": "EXTRA: MP Shout",
+        "ko": "EXTRA: MP Shout",
+        "zh-TW": "EXTRA: MP Shout",
+        "uk": "EXTRA: MP Shout"
+      }
+    }
+  },
+  "Dark_15Challenge": {
+    "description": {
+      "_value": {
+        "en": "EXTRA: Everything to Lose",
+        "fr": "EXTRA: Everything to Lose",
+        "it": "EXTRA: Everything to Lose",
+        "de": "EXTRA: Everything to Lose",
+        "es": "EXTRA: Everything to Lose",
+        "pt-BR": "EXTRA: Everything to Lose",
+        "pl": "EXTRA: Everything to Lose",
+        "ru": "EXTRA: Everything to Lose",
+        "tr": "EXTRA: Everything to Lose",
+        "zh-CN": "EXTRA: Everything to Lose",
+        "ja": "EXTRA: Everything to Lose",
+        "ko": "EXTRA: Everything to Lose",
+        "zh-TW": "EXTRA: Everything to Lose",
+        "uk": "EXTRA: Everything to Lose"
       }
     }
   }

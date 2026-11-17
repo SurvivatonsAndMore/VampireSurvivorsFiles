@@ -1247,12 +1247,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EXTRA: Big Troubler"
+        "_value": "EXTRA: Unearthly Bolt"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EXTRA: Unearthly Bolt"
+        "_value": "EXTRA: Big Troubler"
       }
     },
     "Dark_00Troubler": {
@@ -1418,6 +1418,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Red Moon Manor Map"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -2669,12 +2729,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EXTRA : Lo-Pain"
+        "_value": "EXTRA : Éclair surnaturel"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EXTRA : Éclair surnaturel"
+        "_value": "EXTRA : Lo-Pain"
       }
     },
     "Dark_00Troubler": {
@@ -2840,6 +2900,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Carte du Manoir de la Lune Rouge"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -4091,12 +4211,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EXTRA: Grosso combinaguai"
+        "_value": "EXTRA: Saetta spettrale"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EXTRA: Saetta spettrale"
+        "_value": "EXTRA: Grosso combinaguai"
       }
     },
     "Dark_00Troubler": {
@@ -4262,6 +4382,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Mappa del Maniero della Luna Rossa"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -5513,12 +5693,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EXTRA: Po Lan"
+        "_value": "EXTRA: Geisterblitz"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EXTRA: Geisterblitz"
+        "_value": "EXTRA: Po Lan"
       }
     },
     "Dark_00Troubler": {
@@ -5684,6 +5864,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Rotmond-Anwesen-Karte"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -6935,12 +7175,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "ADICIONAL: Golpista"
+        "_value": "ADICIONAL: Rayo sobrenatural"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "ADICIONAL: Rayo sobrenatural"
+        "_value": "ADICIONAL: Golpista"
       }
     },
     "Dark_00Troubler": {
@@ -7106,6 +7346,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Mapa de la Mansión Luna Roja"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -8357,12 +8657,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EXTRA: Po Lan"
+        "_value": "EXTRA: Raio Etéreo"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EXTRA: Raio Etéreo"
+        "_value": "EXTRA: Po Lan"
       }
     },
     "Dark_00Troubler": {
@@ -8528,6 +8828,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Mapa da Mansão Lua Vermelha"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -9779,12 +10139,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EKSTRA: Wielki Drako"
+        "_value": "EKSTRA: Nieziemski bełt"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EKSTRA: Nieziemski bełt"
+        "_value": "EKSTRA: Wielki Drako"
       }
     },
     "Dark_00Troubler": {
@@ -9950,6 +10310,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Mapa Dworu Czerwonego Księżyca"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -11201,12 +11621,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "ДОПОЛНИТЕЛЬНО: Большой Переполох"
+        "_value": "ДОПОЛНИТЕЛЬНО: Неземной разряд"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "ДОПОЛНИТЕЛЬНО: Неземной разряд"
+        "_value": "ДОПОЛНИТЕЛЬНО: Большой Переполох"
       }
     },
     "Dark_00Troubler": {
@@ -11372,6 +11792,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Карта Поместья Красной Луны"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -12623,12 +13103,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "EKSTRA: Büyük Bela"
+        "_value": "EKSTRA: İlahi Ok"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "EKSTRA: İlahi Ok"
+        "_value": "EKSTRA: Büyük Bela"
       }
     },
     "Dark_00Troubler": {
@@ -12794,6 +13274,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Kızıl Ay Malikânesi Haritası"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -14045,12 +14585,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "额外：大妖魔"
+        "_value": "额外：异界霹雳"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "额外：异界霹雳"
+        "_value": "额外：大妖魔"
       }
     },
     "Dark_00Troubler": {
@@ -14216,6 +14756,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "红月庄园地图"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -15467,12 +16067,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "追加：怪奇の魔術師"
+        "_value": "追加：超自然の雷撃"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "追加：超自然の雷撃"
+        "_value": "追加：怪奇の魔術師"
       }
     },
     "Dark_00Troubler": {
@@ -15638,6 +16238,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "レッドムーン邸のマップ"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -16889,12 +17549,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "추가: 빅 트러블러"
+        "_value": "추가: 기이한 볼트"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "추가: 기이한 볼트"
+        "_value": "추가: 빅 트러블러"
       }
     },
     "Dark_00Troubler": {
@@ -17060,6 +17720,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "붉은 달 장원 지도"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -18311,12 +19031,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "額外：大尾妖魔"
+        "_value": "額外：異界之矢"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "額外：異界之矢"
+        "_value": "額外：大尾妖魔"
       }
     },
     "Dark_00Troubler": {
@@ -18482,6 +19202,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "紅月莊園的地圖"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   },
@@ -19733,12 +20513,12 @@
     },
     "DefeatBatDragons": {
       "description": {
-        "_value": "ДОДАТКОВО: Великий Винуватець"
+        "_value": "ДОДАТКОВО: Неземна блискавка"
       }
     },
     "EvolveUnearthlyBolt": {
       "description": {
-        "_value": "ДОДАТКОВО: Неземна блискавка"
+        "_value": "ДОДАТКОВО: Великий Винуватець"
       }
     },
     "Dark_00Troubler": {
@@ -19904,6 +20684,66 @@
     "BMN25_FindMap_Bloodmoon": {
       "description": {
         "_value": "Мапа Замку Червоного Місяця"
+      }
+    },
+    "FindManyGildedClovers": {
+      "description": {
+        "_value": "EXTRA: BIggus Discus"
+      }
+    },
+    "GetMartHelloToLevel7": {
+      "description": {
+        "_value": "EXTRA: Mart-Hello"
+      }
+    },
+    "EvolveMartHello": {
+      "description": {
+        "_value": "EXTRA: Hammer-Dah"
+      }
+    },
+    "Survive20minutesInScutum": {
+      "description": {
+        "_value": "EXTRA: Amberborne"
+      }
+    },
+    "Dark_14Amberborne": {
+      "description": {
+        "_value": "EXTRA: XIV - Jaws of a Golden Sky"
+      }
+    },
+    "FindAntipyretic": {
+      "description": {
+        "_value": "EXTRA: Antipyretic"
+      }
+    },
+    "FindAmimic": {
+      "description": {
+        "_value": "EXTRA: Amimic"
+      }
+    },
+    "Defeat1000SelfDestructEnemies": {
+      "description": {
+        "_value": "EXTRA: Garneton"
+      }
+    },
+    "EvolveGarneton": {
+      "description": {
+        "_value": "EXTRA: Cannone Ladonna"
+      }
+    },
+    "Dark_07Cannone": {
+      "description": {
+        "_value": "EXTRA: VII - Colorful Wall"
+      }
+    },
+    "FindMPShout": {
+      "description": {
+        "_value": "EXTRA: MP Shout"
+      }
+    },
+    "Dark_15Challenge": {
+      "description": {
+        "_value": "EXTRA: Everything to Lose"
       }
     }
   }
