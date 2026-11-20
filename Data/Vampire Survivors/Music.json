@@ -450,16 +450,17 @@
       "rate": 1.5,
       "detune": -1000
     }
+    
   },
   "BGM_CharacterSelection": {
-    "title": "Character Selection",
+    "title": "Ok The Character Is Right",
     "author": "Daniele Zandara",
     "source": "",
     "unlockedByStage": null,
     "unlockedByCharacter": null,
     "unlockedByItem": "RELIC_MPSHOUT",
     "isUnlocked": false,
-    "icon": "trumpet.png",
+    "icon": "ex_mpshout.png",
     "hyperMod": {
       "rate": 1.0625,
       "detune": 0

@@ -15774,7 +15774,8 @@
         "EX_SCUTUM"
       ],
       "bHighlight": false,
-      "bIndex": 182
+      "bIndex": 182,
+      "bVariants": ["EX_SCUTUM_ARMOR1", "EX_SCUTUM_ARMOR2"]
     }
   ],
   "EX_GORGONZOLA": [
