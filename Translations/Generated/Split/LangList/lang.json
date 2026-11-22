@@ -17553,20 +17553,110 @@
   },
   "credits_announcer_game": {
     "_value": [
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER",
-      "GAME ANNOUNCER"
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO",
+      "GAME ANNOUNCER VO"
+    ]
+  },
+  "joyConsAttached_title": {
+    "_value": [
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached",
+      "Joy-Con attached"
+    ]
+  },
+  "joyConsAttached_desc": {
+    "_value": [
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op.",
+      "Please detach the Joy-Con from the console to continue playing co-op."
+    ]
+  },
+  "options_showHelpers": {
+    "_value": [
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers",
+      "Show menu helpers"
+    ]
+  },
+  "stageSelection_baseGame": {
+    "_value": [
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game",
+      "Base Game"
+    ]
+  },
+  "stageSelection_expansions": {
+    "_value": [
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions",
+      "Expansions"
     ]
   }
 }

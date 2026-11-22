@@ -1,7 +1,7 @@
 {
   "LEM_JIMBAT2": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -37,7 +37,7 @@
   ],
   "LEM_JIMBAT3": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1.5,
       "speed": 140,
       "power": 5,
@@ -62,7 +62,7 @@
   ],
     "LEM_JIMBAT4": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -90,7 +90,7 @@
   ],
   "LEM_JIMBAT5": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -118,7 +118,7 @@
   ],
   "LEM_XLJIMBAT": [
     {
-      "level": 10,
+      "level": 8,
       "maxHp": 27,
       "speed": 140,
       "power": 10,
@@ -181,7 +181,7 @@
   ],
   "LEM_ZOMBALATRO": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 100,
       "power": 10,
@@ -214,7 +214,7 @@
   ],
   "LEM_MRBONES": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2,
       "speed": 100,
       "power": 10,
@@ -247,7 +247,7 @@
   ],
   "LEM_SPECTRAL": [
     {
-      "level": 1,
+      "level": 5,
       "passThroughWalls": true,
       "maxHp": 7,
       "speed": 190,
@@ -281,7 +281,7 @@
   ],
   "LEM_SPECTRAL_SWARM": [
     {
-      "level": 1,
+      "level": 3,
       "passThroughWalls": true,
       "maxHp": 1,
       "speed": 700,
@@ -311,7 +311,7 @@
   ],
   "LEM_MANTIS": [
     {
-      "level": 10,
+      "level": 12,
       "scale": 1.5,
       "maxHp": 80,
       "speed": 80,
@@ -345,7 +345,7 @@
   ],
   "LEM_SUNFLOWERS": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 4,
       "speed": 15,
       "power": 1,
@@ -382,7 +382,7 @@
   ],
     "LEM_VENUS": [
     {
-      "level": 10,
+      "level": 11,
       "maxHp": 65,
       "speed": 80,
       "power": 20,
@@ -415,7 +415,7 @@
   ],
   "LEM_BOSS_VENUS": [
     {
-      "level": 30,
+      "level": 34,
       "maxHp": 15,
       "speed": 160,
       "power": 30,
@@ -446,7 +446,7 @@
   ],
   "LEM_WEREWOLF": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 24,
       "speed": 130,
       "power": 14,
@@ -479,7 +479,7 @@
   ],
   "LEM_BOSS_SMALLBLIND": [
     {
-      "level": 15,
+      "level": 30,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -517,7 +517,7 @@
   ],
     "LEM_BOSS_BIGBLIND": [
     {
-      "level": 1,
+      "level": 31,
       "maxHp": 20,
       "speed": 130,
       "power": 20,
@@ -555,7 +555,7 @@
   ],
   "LEM_BOSS_OX": [
     {
-      "level": 15,
+      "level": 28,
       "maxHp": 25,
       "speed": 80,
       "power": 20,
@@ -593,7 +593,7 @@
   ],
   "LEM_BOSS_WALL": [
     {
-      "level": 15,
+      "level": 34,
       "maxHp": 45,
       "speed": 80,
       "power": 20,
@@ -631,7 +631,7 @@
   ],
   "LEM_BOSS_MANACLE": [
     {
-      "level": 15,
+      "level": 28,
       "maxHp": 25,
       "speed": 80,
       "power": 20,
@@ -669,7 +669,7 @@
   ],
   "LEM_BOSS_CRIMSONHEART": [
     {
-      "level": 30,
+      "level": 42,
       "maxHp": 27,
       "speed": 160,
       "power": 30,
@@ -702,7 +702,7 @@
   ],
     "LEM_PATROL_MINIMANTIS": [
     {
-      "level": 7,
+      "level": 13,
       "maxHp": 60,
       "speed": 180,
       "power": 15,
@@ -724,7 +724,7 @@
   ],
   "LEM_BAT3": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -772,7 +772,7 @@
   ],
   "LEM_CASINOGHOUL": [
     {
-      "level": 5,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 100,
       "power": 7,
@@ -793,7 +793,7 @@
   ],
   "LEM_GAMBLIN2": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 2,
       "speed": 150,
       "power": 4,
@@ -814,7 +814,7 @@
   ],
   "LEM_CARDSHARP": [
     {
-      "level": 5,
+      "level": 12,
       "maxHp": 3,
       "speed": 130,
       "power": 11,
@@ -841,7 +841,7 @@
   ],
   "LEM_SPADEKNIGHT1": [
     {
-      "level": 23,
+      "level": 14,
       "passThroughWalls": false,
       "maxHp": 55,
       "speed": 160,
@@ -871,7 +871,7 @@
   ],
   "LEM_SPADEKNIGHT2": [
     {
-      "level": 23,
+      "level": 15,
       "passThroughWalls": false,
       "maxHp": 70,
       "speed": 120,
@@ -895,7 +895,7 @@
   ],
   "LEM_BOSS_SPADEKNIGHT": [
     {
-      "level": 23,
+      "level": 36,
       "passThroughWalls": false,
       "maxHp": 25,
       "speed": 180,
@@ -929,7 +929,7 @@
   ],
   "LEM_BOSS_SPADEKNIGHT2": [
     {
-      "level": 23,
+      "level": 44,
       "passThroughWalls": false,
       "maxHp": 40,
       "speed": 140,

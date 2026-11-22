@@ -3,7 +3,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_SUS_COUNTER",
-      "level": 6,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -62,7 +62,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BRIA",
-      "level": 3,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -90,7 +90,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BATS",
-      "level": 3,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -123,7 +123,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_OTTERR",
-      "level": 4,
+      "level": 2,
       "maxHp": 1,
       "speed": 100,
       "power": 10,
@@ -151,7 +151,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BRIASWARM",
-      "level": 5,
+      "level": 1,
       "maxHp": 0.1,
       "speed": 700,
       "power": 1,
@@ -177,7 +177,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BATSSWARM",
-      "level": 5,
+      "level": 1,
       "maxHp": 0.1,
       "speed": 700,
       "power": 1,
@@ -210,7 +210,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_SHIFT",
-      "level": 6,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -240,7 +240,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_LAVAA",
-      "level": 6,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -272,7 +272,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_SNOWW",
-      "level": 6,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -295,7 +295,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_SNOWW_SUS",
-      "level": 6,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -317,7 +317,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_GHOST_EXP",
-      "level": 1,
+      "level": 8,
       "maxHp": 1.1,
       "speed": 330,
       "power": 3,
@@ -346,7 +346,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_GHOST",
-      "level": 7,
+      "level": 2,
       "maxHp": 1,
       "speed": 200,
       "power": 5,
@@ -378,7 +378,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_MOLO2",
-      "level": 8,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 10,
@@ -409,7 +409,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_ANTBRAIN",
-      "level": 8,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 10,
@@ -431,7 +431,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_MEATT",
-      "level": 8,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 10,
@@ -459,7 +459,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_GHOSTSWARM",
-      "level": 9,
+      "level": 3,
       "maxHp": 1,
       "speed": 700,
       "power": 5,
@@ -486,7 +486,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_RABBITSWARM",
-      "level": 9,
+      "level": 3,
       "maxHp": 1,
       "speed": 700,
       "power": 5,
@@ -521,7 +521,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_DUCKSWARM",
-      "level": 9,
+      "level": 3,
       "maxHp": 1,
       "speed": 350,
       "power": 5,
@@ -556,7 +556,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_DUCKSWARM_H",
-      "level": 9,
+      "level": 3,
       "maxHp": 1,
       "speed": 250,
       "power": 5,
@@ -610,7 +610,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_PICKLE",
-      "level": 11,
+      "level": 4,
       "maxHp": 1.5,
       "speed": 120,
       "power": 1,
@@ -640,7 +640,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_PICKLE_AGGRO",
-      "level": 11,
+      "level": 5,
       "maxHp": 2,
       "speed": 160,
       "power": 1,
@@ -666,7 +666,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_PICKLE_CIRCLE",
-      "level": 11,
+      "level": 5,
       "maxHp": 3,
       "speed": 100,
       "power": 1,
@@ -692,7 +692,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BRICK_SUS",
-      "level": 11,
+      "level": 3,
       "maxHp": 1,
       "speed": 100,
       "power": 1,
@@ -717,7 +717,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_NUGGE_SUS",
-      "level": 11,
+      "level": 4,
       "maxHp": 1,
       "speed": 120,
       "power": 1,
@@ -742,7 +742,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BINNN_SUS",
-      "level": 11,
+      "level": 4,
       "maxHp": 1,
       "speed": 140,
       "power": 1,
@@ -777,7 +777,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BRICK_AGGRO",
-      "level": 11,
+      "level": 3,
       "maxHp": 1,
       "speed": 100,
       "power": 1,
@@ -802,7 +802,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_NUGGE_AGGRO",
-      "level": 11,
+      "level": 4,
       "maxHp": 1,
       "speed": 120,
       "power": 1,
@@ -827,7 +827,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_BINNN_AGGRO",
-      "level": 11,
+      "level": 4,
       "maxHp": 1,
       "speed": 140,
       "power": 1,
@@ -852,7 +852,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_MOLO1",
-      "level": 12,
+      "level": 5,
       "maxHp": 7,
       "speed": 100,
       "power": 10,
@@ -874,7 +874,7 @@
     {
       "skipCredits": true,
       "enemyType": "SPACE_ANT",
-      "level": 12,
+      "level": 5,
       "maxHp": 7,
       "speed": 100,
       "power": 10,
@@ -904,7 +904,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_CREATU",
-      "level": 13,
+      "level": 8,
       "maxHp": 27,
       "speed": 140,
       "power": 10,
@@ -957,7 +957,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_CHAL_MARTIA",
-      "level": 15,
+      "level": 27,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -983,7 +983,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_IMPOSTOR_PATROL",
-      "level": 15,
+      "level": 27,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -1011,7 +1011,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_MONKEY",
-      "level": 16,
+      "level": 8,
       "maxHp": 18,
       "speed": 130,
       "power": 14,
@@ -1039,7 +1039,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_CHAL_CREATU",
-      "level": 17,
+      "level": 28,
       "maxHp": 20,
       "speed": 130,
       "power": 20,
@@ -1065,7 +1065,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_NDROID",
-      "level": 18,
+      "level": 10,
       "maxHp": 50,
       "speed": 80,
       "power": 20,
@@ -1093,7 +1093,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_IMPOSTOR_SMALL",
-      "level": 18,
+      "level": 11,
       "maxHp": 50,
       "speed": 100,
       "power": 20,
@@ -1115,7 +1115,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_CHAL_NDROID",
-      "level": 19,
+      "level": 26,
       "maxHp": 25,
       "speed": 80,
       "power": 20,
@@ -1146,7 +1146,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_TRIPOD",
-      "level": 20,
+      "level": 10,
       "maxHp": 50,
       "speed": 80,
       "power": 20,
@@ -1174,7 +1174,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_CHAL_TRIPOD",
-      "level": 21,
+      "level": 33,
       "maxHp": 15,
       "speed": 160,
       "power": 30,
@@ -1202,7 +1202,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_ROBOTT",
-      "level": 22,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -1233,7 +1233,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_ANIMEXXL",
-      "level": 21,
+      "level": 43,
       "maxHp": 30,
       "speed": 160,
       "power": 30,
@@ -1275,7 +1275,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_ANIMEXXL_TENTACLE_LEFT",
-      "level": 21,
+      "level": 20,
       "maxHp": 30,
       "speed": 0,
       "power": 10,
@@ -1311,7 +1311,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_ANIMEXXL_TENTACLE_RIGHT",
-      "level": 21,
+      "level": 20,
       "maxHp": 30,
       "speed": 0,
       "power": 10,
@@ -1347,7 +1347,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_ANIMEXXL_TENTACLE_LEFT2",
-      "level": 21,
+      "level": 10,
       "maxHp": 100,
       "speed": 0,
       "power": 10,
@@ -1380,7 +1380,7 @@
     {
       "skipCredits": true,
       "enemyType": "CHAL_ANIMEXXL_TENTACLE_RIGHT2",
-      "level": 21,
+      "level": 10,
       "maxHp": 100,
       "speed": 0,
       "power": 10,
@@ -1413,7 +1413,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_BIG_IMPOSTOR",
-      "level": 100,
+      "level": 19,
       "maxHp": 150,
       "speed": 150,
       "power": 20,
@@ -1439,7 +1439,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_BIG_SHIFT",
-      "level": 150,
+      "level": 24,
       "maxHp": 300,
       "speed": 150,
       "power": 20,
@@ -1465,7 +1465,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_CHAL_NUGGE_SUS_GOLEM",
-      "level": 30,
+      "level": 18,
       "maxHp": 50,
       "speed": 200,
       "power": 30,
@@ -1493,7 +1493,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_CHAL_NUGGE_SUS_GOLEM_ARM",
-      "level": 30,
+      "level": 4,
       "maxHp": 0.5,
       "speed": 0,
       "power": 12,
@@ -1546,7 +1546,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_NDROID_GUN",
-      "level": 20,
+      "level": 12,
       "maxHp": 44,
       "speed": 100,
       "power": 14,
@@ -1574,7 +1574,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_BIG_TRIPOD",
-      "level": 100,
+      "level": 20,
       "maxHp": 200,
       "speed": 80,
       "power": 30,
@@ -1600,7 +1600,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_SPACE_DUCK",
-      "level": 5,
+      "level": 2,
       "maxHp": 2,
       "speed": 100,
       "power": 5,
@@ -1623,7 +1623,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_SPACE_RABBIT",
-      "level": 5,
+      "level": 2,
       "maxHp": 1,
       "speed": 180,
       "power": 5,
@@ -1646,7 +1646,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_BIG_SPACE_DUCK",
-      "level": 20,
+      "level": 13,
       "maxHp": 100,
       "speed": 80,
       "power": 20,
@@ -1694,7 +1694,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_MINI_SPACE_ANT",
-      "level": 2,
+      "level": 1,
       "maxHp": 1,
       "speed": 160,
       "power": 1,
@@ -1717,7 +1717,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_SPACE_ANTBRAIN_SWORDIAN",
-      "level": 7,
+      "level": 18,
       "maxHp": 70,
       "speed": 400,
       "power": 15,
@@ -1741,7 +1741,7 @@
     {
       "skipCredits": true,
       "enemyType": "ADV_IMPOSTOR",
-      "level": 4,
+      "level": 8,
       "maxHp": 30,
       "speed": 140,
       "power": 10,

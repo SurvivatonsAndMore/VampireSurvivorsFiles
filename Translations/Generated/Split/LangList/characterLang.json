@@ -18858,5 +18858,79 @@
         "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       ]
     }
+  },
+  "EX_BARONHUSKER": {
+    "prefix": {
+      "_value": [
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron",
+        "Baron"
+      ]
+    },
+    "charName": {
+      "_value": [
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker",
+        "Husker"
+      ]
+    },
+    "surname": {
+      "_value": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "description": {
+      "_value": [
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.",
+        "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      ]
+    }
   }
 }

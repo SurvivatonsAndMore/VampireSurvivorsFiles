@@ -106,7 +106,7 @@
   ],
   "BMN_JETTATRICI": [
     {
-      "level": 1,
+      "level": 24,
       "maxHp": 13,
       "skills": [
         "HP_x_Level"
@@ -141,7 +141,7 @@
   ],
   "BMN_JETTATRICI_BASE": [
     {
-      "level": 1,
+      "level": 10,
       "maxHp": 40,
       "skills": [
       ],
@@ -166,7 +166,7 @@
   ],
   "BMN_WEREHYENA": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 50,
       "speed": 150,
       "power": 8,
@@ -196,7 +196,7 @@
   ],
   "BMN_WEREHYENA_SWARM": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 35,
       "speed": 300,
       "skills": [
@@ -220,7 +220,7 @@
   ],
   "BMN_NAGAPHONATA": [
     {
-      "level": 1,
+      "level": 6,
       "maxHp": 15,
       "speed": 160,
       "power": 8,
@@ -249,7 +249,7 @@
   ],
   "BMN_NAGAPHONATA_CIRCLE": [
     {
-      "level": 1,
+      "level": 6,
       "maxHp": 30,
       "speed": 45,
       "power": 10,
@@ -268,7 +268,7 @@
   ],
   "BMN_FRITTONI": [
     {
-      "level": 1,
+      "level": 30,
       "maxHp": 25,
       "skills": [
         "HP_x_Level"
@@ -303,7 +303,7 @@
   ],
   "BMN_FRITTONI_BASE": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 50,
       "skills": [
       ],
@@ -327,7 +327,7 @@
   ],
   "BMN_CANE": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1.5,
       "speed": 250,
       "power": 2,
@@ -381,7 +381,7 @@
   ],
   "BMN_ROCCO": [
     {
-      "level": 1,
+      "level": 10,
       "maxHp": 40,
       "speed": 250,
       "power": 8,
@@ -413,7 +413,7 @@
   ],
   "BMN_ROCCO_SWARM": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2,
       "speed": 500,
       "power": 4,
@@ -437,7 +437,7 @@
   ],
   "BMN_SYAMALANNO": [
     {
-      "level": 1,
+      "level": 24,
       "maxHp": 15,
       "speed": 100,
       "power": 20,
@@ -471,7 +471,7 @@
   ],
   "BMN_SYAMALANNO_BASE": [
     {
-      "level": 1,
+      "level": 13,
       "maxHp": 160,
       "speed": 80,
       "power": 12,
@@ -494,7 +494,7 @@
   ],
   "BMN_KUYATA": [
     {
-      "level": 1,
+      "level": 31,
       "maxHp": 20,
       "speed": 160,
       "power": 20,
@@ -528,7 +528,7 @@
   ],
   "BMN_KUYATA_BASE": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 190,
       "speed": 110,
       "power": 12,
@@ -551,7 +551,7 @@
   ],
   "BMN_FRITTI": [
     {
-      "level": 1,
+      "level": 12,
       "maxHp": 75,
       "speed": 120,
       "power": 15,
@@ -583,7 +583,7 @@
   ],
   "BMN_DJINN": [
     {
-      "level": 1,
+      "level": 12,
       "maxHp": 80,
       "speed": 100,
       "power": 15,
@@ -614,7 +614,7 @@
   ],
   "BMN_DJINN_SWARM": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 50,
       "speed": 400,
       "power": 10,
@@ -637,7 +637,7 @@
   ],
   "BMN_DJINN_2": [
     {
-      "level": 1,
+      "level": 17,
       "maxHp": 200,
       "speed": 90,
       "power": 20,
@@ -669,7 +669,7 @@
   ],
   "BMN_LAMASHTU": [
     {
-      "level": 1,
+      "level": 49,
       "maxHp": 50,
       "speed": 150,
       "power": 30,
@@ -705,7 +705,7 @@
   ],
   "BMN_LAMASHTU_BASE": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 100,
       "speed": 100,
       "power": 5,
@@ -728,7 +728,7 @@
   ],
   "BMN_SPIRITOSO": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 110,
       "power": 3,
@@ -761,7 +761,7 @@
   ],
   "BMN_JAMAN_JATO": [
     {
-      "level": 6,
+      "level": 11,
       "maxHp": 40,
       "speed": 250,
       "power": 10,
@@ -791,7 +791,7 @@
   ],
   "BMN_JAMAN_JATO2": [
     {
-      "level": 6,
+      "level": 11,
       "maxHp": 40,
       "speed": 250,
       "power": 10,
@@ -812,7 +812,7 @@
   ],
   "BMN_JAMAN_JATO_PATROL": [
     {
-      "level": 6,
+      "level": 11,
       "maxHp": 40,
       "speed": 250,
       "power": 10,
@@ -833,7 +833,7 @@
   ],
   "BMN_JAMAN_JATO_SWARM": [
     {
-      "level": 5,
+      "level": 12,
       "maxHp": 25,
       "speed": 600,
       "power": 10,
@@ -862,7 +862,7 @@
   ],
   "BMN_JAMAN_JATO_BOSS": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -886,7 +886,7 @@
   
   "BMN_SHADOW_SWARM": [
     {
-      "level": 5,
+      "level": 62,
       "maxHp": 3000,
       "speed": 500,
       "power": 10,
@@ -915,7 +915,7 @@
   ],
   "BMN_SHADOW_WALKING": [
     {
-      "level": 5,
+      "level": 8,
       "maxHp": 2,
       "speed": 100,
       "power": 5,
@@ -944,7 +944,7 @@
   
   "BMN_CONGREGATION_SMALL": [
     {
-      "level": 1,
+      "level": 12,
       "maxHp": 7,
       "speed": 120,
       "power": 5,
@@ -966,7 +966,7 @@
   ],
   "UN_BMN_ENEMY_026": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 10,
       "speed": 110,
       "power": 5,
@@ -987,7 +987,7 @@
   ],
   "BMN_TENTACLE": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 3,
       "speed": 0,
       "power": 5,
@@ -1017,7 +1017,7 @@
   ],
   "BMN_TENTACLE_MOVING": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 3,
       "speed": 80,
       "power": 5,
@@ -1047,7 +1047,7 @@
   ],
   "BMN_ASHTART_EVENT": [
     {
-      "level": 1,
+      "level": 71,
       "maxHp": 150,
       "speed": 160,
       "power": 25,
@@ -1076,7 +1076,7 @@
   ],
   "BMN_BAALTHASAR_EVENT": [
     {
-      "level": 1,
+      "level": 84,
       "maxHp": 10000,
       "speed": 150,
       "power": 20,
@@ -1104,7 +1104,7 @@
   ],
   "BMN_BOSS_ASHTART": [
     {
-      "level": 1,
+      "level": 84,
       "maxHp": 7500,
       "speed": 160,
       "power": 25,
@@ -1144,7 +1144,7 @@
   ],
   "BMN_BOSS_CONGREGATION": [
     {
-      "level": 1,
+      "level": 86,
       "maxHp": 10000,
       "speed": 160,
       "power": 20,
@@ -1184,7 +1184,7 @@
   ],
   "BMN_BOSS_SARGON": [
     {
-      "level": 1,
+      "level": 81,
       "maxHp": 6000,
       "speed": 180,
       "power": 25,
@@ -1221,7 +1221,7 @@
   ],
   "BMN_BOSS_BAALTHASAR": [
     {
-      "level": 1,
+      "level": 78,
       "maxHp": 8000,
       "speed": 150,
       "power": 20,
@@ -1261,7 +1261,7 @@
   ],
   "BMN_BOSS_GEKKOJIN": [
     {
-      "level": 1,
+      "level": 100,
       "maxHp": 100000,
       "speed": 200,
       "power": 20,
@@ -1289,7 +1289,7 @@
   ],
   "UN_BMN_ENEMY_055": [
     {
-      "level": 1,
+      "level": 100,
       "maxHp": 100000,
       "speed": 180,
       "power": 25,

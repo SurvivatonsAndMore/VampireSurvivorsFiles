@@ -1,7 +1,7 @@
 {
   "FS_GOBLIN": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.75,
       "speed": 140,
       "power": 5,
@@ -31,7 +31,7 @@
   ],
   "FS_GOBLIN_RED": [
     {
-      "level": 10,
+      "level": 5,
       "maxHp": 0.4,
       "speed": 200,
       "power": 3,
@@ -54,7 +54,7 @@
   ],
   "FS_GEF": [
     {
-      "level": 3,
+      "level": 2,
       "maxHp": 1.5,
       "speed": 140,
       "power": 3,
@@ -107,7 +107,7 @@
   ],
   "FS_SALMON": [
     {
-      "level": 6,
+      "level": 2,
       "maxHp": 1,
       "speed": 200,
       "power": 5,
@@ -135,7 +135,7 @@
   ],
   "FS_SALMON2": [
     {
-      "level": 8,
+      "level": 3,
       "maxHp": 2,
       "speed": 200,
       "power": 5,
@@ -156,7 +156,7 @@
   ],
   "FS_SALMON_PINK": [
     {
-      "level": 9,
+      "level": 3,
       "maxHp": 3,
       "speed": 200,
       "power": 5,
@@ -175,7 +175,7 @@
   ],
   "FS_SELKIE": [
     {
-      "level": 10,
+      "level": 5,
       "maxHp": 0.4,
       "speed": 200,
       "power": 3,
@@ -206,7 +206,7 @@
   ],
   "FS_BOSS_SELKIE": [
     {
-      "level": 10,
+      "level": 15,
       "maxHp": 5,
       "speed": 170,
       "power": 10,
@@ -229,7 +229,7 @@
   ],
   "FS_WULVER": [
     {
-      "level": 11,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 8,
@@ -257,7 +257,7 @@
   ],
   "FS_BOSS_WULVER": [
     {
-      "level": 11,
+      "level": 28,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -281,7 +281,7 @@
   ],
   "FS_LAMB": [
     {
-      "level": 12,
+      "level": 3,
       "maxHp": 20,
       "speed": 100,
       "power": 1,
@@ -309,7 +309,7 @@
   ],
   "FS_BOSS_LAMB": [
     {
-      "level": 12,
+      "level": 34,
       "maxHp": 15,
       "speed": 200,
       "power": 30,
@@ -332,7 +332,7 @@
   ],
   "FS_HTROW": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 140,
       "power": 5,
@@ -360,7 +360,7 @@
   ],
   "FS_STROW": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 7,
       "speed": 100,
       "power": 8,
@@ -388,7 +388,7 @@
   ],
   "FS_CLOWN": [
     {
-      "level": 15,
+      "level": 8,
       "maxHp": 22,
       "speed": 130,
       "power": 14,
@@ -416,7 +416,7 @@
   ],
   "FS_BOSS_CLOWN": [
     {
-      "level": 15,
+      "level": 14,
       "maxHp": 4,
       "speed": 170,
       "power": 10,
@@ -439,7 +439,7 @@
   ],
   "FS_CLOWN_SWARM": [
     {
-      "level": 15,
+      "level": 10,
       "maxHp": 22,
       "speed": 600,
       "power": 8,
@@ -463,7 +463,7 @@
   ],
   "FS_CAKE": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 1,
       "speed": 140,
       "power": 1,
@@ -524,7 +524,7 @@
   ],
   "FS_GREEN": [
     {
-      "level": 23,
+      "level": 14,
       "maxHp": 50,
       "speed": 180,
       "power": 20,
@@ -555,7 +555,7 @@
   ],
   "FS_GREEN_RED": [
     {
-      "level": 22,
+      "level": 11,
       "maxHp": 50,
       "speed": 100,
       "power": 20,
@@ -574,7 +574,7 @@
   ],
   "FS_BOSS_GREEN_GREEN": [
     {
-      "level": 23,
+      "level": 32,
       "maxHp": 20,
       "speed": 180,
       "power": 20,
@@ -598,7 +598,7 @@
   ],
   "FS_BOSS_GREEN_28": [
     {
-      "level": 28,
+      "level": 21,
       "maxHp": 8,
       "speed": 120,
       "power": 20,
@@ -622,7 +622,7 @@
   ],
   "FS_BOSS_GREEN_RED_28": [
     {
-      "level": 28,
+      "level": 21,
       "maxHp": 8,
       "speed": 120,
       "power": 20,
@@ -646,7 +646,7 @@
   ],
   "FS_BOSS_GREEN_GREEN_28": [
     {
-      "level": 28,
+      "level": 21,
       "maxHp": 8,
       "speed": 120,
       "power": 20,
@@ -670,7 +670,7 @@
   ],
   "FS_MUSH_PATROL": [
     {
-      "level": 6,
+      "level": 9,
       "maxHp": 40,
       "speed": 140,
       "power": 10,
@@ -690,7 +690,7 @@
   ],
   "FS_AILLEN": [
     {
-      "level": 15,
+      "level": 8,
       "maxHp": 22,
       "speed": 130,
       "power": 14,
@@ -718,7 +718,7 @@
   ],
   "FS_DUERG": [
     {
-      "level": 4,
+      "level": 2,
       "maxHp": 1.3,
       "speed": 160,
       "maxSpeed": 200,
@@ -747,7 +747,7 @@
   ],
   "FS_GLORY": [
     {
-      "level": 29,
+      "level": 15,
       "maxHp": 90,
       "speed": 190,
       "power": 15,
@@ -775,7 +775,7 @@
   ],
   "FS_MARI": [
     {
-      "level": 29,
+      "level": 14,
       "maxHp": 90,
       "speed": 140,
       "power": 15,
@@ -803,7 +803,7 @@
   ],
   "FS_NJUGG": [
     {
-      "level": 13,
+      "level": 4,
       "maxHp": 7,
       "speed": 160,
       "power": 5,
@@ -833,7 +833,7 @@
   ],
   "FS_NJUGGB": [
     {
-      "level": 13,
+      "level": 4,
       "maxHp": 7,
       "speed": 160,
       "power": 5,
@@ -853,7 +853,7 @@
   ],
   "FS_BOSS_NJUGGLES": [
     {
-      "level": 13,
+      "level": 15,
       "maxHp": 5,
       "speed": 170,
       "power": 10,
@@ -875,6 +875,7 @@
   ],
   "FS_BOSS_WORM": [
     {
+      "level": 36,
       "maxHp": 20,
       "speed": 160,
       "power": 30,
@@ -897,6 +898,7 @@
   ],
   "FS_BOSS_WORMB": [
     {
+      "level": 36,
       "maxHp": 18,
       "speed": 180,
       "power": 30,
@@ -920,7 +922,7 @@
   ],
   "FS_HAG": [
     {
-      "level": 27,
+      "level": 13,
       "maxHp": 70,
       "speed": 140,
       "power": 15,
@@ -948,7 +950,7 @@
   ],
   "FS_MUSH_HP": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -982,7 +984,7 @@
   ],
   "FS_XLMANTIS_HP": [
     {
-      "level": 10,
+      "level": 14,
       "maxHp": 4,
       "speed": 80,
       "power": 20,
@@ -1004,7 +1006,7 @@
   ],
   "FS_XLFLOWER_HP": [
     {
-      "level": 10,
+      "level": 15,
       "maxHp": 5,
       "speed": 80,
       "power": 20,
@@ -1026,7 +1028,7 @@
   ],
   "FS_COCKATRICE_BOSS1": [
     {
-      "level": 15,
+      "level": 14,
       "maxHp": 4,
       "speed": 170,
       "power": 10,
@@ -1047,7 +1049,7 @@
   ],
   "FS_COCKATRICE_BOSS2": [
     {
-      "level": 15,
+      "level": 14,
       "maxHp": 4,
       "speed": 170,
       "power": 10,
@@ -1069,7 +1071,7 @@
   ],
   "FS_COCKATRICE_BOSS3": [
     {
-      "level": 15,
+      "level": 14,
       "maxHp": 4,
       "speed": 170,
       "power": 10,
@@ -1092,7 +1094,7 @@
   ],
   "FS_GGHOST": [
     {
-      "level": 25,
+      "level": 6,
       "maxHp": 0.5,
       "speed": 160,
       "power": 5,
@@ -1129,7 +1131,7 @@
   ],
   "FS_GGGHOST": [
     {
-      "level": 25,
+      "level": 7,
       "maxHp": 0.5,
       "speed": 200,
       "power": 5,
@@ -1156,7 +1158,7 @@
   ],
   "FS_BOSS_AGAEA": [
     {
-      "level": 100,
+      "level": 2,
       "maxHp": 0.75,
       "speed": 140,
       "power": 5,
@@ -1188,7 +1190,7 @@
   ],
   "FS_CAULD": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 4,
@@ -1244,7 +1246,7 @@
   ],
   "RELLYFISH": [
     {
-      "level": 4,
+      "level": 6,
       "maxHp": 14,
       "speed": 200,
       "power": 6,
@@ -1276,6 +1278,7 @@
   ],
   "RELLYFISH_SWARM": [
     {
+      "level": 7,
       "maxHp": 18,
       "speed": 150,
       "power": 10,
@@ -1298,7 +1301,7 @@
   ],
   "HEMO": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -1329,7 +1332,7 @@
   ],
   "HEMO2": [
     {
-      "level": 5,
+      "level": 2,
       "maxHp": 1,
       "speed": 140,
       "power": 5,
@@ -1349,7 +1352,7 @@
   ],
   "BOSS_XLBLINDER": [
     {
-      "level": 20,
+      "level": 47,
       "maxHp": 50,
       "speed": 150,
       "power": 25,
@@ -1376,7 +1379,7 @@
   ],
   "FS_BLINDER_PATROL": [
     {
-      "level": 10,
+      "level": 16,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -1403,7 +1406,7 @@
   ],
   "FS_BOSS_REDUSA": [
     {
-      "level": 10,
+      "level": 25,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -1427,7 +1430,7 @@
   ],
   "FS_BOSS_FLAMINGSKULL": [
     {
-      "level": 10,
+      "level": 26,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -1452,7 +1455,7 @@
   ],
   "FS_BOSS_MEATY": [
     {
-      "level": 10,
+      "level": 26,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -1476,7 +1479,7 @@
   ],
   "FS_BOSS_MEATBALL": [
     {
-      "level": 10,
+      "level": 26,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -1500,7 +1503,7 @@
   ],
   "FS_BOSS_EDNA": [
     {
-      "level": 10,
+      "level": 26,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -1524,7 +1527,7 @@
   ],
   "FS_BOSS_HORWORM": [
     {
-      "level": 10,
+      "level": 34,
       "maxHp": 20,
       "speed": 180,
       "power": 20,
@@ -1550,7 +1553,7 @@
   ],
   "FS_BOSS_HORMARI": [
     {
-      "level": 10,
+      "level": 34,
       "maxHp": 20,
       "speed": 180,
       "power": 20,
@@ -1576,7 +1579,7 @@
   ],
   "FS_BOSS_HORCAULD": [
     {
-      "level": 10,
+      "level": 34,
       "maxHp": 20,
       "speed": 180,
       "power": 20,
@@ -1602,7 +1605,7 @@
   ],
   "FS_BOSS_MEATY_29": [
     {
-      "level": 30,
+      "level": 21,
       "maxHp": 8,
       "speed": 120,
       "power": 20,
@@ -1626,7 +1629,7 @@
   ],
   "FS_BOSS_MEATBALL_29": [
     {
-      "level": 30,
+      "level": 21,
       "maxHp": 8,
       "speed": 120,
       "power": 20,
@@ -1677,7 +1680,7 @@
   ],
   "FS_ROTGHOUL_SWARM": [
     {
-      "level": 5,
+      "level": 11,
       "maxHp": 25,
       "speed": 600,
       "power": 9,
@@ -1701,7 +1704,7 @@
   ],
   "FS_FLAMINGSKULL": [
     {
-      "level": 7,
+      "level": 4,
       "maxHp": 6,
       "speed": 100,
       "power": 8,
@@ -1730,7 +1733,7 @@
   ],
   "FS_WORM": [
     {
-      "level": 8,
+      "level": 7,
       "maxHp": 13,
       "speed": 200,
       "power": 8,
@@ -1760,7 +1763,7 @@
   ],
   "FS_WORM2": [
     {
-      "level": 12,
+      "level": 8,
       "maxHp": 20,
       "speed": 200,
       "power": 9,
@@ -1780,7 +1783,7 @@
   ],
   "FS_SNAK1": [
     {
-      "level": 4,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -1808,7 +1811,7 @@
   ],
   "FS_SNAK2": [
     {
-      "level": 4,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -1827,7 +1830,7 @@
   ],
   "FS_SNAK3": [
     {
-      "level": 4,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -1846,7 +1849,7 @@
   ],
   "FS_SNAK4": [
     {
-      "level": 4,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -1889,7 +1892,7 @@
   ],
   "FS_SHOOTER1": [
     {
-      "level": 6,
+      "level": 3,
       "maxHp": 2.5,
       "speed": 0,
       "power": 10,
@@ -1919,7 +1922,7 @@
   ],
   "FS_SHOOTER2": [
     {
-      "level": 10,
+      "level": 5,
       "maxHp": 15,
       "speed": 0,
       "power": 10,
@@ -1940,7 +1943,7 @@
   ],
   "FS_MEATBALL": [
     {
-      "level": 9,
+      "level": 8,
       "maxHp": 25,
       "speed": 130,
       "power": 10,
@@ -1968,7 +1971,7 @@
   ],
   "FS_MEATY": [
     {
-      "level": 14,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 8,
@@ -1996,7 +1999,7 @@
   ],
   "FS_EDNA": [
     {
-      "level": 14,
+      "level": 8,
       "maxHp": 30,
       "speed": 100,
       "power": 11,
@@ -2024,7 +2027,7 @@
   ],
   "FS_HORCAULD": [
     {
-      "level": 15,
+      "level": 10,
       "maxHp": 30,
       "speed": 140,
       "power": 15,
@@ -2052,7 +2055,7 @@
   ],
   "FS_HORWORM": [
     {
-      "level": 16,
+      "level": 10,
       "maxHp": 30,
       "speed": 160,
       "power": 15,
@@ -2080,7 +2083,7 @@
   ],
   "FS_HORNJUGG": [
     {
-      "level": 17,
+      "level": 10,
       "maxHp": 25,
       "speed": 280,
       "power": 10,
@@ -2108,7 +2111,7 @@
   ],
   "FS_HORAILLEN": [
     {
-      "level": 19,
+      "level": 12,
       "maxHp": 50,
       "speed": 150,
       "power": 15,
@@ -2136,7 +2139,7 @@
   ],
   "FS_HORDUERG": [
     {
-      "level": 19,
+      "level": 7,
       "maxHp": 18,
       "speed": 150,
       "power": 8,
@@ -2164,7 +2167,7 @@
   ],
   "FS_HORGLORY": [
     {
-      "level": 7,
+      "level": 13,
       "maxHp": 70,
       "speed": 140,
       "power": 15,
@@ -2192,7 +2195,7 @@
   ],
   "FS_HORMARI": [
     {
-      "level": 7,
+      "level": 14,
       "maxHp": 70,
       "speed": 140,
       "power": 20,
@@ -2220,7 +2223,7 @@
   ],
   "FS_FMBALOR": [
     {
-      "level": 25,
+      "level": 14,
       "maxHp": 70,
       "speed": 140,
       "power": 20,
@@ -2241,7 +2244,7 @@
   ],
   "FS_FMCETHLENN": [
     {
-      "level": 25,
+      "level": 28,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -2280,7 +2283,7 @@
   ],
   "FS_FMCONAND": [
     {
-      "level": 25,
+      "level": 14,
       "maxHp": 70,
       "speed": 140,
       "power": 20,
@@ -2300,7 +2303,7 @@
   ],
   "FS_FMELATHA": [
     {
-      "level": 25,
+      "level": 28,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -2325,7 +2328,7 @@
   ],
   "FS_FMINDECH": [
     {
-      "level": 25,
+      "level": 14,
       "maxHp": 70,
       "speed": 140,
       "power": 20,
@@ -2382,7 +2385,7 @@
   ],
   "FS_SNAKBOMB": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 1.1,
       "speed": 300,
       "power": 3,
@@ -2431,7 +2434,7 @@
   ],
   "FS_BROWN_HP": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.1,
       "speed": 160,
       "maxSpeed": 200,
@@ -2454,7 +2457,7 @@
   ],
   "FS_SALMON_HP": [
     {
-      "level": 6,
+      "level": 8,
       "maxHp": 1,
       "speed": 200,
       "power": 5,
@@ -2476,7 +2479,7 @@
   ],
   "FS_NJUGGB_HP": [
     {
-      "level": 13,
+      "level": 9,
       "maxHp": 2,
       "speed": 160,
       "power": 5,
@@ -2499,7 +2502,7 @@
   ],
   "FS_STROW_HP": [
     {
-      "level": 13,
+      "level": 9,
       "maxHp": 2,
       "speed": 100,
       "power": 8,
@@ -2521,7 +2524,7 @@
   ],
   "FS_HTROW_HP": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -2543,7 +2546,7 @@
   ],
   "FS_CRATE_HP": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 0,
       "power": 0,
@@ -2606,7 +2609,7 @@
   ],
   "FS_FLOWER": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 2,
       "speed": 140,
       "power": 5,
@@ -2627,7 +2630,7 @@
   
   "FOSCARI_COUNTER": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.75,
       "speed": 140,
       "power": 5,
@@ -2761,7 +2764,7 @@
   
   "FS_FLAMINGSKULL_FLYING": [
     {
-      "level": 7,
+      "level": 4,
       "maxHp": 6,
       "speed": 100,
       "power": 8,
@@ -2781,7 +2784,7 @@
   ],
   "FS_MEATY_FLYING": [
     {
-      "level": 14,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 8,
@@ -2800,7 +2803,7 @@
   ],
   "FS_MEATBALL_FLYING": [
     {
-      "level": 9,
+      "level": 8,
       "maxHp": 25,
       "speed": 130,
       "power": 10,
@@ -2819,7 +2822,7 @@
   ],
   "FS_HORCAULD_FLYING": [
     {
-      "level": 15,
+      "level": 10,
       "maxHp": 30,
       "speed": 140,
       "power": 15,
@@ -2838,7 +2841,7 @@
   ],
   "FS_HORGLORY_FLYING": [
     {
-      "level": 7,
+      "level": 13,
       "maxHp": 70,
       "speed": 140,
       "power": 15,
@@ -2857,7 +2860,7 @@
   ],
   "FS_HORMARI_FLYING": [
     {
-      "level": 7,
+      "level": 14,
       "maxHp": 70,
       "speed": 140,
       "power": 20,
@@ -2876,7 +2879,7 @@
   ],
   "FS_MUSH_BOSS": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -2905,7 +2908,7 @@
   ],
   "FS_MUSH_BOSSMINION": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1,
       "speed": 140,
       "power": 10,

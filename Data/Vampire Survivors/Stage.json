@@ -9152,6 +9152,7 @@
         "isTiling": true,
         "isTilingHorizontal": true,
         "detailsTexture": "MapBiggusDiscus.png",
+        "detailsTexturePaddingY": 180,
         "mapRelic": "RELIC_MAP_BD"
       },
       "preload": {

@@ -2928,7 +2928,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "fr": {
@@ -5860,7 +5875,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "it": {
@@ -8792,7 +8822,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "de": {
@@ -11724,7 +11769,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "es": {
@@ -14656,7 +14716,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "pt-BR": {
@@ -17588,7 +17663,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "pl": {
@@ -20520,7 +20610,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "ru": {
@@ -23452,7 +23557,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "tr": {
@@ -26384,7 +26504,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "zh-CN": {
@@ -29316,7 +29451,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "ja": {
@@ -32248,7 +32398,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "ko": {
@@ -35180,7 +35345,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "zh-TW": {
@@ -38112,7 +38292,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   },
   "uk": {
@@ -41044,7 +41239,22 @@
       "_value": "Announcer (Game)"
     },
     "credits_announcer_game": {
-      "_value": "GAME ANNOUNCER"
+      "_value": "GAME ANNOUNCER VO"
+    },
+    "joyConsAttached_title": {
+      "_value": "Joy-Con attached"
+    },
+    "joyConsAttached_desc": {
+      "_value": "Please detach the Joy-Con from the console to continue playing co-op."
+    },
+    "options_showHelpers": {
+      "_value": "Show menu helpers"
+    },
+    "stageSelection_baseGame": {
+      "_value": "Base Game"
+    },
+    "stageSelection_expansions": {
+      "_value": "Expansions"
     }
   }
 }

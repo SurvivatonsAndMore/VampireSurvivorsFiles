@@ -3,7 +3,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_LEDDER",
-      "level": 10,
+      "level": 2,
       "maxHp": 1,
       "speed": 200,
       "power": 3,
@@ -38,7 +38,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_LEDDER",
-      "level": 3,
+      "level": 1,
       "maxHp": 0.3,
       "speed": 120,
       "power": 3,
@@ -63,7 +63,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_GREEDER",
-      "level": 30,
+      "level": 3,
       "maxHp": 3,
       "speed": 180,
       "power": 5,
@@ -90,7 +90,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_WARLORD",
-      "level": 80,
+      "level": 5,
       "maxHp": 8,
       "speed": 160,
       "power": 5,
@@ -120,7 +120,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_MOSQUITO",
-      "level": 50,
+      "level": 3,
       "maxHp": 5,
       "speed": 240,
       "power": 1,
@@ -148,7 +148,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_EVILSNOWMAN",
-      "level": 120,
+      "level": 5,
       "maxHp": 12,
       "speed": 180,
       "power": 5,
@@ -177,7 +177,7 @@
   "FB_ALIENCENTIPEDE": [
     {
       "skipCredits": true,
-      "level": 30,
+      "level": 10,
       "maxHp": 3,
       "speed": 300,
       "power": 3,
@@ -212,7 +212,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_CHICKEN",
-      "level": 500,
+      "level": 14,
       "maxHp": 50,
       "speed": 120,
       "power": 25,
@@ -246,7 +246,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_METALALIEN",
-      "level": 700,
+      "level": 19,
       "maxHp": 70,
       "speed": 180,
       "power": 30,
@@ -287,7 +287,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_HUMANFACEDDOG",
-      "level": 30,
+      "level": 3,
       "maxHp": 3,
       "speed": 280,
       "power": 3,
@@ -314,7 +314,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_GARTH",
-      "level": 120,
+      "level": 6,
       "maxHp": 12,
       "speed": 130,
       "power": 10,
@@ -341,7 +341,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_WALKINGBALL",
-      "level": 350,
+      "level": 8,
       "maxHp": 35,
       "speed": 180,
       "power": 5,
@@ -372,7 +372,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_HELLRIDER",
-      "level": 80,
+      "level": 6,
       "maxHp": 8,
       "speed": 220,
       "power": 10,
@@ -404,7 +404,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_JUNKYARDCAR",
-      "level": 450,
+      "level": 8,
       "maxHp": 45,
       "speed": 80,
       "power": 10,
@@ -436,7 +436,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_FLIGHTZAKO",
-      "level": 400,
+      "level": 11,
       "maxHp": 40,
       "speed": 160,
       "power": 15,
@@ -468,7 +468,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_M78",
-      "level": 1200,
+      "level": 22,
       "maxHp": 120,
       "speed": 180,
       "power": 25,
@@ -504,7 +504,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_BUGGER",
-      "level": 200,
+      "level": 5,
       "maxHp": 20,
       "speed": 400,
       "power": 1,
@@ -534,7 +534,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_POISONOUSINSECTGEL",
-      "level": 300,
+      "level": 6,
       "maxHp": 30,
       "speed": 100,
       "power": 5,
@@ -564,7 +564,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_BUNDLE",
-      "level": 250,
+      "level": 9,
       "maxHp": 25,
       "speed": 360,
       "power": 5,
@@ -594,7 +594,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_ZAKOALIEN",
-      "level": 600,
+      "level": 12,
       "maxHp": 60,
       "speed": 180,
       "power": 10,
@@ -621,7 +621,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_GIGAFLY",
-      "level": 800,
+      "level": 10,
       "maxHp": 80,
       "speed": 260,
       "power": 3,
@@ -652,7 +652,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_MUTANTCRAWLER",
-      "level": 1000,
+      "level": 12,
       "maxHp": 100,
       "speed": 220,
       "power": 5,
@@ -683,7 +683,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_KIMKOH",
-      "level": 2000,
+      "level": 20,
       "maxHp": 200,
       "speed": 120,
       "power": 20,
@@ -716,7 +716,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_WARLORD",
-      "level": 1,
+      "level": 15,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -746,7 +746,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_CHICKEN",
-      "level": 2000,
+      "level": 32,
       "maxHp": 20,
       "speed": 120,
       "power": 25,
@@ -778,7 +778,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_JUNKYARDCAR",
-      "level": 100,
+      "level": 15,
       "maxHp": 10,
       "speed": 80,
       "power": 10,
@@ -806,7 +806,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_FLIGHTZAKO",
-      "level": 100,
+      "level": 17,
       "maxHp": 5,
       "speed": 160,
       "power": 15,
@@ -834,7 +834,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_M78",
-      "level": 2400,
+      "level": 39,
       "maxHp": 24,
       "speed": 180,
       "power": 25,
@@ -866,7 +866,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_METALALIEN",
-      "level": 2200,
+      "level": 40,
       "maxHp": 22,
       "speed": 180,
       "power": 30,
@@ -903,7 +903,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_GORDEA",
-      "level": 4400,
+      "level": 32,
       "maxHp": 44,
       "speed": 140,
       "power": 10,
@@ -940,7 +940,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_MUTANTCRAWLER",
-      "level": 1500,
+      "level": 19,
       "maxHp": 15,
       "speed": 200,
       "power": 5,
@@ -969,7 +969,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_KIMKOH",
-      "level": 3600,
+      "level": 36,
       "maxHp": 36,
       "skills": [
         "HP_x_Level"
@@ -1001,7 +1001,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_TAKA",
-      "level": 5000,
+      "level": 49,
       "maxHp": 50,
       "speed": 140,
       "power": 30,
@@ -1043,7 +1043,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_BIGFUZZ",
-      "level": 7000,
+      "level": 39,
       "maxHp": 70,
       "speed": 0,
       "power": 30,
@@ -1078,7 +1078,7 @@
       "skipCredits": true,
       "patrolDuration": 2000,
       "enemyType": "FB_PATROL_WARLORD",
-      "level": 80,
+      "level": 5,
       "maxHp": 8,
       "speed": 160,
       "power": 5,
@@ -1105,7 +1105,7 @@
       "skipCredits": true,
       "patrolDuration": 2000,
       "enemyType": "FB_PATROL_FLIGHTZAKO",
-      "level": 400,
+      "level": 11,
       "maxHp": 40,
       "speed": 160,
       "power": 15,
@@ -1132,7 +1132,7 @@
       "skipCredits": true,
       "patrolDuration": 2000,
       "enemyType": "FB_PATROL_GIGAFLY",
-      "level": 800,
+      "level": 10,
       "maxHp": 80,
       "speed": 260,
       "power": 3,
@@ -1184,7 +1184,7 @@
   "FB_FB_POISONOUSINSECTGEL_SWARM": [
     {
       "skipCredits": true,
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 300,
       "power": 3,
@@ -1238,7 +1238,7 @@
   "FB_HELLRIDER_SWARM": [
     {
       "skipCredits": true,
-      "level": 30,
+      "level": 3,
       "maxHp": 3,
       "speed": 800,
       "power": 1,
@@ -1265,7 +1265,7 @@
   "FB_BULLET_FIREBALL": [
     {
       "skipCredits": true,
-      "level": 1,
+      "level": 100,
       "maxHp": 10000,
       "speed": 1000,
       "power": 20,
@@ -1291,7 +1291,7 @@
   "FB_BULLET_EYELASER": [
     {
       "skipCredits": true,
-      "level": 1,
+      "level": 66,
       "maxHp": 10000,
       "speed": 200,
       "power": 10,
@@ -1317,7 +1317,7 @@
   "FB_BULLET_BOMB": [
     {
       "skipCredits": true,
-      "level": 1,
+      "level": 2,
       "maxHp": 0.1,
       "speed": 200,
       "power": 20,
@@ -1372,7 +1372,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_MOSQUITO_FLYING",
-      "level": 20,
+      "level": 2,
       "maxHp": 2,
       "speed": 160,
       "power": 1,
@@ -1397,7 +1397,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_BUNDLE_FLYING",
-      "level": 100,
+      "level": 6,
       "maxHp": 10,
       "speed": 360,
       "power": 5,
@@ -1449,7 +1449,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_FLIGHTZAKO_FLYING",
-      "level": 120,
+      "level": 7,
       "maxHp": 12,
       "speed": 160,
       "power": 15,
@@ -1474,7 +1474,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_FLIGHTZAKO_FLYING",
-      "level": 150,
+      "level": 17,
       "maxHp": 5,
       "speed": 160,
       "power": 15,
@@ -1504,7 +1504,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_METALALIEN_FLYING",
-      "level": 700,
+      "level": 19,
       "maxHp": 70,
       "speed": 180,
       "power": 30,
@@ -1538,7 +1538,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_METALALIEN_FLYING",
-      "level": 200,
+      "level": 25,
       "maxHp": 5,
       "speed": 180,
       "power": 30,
@@ -1576,7 +1576,7 @@
   "FB_ALIENCENTIPEDE_FLYING": [
     {
       "skipCredits": true,
-      "level": 50,
+      "level": 4,
       "maxHp": 5,
       "speed": 300,
       "power": 3,
@@ -1605,7 +1605,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_HELLRIDER_RACING",
-      "level": 80,
+      "level": 6,
       "maxHp": 8,
       "speed": 220,
       "power": 10,
@@ -1630,7 +1630,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_HELLRIDER2_RACING",
-      "level": 10,
+      "level": 3,
       "maxHp": 2,
       "speed": 200,
       "power": 4,
@@ -1655,7 +1655,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_MUTANTCRAWLER",
-      "level": 30,
+      "level": 3,
       "maxHp": 3,
       "speed": 200,
       "power": 5,
@@ -1680,7 +1680,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_WALKINGBALL_RACING",
-      "level": 40,
+      "level": 4,
       "maxHp": 4,
       "speed": 180,
       "power": 5,
@@ -1705,7 +1705,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_WALKINGBALL_RACING",
-      "level": 40,
+      "level": 12,
       "maxHp": 4,
       "speed": 180,
       "power": 5,
@@ -1735,7 +1735,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_EVILSNOWMAN_RACING",
-      "level": 40,
+      "level": 4,
       "maxHp": 4,
       "speed": 180,
       "power": 5,
@@ -1760,7 +1760,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_JUNKYARDCAR",
-      "level": 200,
+      "level": 6,
       "maxHp": 20,
       "speed": 80,
       "power": 10,
@@ -1785,7 +1785,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_JUNKYARDCAR_RACING",
-      "level": 100,
+      "level": 11,
       "maxHp": 4,
       "speed": 80,
       "power": 10,
@@ -1815,7 +1815,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_CHICKEN_RACING",
-      "level": 500,
+      "level": 14,
       "maxHp": 50,
       "speed": 120,
       "power": 25,
@@ -1843,7 +1843,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_CHICKEN_RACING",
-      "level": 200,
+      "level": 18,
       "maxHp": 4,
       "speed": 120,
       "power": 25,
@@ -1876,7 +1876,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_M78",
-      "level": 1000,
+      "level": 20,
       "maxHp": 100,
       "speed": 180,
       "power": 25,
@@ -1905,7 +1905,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_M78_RACING",
-      "level": 200,
+      "level": 23,
       "maxHp": 5,
       "speed": 180,
       "power": 25,
@@ -1939,7 +1939,7 @@
     {
       "skipCredits": true,
       "enemyType": "FB_GORDEA_RACING",
-      "level": 100,
+      "level": 26,
       "maxHp": 25,
       "speed": 140,
       "power": 10,
@@ -1970,7 +1970,7 @@
     {
       "skipCredits": true,
       "enemyType": "BOSS_FB_TAKA_RACING",
-      "level": 2500,
+      "level": 41,
       "maxHp": 30,
       "speed": 140,
       "power": 30,
@@ -2005,7 +2005,7 @@
   ],
   "FB_SIMONDO": [
     {
-      "level": 99,
+      "level": 11,
       "maxHp": 40,
       "speed": 5,
       "power": 1,

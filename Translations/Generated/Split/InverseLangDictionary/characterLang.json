@@ -3574,6 +3574,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "fr": {
@@ -7150,6 +7164,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   },
@@ -10728,6 +10756,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "de": {
@@ -14304,6 +14346,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   },
@@ -17882,6 +17938,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "pt-BR": {
@@ -21458,6 +21528,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   },
@@ -25036,6 +25120,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "ru": {
@@ -28612,6 +28710,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   },
@@ -32190,6 +32302,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "zh-CN": {
@@ -35766,6 +35892,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   },
@@ -39344,6 +39484,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "ko": {
@@ -42920,6 +43074,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   },
@@ -46498,6 +46666,20 @@
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
       }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
+      }
     }
   },
   "uk": {
@@ -50074,6 +50256,20 @@
       },
       "description": {
         "_value": "Charge ability affected by Might: ultimate sword sweeps the battlefield."
+      }
+    },
+    "EX_BARONHUSKER": {
+      "prefix": {
+        "_value": "Baron"
+      },
+      "charName": {
+        "_value": "Husker"
+      },
+      "surname": {
+        "_value": null
+      },
+      "description": {
+        "_value": "Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar."
       }
     }
   }

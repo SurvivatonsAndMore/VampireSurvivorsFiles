@@ -142,7 +142,7 @@
   ],
   "EME_GATEBOSS_SPIRITBEAST": [
     {
-      "level": 1,
+      "level": 24,
       "maxHp": 18,
       "speed": 140,
       "power": 10,
@@ -184,7 +184,7 @@
   ],
   "EME_BOAR": [
     {
-      "level": 1,
+      "level": 6,
       "maxHp": 12,
       "speed": 135,
       "power": 8,
@@ -218,7 +218,7 @@
   ],
   "EME_GATEBOSS_DRAGON": [
     {
-      "level": 1,
+      "level": 19,
       "maxHp": 18,
       "speed": 140,
       "power": 5,
@@ -256,7 +256,7 @@
   ],
   "EME_GOBLIN": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1.3,
       "speed": 130,
       "power": 5,
@@ -290,7 +290,7 @@
   ],
   "EME_BALL": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 1.7,
       "speed": 200,
       "power": 10,
@@ -324,7 +324,7 @@
   ],
   "EME_BALL2": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 3,
       "speed": 250,
       "power": 10,
@@ -349,7 +349,7 @@
   ],
   "EME_BIRD": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.2,
       "speed": 160,
       "power": 8,
@@ -385,7 +385,7 @@
   ],
   "EME_BIRD2": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 3.4,
       "speed": 160,
       "power": 8,
@@ -406,7 +406,7 @@
   ],
   "EME_BIRD3": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 5,
       "speed": 160,
       "power": 8,
@@ -427,7 +427,7 @@
   ],
   "EME_OGRE": [
     {
-      "level": 1,
+      "level": 10,
       "maxHp": 45,
       "speed": 120,
       "power": 15,
@@ -461,7 +461,7 @@
   ],
   "EME_BAT": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 200,
       "power": 5,
@@ -498,7 +498,7 @@
   ],
   "EME_DOG": [
     {
-      "level": 1,
+      "level": 6,
       "maxHp": 10,
       "speed": 210,
       "power": 9,
@@ -533,7 +533,7 @@
   ],
   "EME_DOG3": [
     {
-      "level": 1,
+      "level": 10,
       "maxHp": 22,
       "speed": 230,
       "power": 15,
@@ -558,7 +558,7 @@
   ],
   "EME_FROG": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 7,
@@ -593,7 +593,7 @@
   ],
   "EME_FROG3": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2,
       "speed": 180,
       "power": 10,
@@ -617,7 +617,7 @@
   ],
   "EME_KELPIE": [
     {
-      "level": 1,
+      "level": 12,
       "maxHp": 55,
       "speed": 120,
       "power": 18,
@@ -650,7 +650,7 @@
   ],
   "EME_RASCAL": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 0.2,
       "speed": 200,
       "power": 5,
@@ -686,7 +686,7 @@
   ],
   "EME_SLIME": [
     {
-      "level": 1,
+      "level": 13,
       "maxHp": 70,
       "speed": 110,
       "power": 20,
@@ -719,7 +719,7 @@
   ],
   "EME_ALRAUNE": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 160,
       "power": 3,
@@ -751,7 +751,7 @@
   ],
   "EME_ANT": [
     {
-      "level": 1,
+      "level": 10,
       "maxHp": 33,
       "speed": 140,
       "power": 15,
@@ -784,7 +784,7 @@
   ],
   "EME_MOCH": [
     {
-      "level": 1,
+      "level": 11,
       "maxHp": 55,
       "speed": 80,
       "power": 22,
@@ -818,7 +818,7 @@
   ],
   "EME_SKELETON": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 20,
       "speed": 115,
       "power": 13,
@@ -851,7 +851,7 @@
   ],
   "EME_WEREWOLF": [
     {
-      "level": 1,
+      "level": 11,
       "maxHp": 30,
       "speed": 140,
       "power": 20,
@@ -884,7 +884,7 @@
   ],
   "EME_GATEBOSS_SPECTER": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 70,
       "scale": 1.5,
       "skills": [
@@ -923,7 +923,7 @@
   ],
   "EME_GATEBOSS_IRONMAIDEN": [
     {
-      "level": 1,
+      "level": 13,
       "maxHp": 70,
       "scale": 1.5,
       "skills": [
@@ -961,7 +961,7 @@
   ],
   "EME_GATEBOSS_FINALEMPEROR": [
     {
-      "level": 1,
+      "level": 13,
       "maxHp": 50,
       "scale": 1.5,
       "skills": [
@@ -999,7 +999,7 @@
   ],
   "EME_GATEBOSS_LIVINGANGUISH": [
     {
-      "level": 1,
+      "level": 23,
       "maxHp": 128,
       "scale": 1.5,
       "skills": [
@@ -1038,7 +1038,7 @@
   ],
   "EME_BOSS_FROG": [
     {
-      "level": 1,
+      "level": 16,
       "res_Rosary": 1,
       "res_Defang": 1,
       "maxHp": 4,
@@ -1068,7 +1068,7 @@
   ],
   "EME_BOSS_GOBLIN": [
     {
-      "level": 1,
+      "level": 24,
       "res_Defang": 1,
       "maxHp": 22,
       "speed": 140,
@@ -1097,7 +1097,7 @@
   ],
   "EME_BOSS_BOAR": [
     {
-      "level": 1,
+      "level": 22,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1124,7 +1124,7 @@
   ],
   "EME_BOSS_BAT": [
     {
-      "level": 1,
+      "level": 16,
       "res_Rosary": 1,
       "res_Defang": 1,
       "maxHp": 4,
@@ -1155,7 +1155,7 @@
   ],
   "EME_BOSS_SKELETON": [
     {
-      "level": 1,
+      "level": 27,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1187,7 +1187,7 @@
   ],
   "EME_BOSS_WEREWOLF": [
     {
-      "level": 1,
+      "level": 29,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1219,7 +1219,7 @@
   ],
   "EME_BOSS_DOG": [
     {
-      "level": 1,
+      "level": 22,
       "res_Rosary": 1,
       "res_Defang": 1,
       "maxHp": 8,
@@ -1249,7 +1249,7 @@
   ],
   "EME_BOSS_KELPIE": [
     {
-      "level": 1,
+      "level": 32,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1281,7 +1281,7 @@
   ],
   "EME_BOSS_SLIME": [
     {
-      "level": 1,
+      "level": 35,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1313,7 +1313,7 @@
   ],
   "EME_BOSS_MOCH": [
     {
-      "level": 1,
+      "level": 37,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1345,7 +1345,7 @@
   ],
   "EME_BOSS_OGRE": [
     {
-      "level": 1,
+      "level": 38,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1377,7 +1377,7 @@
   ],
   "EME_BOSS_ANT": [
     {
-      "level": 1,
+      "level": 30,
       "res_Freeze": 1.1,
       "res_Rosary": 1,
       "res_Debuffs": 1,
@@ -1409,7 +1409,7 @@
   ],
   "EME_ALRAUNE_BOMB": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 1.1,
       "speed": 360,
       "power": 3,
@@ -1441,7 +1441,7 @@
   ],
   "EME_RASCAL_SWARM": [
     {
-      "level": 1,
+      "level": 6,
       "maxHp": 10,
       "speed": 1000,
       "power": 3,
@@ -1470,7 +1470,7 @@
   ],
   "EME_CALAMITY_SWARM": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 0.8,
       "speed": 240,
       "power": 8,
@@ -1500,7 +1500,7 @@
   ],
   "EME_SPECTERHEAD_PINK": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 2,
       "speed": 400,
       "power": 10,
@@ -1533,7 +1533,7 @@
   ],
   "EME_SPECTERHEAD_BLUE": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 2,
       "speed": 300,
       "power": 10,
@@ -1566,7 +1566,7 @@
   ],
   "EME_PATROL_BAT": [
     {
-      "level": 6,
+      "level": 10,
       "maxHp": 25,
       "speed": 250,
       "power": 10,
@@ -1592,7 +1592,7 @@
   ],
   "EME_PATROL_CALAMITY": [
     {
-      "level": 7,
+      "level": 16,
       "maxHp": 70,
       "speed": 200,
       "power": 20,
@@ -1618,7 +1618,7 @@
     ],
   "EME_SUSPICIOUS_OGRE": [
       {
-        "level": 1,
+        "level": 43,
         "res_Freeze": 1.1,
         "res_Rosary": 1,
         "res_Debuffs": 1,
@@ -1650,7 +1650,7 @@
     ],
   "EME_BOSS_CURSEDMONARCH": [
       {
-        "level": 1,
+        "level": 32,
         "maxHp": 40,
         "speed": 160,
         "power": 10,

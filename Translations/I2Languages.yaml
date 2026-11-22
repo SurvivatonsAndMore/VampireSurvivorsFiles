@@ -18545,20 +18545,115 @@ MonoBehaviour:
     - Term: lang/credits_announcer_game
       TermType: 0
       Languages:
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
-      - GAME ANNOUNCER
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      - GAME ANNOUNCER VO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: lang/joyConsAttached_title
+      TermType: 0
+      Languages:
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      - Joy-Con attached
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: lang/joyConsAttached_desc
+      TermType: 0
+      Languages:
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      - Please detach the Joy-Con from the console to continue playing co-op.
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: lang/options_showHelpers
+      TermType: 0
+      Languages:
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      - Show menu helpers
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: lang/stageSelection_baseGame
+      TermType: 0
+      Languages:
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      - Base Game
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: lang/stageSelection_expansions
+      TermType: 0
+      Languages:
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
+      - Expansions
       Flags: 0000000000000000000000000000
       Languages_Touch: []
     - Term: achievementLang/{ReachLV5}description
@@ -28881,20 +28976,20 @@ MonoBehaviour:
     - Term: achievementLang/{Dark_14Amberborne}description
       TermType: 0
       Languages:
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
-      - Remain invulnerable for 30 seconds with Amberborne
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
+      - Remain invulnerable for 30 seconds with Amberborne.
       Flags: 0000000000000000000000000000
       Languages_Touch: []
     - Term: achievementLang/{FindAntipyretic}description
@@ -28995,39 +29090,39 @@ MonoBehaviour:
     - Term: achievementLang/{FindMPShout}description
       TermType: 0
       Languages:
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
-      - Find the MP Shout in Biggus Discus
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
+      - Find the MP Shout in Biggus Discus.
       Flags: 0000000000000000000000000000
       Languages_Touch: []
     - Term: achievementLang/{Dark_15Challenge}description
       TermType: 0
       Languages:
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
-      - Find the Haunted Treasury in Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
+      - Find the Haunted Treasury in Inverse Moongolow and raid it for 1000000 coins.
       Flags: 0000000000000000000000000000
       Languages_Touch: []
     - Term: Xbox Achievements/{EvolveAxe}name
@@ -68655,7 +68750,7 @@ MonoBehaviour:
       - Emite conos de llamas.
       - Emite cones de chamas.
       - Emituje stożki płomieni.
-      - Выпускает конусы пламени.
+      - Выделяет конусы пламени.
       - Alev konileri yayar.
       - 喷出锥形火焰。
       - 円錐状の炎を放出する。
@@ -111927,6 +112022,82 @@ MonoBehaviour:
       - 'Charge ability affected by Might: ultimate sword sweeps the battlefield.'
       Flags: 0000000000000000000000000000
       Languages_Touch: []
+    - Term: characterLang/{EX_BARONHUSKER}prefix
+      TermType: 0
+      Languages:
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      - Baron
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: characterLang/{EX_BARONHUSKER}charName
+      TermType: 0
+      Languages:
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      - Husker
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: characterLang/{EX_BARONHUSKER}surname
+      TermType: 0
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: characterLang/{EX_BARONHUSKER}description
+      TermType: 0
+      Languages:
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      - Corn might drop from light sources and defeated enemies. Consuming Corn triggers a random pickup bonus and a stat bonus. XP Crystals heal when injured. Cannot recover HP from food. Has hidden Ebony Wings and Pako Battiliar.
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
     - Term: musicLang/{BGM_Forest}title
       TermType: 0
       Languages:
@@ -114229,20 +114400,20 @@ MonoBehaviour:
     - Term: skinLang/{SKIN_HUSKER_ONLY_PAKO}description
       TermType: 0
       Languages:
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
-      - Has only a hidden Pako Battilia.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
+      - Has only a hidden Pako Battiliar.
       Flags: 0000000000000000000000000000
       Languages_Touch: []
     - Term: enemiesLang/{ANGEL1}bDesc
@@ -136507,7 +136678,7 @@ MonoBehaviour:
     Google_WebServiceURL: https://script.google.com/macros/s/AKfycbyR3MclFruqK65vlhmoVux_5i5UOXO-uCnOb3iQnQeIbZMpjH5_4CvTYEt8ekoj48CG/exec
     Google_SpreadsheetKey: 1pdZ1t7vPFoQQFk-BIysecQRmoTCu09h-VVYrj8eAiVA
     Google_SpreadsheetName: I2Loc VS - 1.17 - MAIN - BIGGUS
-    Google_LastUpdatedVersion: 1794854175845
+    Google_LastUpdatedVersion: 1795343651555
     GoogleUpdateFrequency: 1
     GoogleInEditorCheckFrequency: 1
     GoogleUpdateSynchronization: 0

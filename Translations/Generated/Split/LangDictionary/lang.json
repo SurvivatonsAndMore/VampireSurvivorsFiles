@@ -17553,20 +17553,110 @@
   },
   "credits_announcer_game": {
     "_value": {
-      "en": "GAME ANNOUNCER",
-      "fr": "GAME ANNOUNCER",
-      "it": "GAME ANNOUNCER",
-      "de": "GAME ANNOUNCER",
-      "es": "GAME ANNOUNCER",
-      "pt-BR": "GAME ANNOUNCER",
-      "pl": "GAME ANNOUNCER",
-      "ru": "GAME ANNOUNCER",
-      "tr": "GAME ANNOUNCER",
-      "zh-CN": "GAME ANNOUNCER",
-      "ja": "GAME ANNOUNCER",
-      "ko": "GAME ANNOUNCER",
-      "zh-TW": "GAME ANNOUNCER",
-      "uk": "GAME ANNOUNCER"
+      "en": "GAME ANNOUNCER VO",
+      "fr": "GAME ANNOUNCER VO",
+      "it": "GAME ANNOUNCER VO",
+      "de": "GAME ANNOUNCER VO",
+      "es": "GAME ANNOUNCER VO",
+      "pt-BR": "GAME ANNOUNCER VO",
+      "pl": "GAME ANNOUNCER VO",
+      "ru": "GAME ANNOUNCER VO",
+      "tr": "GAME ANNOUNCER VO",
+      "zh-CN": "GAME ANNOUNCER VO",
+      "ja": "GAME ANNOUNCER VO",
+      "ko": "GAME ANNOUNCER VO",
+      "zh-TW": "GAME ANNOUNCER VO",
+      "uk": "GAME ANNOUNCER VO"
+    }
+  },
+  "joyConsAttached_title": {
+    "_value": {
+      "en": "Joy-Con attached",
+      "fr": "Joy-Con attached",
+      "it": "Joy-Con attached",
+      "de": "Joy-Con attached",
+      "es": "Joy-Con attached",
+      "pt-BR": "Joy-Con attached",
+      "pl": "Joy-Con attached",
+      "ru": "Joy-Con attached",
+      "tr": "Joy-Con attached",
+      "zh-CN": "Joy-Con attached",
+      "ja": "Joy-Con attached",
+      "ko": "Joy-Con attached",
+      "zh-TW": "Joy-Con attached",
+      "uk": "Joy-Con attached"
+    }
+  },
+  "joyConsAttached_desc": {
+    "_value": {
+      "en": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "fr": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "it": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "de": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "es": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "pt-BR": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "pl": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "ru": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "tr": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "zh-CN": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "ja": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "ko": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "zh-TW": "Please detach the Joy-Con from the console to continue playing co-op.",
+      "uk": "Please detach the Joy-Con from the console to continue playing co-op."
+    }
+  },
+  "options_showHelpers": {
+    "_value": {
+      "en": "Show menu helpers",
+      "fr": "Show menu helpers",
+      "it": "Show menu helpers",
+      "de": "Show menu helpers",
+      "es": "Show menu helpers",
+      "pt-BR": "Show menu helpers",
+      "pl": "Show menu helpers",
+      "ru": "Show menu helpers",
+      "tr": "Show menu helpers",
+      "zh-CN": "Show menu helpers",
+      "ja": "Show menu helpers",
+      "ko": "Show menu helpers",
+      "zh-TW": "Show menu helpers",
+      "uk": "Show menu helpers"
+    }
+  },
+  "stageSelection_baseGame": {
+    "_value": {
+      "en": "Base Game",
+      "fr": "Base Game",
+      "it": "Base Game",
+      "de": "Base Game",
+      "es": "Base Game",
+      "pt-BR": "Base Game",
+      "pl": "Base Game",
+      "ru": "Base Game",
+      "tr": "Base Game",
+      "zh-CN": "Base Game",
+      "ja": "Base Game",
+      "ko": "Base Game",
+      "zh-TW": "Base Game",
+      "uk": "Base Game"
+    }
+  },
+  "stageSelection_expansions": {
+    "_value": {
+      "en": "Expansions",
+      "fr": "Expansions",
+      "it": "Expansions",
+      "de": "Expansions",
+      "es": "Expansions",
+      "pt-BR": "Expansions",
+      "pl": "Expansions",
+      "ru": "Expansions",
+      "tr": "Expansions",
+      "zh-CN": "Expansions",
+      "ja": "Expansions",
+      "ko": "Expansions",
+      "zh-TW": "Expansions",
+      "uk": "Expansions"
     }
   }
 }

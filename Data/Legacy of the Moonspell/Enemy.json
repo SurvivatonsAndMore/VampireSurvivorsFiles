@@ -1,7 +1,7 @@
 {
   "MS_SPIRIT1": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.75,
       "speed": 140,
       "power": 5,
@@ -32,7 +32,7 @@
   ],
   "MS_SPIRIT2": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.25,
       "speed": 200,
       "power": 5,
@@ -53,7 +53,7 @@
   ],
   "MS_SPIRIT1_SWARM": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 0.75,
       "speed": 700,
       "power": 5,
@@ -76,7 +76,7 @@
   ],
   "MS_SPIRIT2_SWARM": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.25,
       "speed": 700,
       "power": 5,
@@ -101,7 +101,7 @@
   ],
   "MS_HITOT": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 0.5,
       "speed": 140,
       "power": 10,
@@ -132,7 +132,7 @@
   ],
   "MS_KAPPA": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 1,
       "speed": 140,
       "power": 10,
@@ -163,7 +163,7 @@
   ],
   "MS_TSUCHINOKO": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.75,
       "speed": 100,
       "power": 10,
@@ -191,7 +191,7 @@
   ],
   "MS_MIKOS": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 15,
       "speed": 140,
       "power": 10,
@@ -219,7 +219,7 @@
   ],
   "MS_KAMAITACHI": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 15,
       "speed": 140,
       "power": 10,
@@ -247,7 +247,7 @@
   ],
   "MS_RAIJU": [
     {
-      "level": 1,
+      "level": 6,
       "maxHp": 10,
       "speed": 140,
       "power": 10,
@@ -275,7 +275,7 @@
   ],
   "MS_YAMAMBA1": [
     {
-      "level": 10,
+      "level": 8,
       "maxHp": 27,
       "speed": 140,
       "power": 10,
@@ -305,7 +305,7 @@
   ],
   "MS_YAMAMBA2": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 18,
       "speed": 130,
       "power": 14,
@@ -324,7 +324,7 @@
   ],
   "MS_TANUKI": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -357,7 +357,7 @@
   ],
   "MS_TENGU": [
     {
-      "level": 10,
+      "level": 13,
       "maxHp": 50,
       "speed": 140,
       "power": 20,
@@ -385,7 +385,7 @@
   ],
   "MS_TSUCHIGUMO": [
     {
-      "level": 10,
+      "level": 13,
       "maxHp": 80,
       "speed": 100,
       "power": 20,
@@ -413,7 +413,7 @@
   ],
   "MS_FLOWER1": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 3,
       "speed": 0,
       "power": 5,
@@ -436,7 +436,7 @@
   ],
   "MS_FLOWER2": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 3,
       "speed": 0,
       "power": 1,
@@ -458,7 +458,7 @@
   ],
   "MS_BOSS_SPIRIT": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -480,7 +480,7 @@
   ],
   "MS_BOSS_SPIRIT2": [
     {
-      "level": 1,
+      "level": 23,
       "maxHp": 20,
       "speed": 140,
       "power": 10,
@@ -504,7 +504,7 @@
   ],
   "MS_BOSS_KAMAITACHI": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 5,
       "speed": 170,
       "power": 10,
@@ -527,7 +527,7 @@
   ],
   "MS_BOSS_RAIJU": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 5,
       "speed": 170,
       "power": 10,
@@ -550,7 +550,7 @@
   ],
   "MS_BOSS_TENGU": [
     {
-      "level": 1,
+      "level": 23,
       "maxHp": 6,
       "speed": 200,
       "power": 20,
@@ -631,7 +631,7 @@
   ],
   "MS_ONI1": [
     {
-      "level": 1,
+      "level": 16,
       "maxHp": 7,
       "speed": 140,
       "power": 10,
@@ -663,7 +663,7 @@
   ],
   "MS_BOSS_TANUKI": [
     {
-      "level": 1,
+      "level": 22,
       "maxHp": 6,
       "speed": 200,
       "power": 20,
@@ -687,7 +687,7 @@
   ],
   "MS_BOSS_ONIWIND": [
     {
-      "level": 1,
+      "level": 23,
       "maxHp": 7,
       "speed": 180,
       "power": 20,
@@ -712,7 +712,7 @@
   ],
   "MS_BOSS_ONITHUNDER": [
     {
-      "level": 1,
+      "level": 23,
       "maxHp": 7,
       "speed": 180,
       "power": 20,
@@ -737,7 +737,7 @@
   ],
   "MS_BOSS_TSUCHIGUMO": [
     {
-      "level": 1,
+      "level": 28,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -764,7 +764,7 @@
   ],
   "MS_NINETYNINE": [
     {
-      "level": 1,
+      "level": 28,
       "maxHp": 10,
       "speed": 180,
       "power": 20,
@@ -791,7 +791,7 @@
   ],
   "MS_GOSHADOKURO": [
     {
-      "level": 1,
+      "level": 26,
       "maxHp": 40,
       "speed": 40,
       "power": 20,
@@ -830,7 +830,7 @@
   ],
   "MS_EVILSPIRIT": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 1,
       "speed": 400,
       "maxSpeed": 400,
@@ -857,7 +857,7 @@
   ],
   "MS_OROCHIMARIO_INVUL": [
     {
-      "level": 30,
+      "level": 100,
       "maxHp": 65535,
       "speed": 190,
       "power": 25,
@@ -890,7 +890,7 @@
   ],
   "MS_OROCHIMARIO": [
     {
-      "level": 30,
+      "level": 52,
       "maxHp": 50,
       "speed": 190,
       "power": 25,
@@ -932,7 +932,7 @@
   ],
   "MS_OROCHIHEAD": [
     {
-      "level": 1,
+      "level": 31,
       "maxHp": 50,
       "speed": 0,
       "power": 20,
@@ -961,7 +961,7 @@
   ],
   "MS_OROCHIHEAD_INVUL": [
     {
-      "level": 1,
+      "level": 73,
       "maxHp": 65535,
       "speed": 0,
       "power": 20,
@@ -990,7 +990,7 @@
   ],
   "BOSS_MEGASYUUTO": [
     {
-      "level": 1,
+      "level": 52,
       "maxHp": 2000,
       "speed": 180,
       "power": 20,
@@ -1014,7 +1014,7 @@
   ],
   "MS_ADV_TANUKIS1": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 1,
       "speed": 140,
       "power": 10,
@@ -1037,7 +1037,7 @@
   ],
   "MS_ADV_TANUKIS2": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 0.5,
       "speed": 140,
       "power": 10,
@@ -1060,7 +1060,7 @@
   ],
   "MS_ADV_TANUKIS3": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1,
       "speed": 140,
       "power": 10,
@@ -1079,7 +1079,7 @@
   ],
   "MS_ZOMBIE": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 100,
       "power": 10,
@@ -1125,7 +1125,7 @@
   ],
   "MS_BAT2": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -1145,7 +1145,7 @@
   ],
   "MS_BAT3": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,

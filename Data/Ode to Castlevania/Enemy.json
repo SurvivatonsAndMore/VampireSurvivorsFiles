@@ -1,6 +1,7 @@
 {
   "TP_FLEAMAN": [
     {
+      "level": 2,
       "maxHp": 1,
       "speed": 180,
       "power": 5,
@@ -32,6 +33,7 @@
   ],
   "TP_MEGA_FLEAMAN": [
     {
+      "level": 11,
       "maxHp": 25,
       "scale": 2,
       "speed": 150,
@@ -84,7 +86,7 @@
   ],
   "TP_FLEARIDER": [
     {
-      "level": 10,
+      "level": 9,
       "maxHp": 20,
       "speed": 170,
       "power": 15,
@@ -117,6 +119,7 @@
   ],
   "TP_FLEAARMOR": [
     {
+      "level": 6,
       "maxHp": 12.5,
       "power": 12,
       "speed": 120,
@@ -147,6 +150,7 @@
   ],
   "TP_MAGICBOOK_01": [
     {
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -176,6 +180,7 @@
   ],
   "TP_MAGICBOOK_02": [
     {
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -261,7 +266,7 @@
     {
       "bInclude": false,
       "bHighlight": false,
-      "level": 30,
+      "level": 28,
       "maxHp": 15,
       "speed": 180,
       "power": 15,
@@ -293,7 +298,7 @@
   ],
   "TP_HARPY": [
     {
-      "level": 1,
+      "level": 4,
       "scale": 1,
       "maxHp": 5,
       "speed": 130,
@@ -327,7 +332,7 @@
   ],
   "TP_PATROL_HARPY": [
     {
-      "level": 1,
+      "level": 4,
       "patrolDuration": 2000,
       "scale": 1,
       "maxHp": 5,
@@ -358,7 +363,7 @@
   ],
   "TP_HIPPOGRYPH": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 10,
       "speed": 130,
       "power": 8,
@@ -392,7 +397,7 @@
         "TP_CASTLE"
       ],
       "bHighlight": false,
-      "level": 1,
+      "level": 5,
       "maxHp": 7,
       "speed": 140,
       "power": 8,
@@ -413,7 +418,7 @@
   ],
   "TP_PATROL_IMP": [
     {
-      "level": 1,
+      "level": 5,
       "patrolDuration": 2000,
       "maxHp": 7,
       "speed": 140,
@@ -435,7 +440,7 @@
   ],
   "TP_MOLDYCORPSE": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 100,
       "power": 10,
@@ -468,7 +473,7 @@
   ],
   "TP_SPITTLEBONE_01": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.8,
       "speed": 165,
       "power": 5,
@@ -503,7 +508,7 @@
   ],
   "TP_SPITTLEBONE_02": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.8,
       "speed": 165,
       "power": 5,
@@ -528,7 +533,7 @@
   ],
   "TP_UKOBACK": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 0.2,
       "speed": 180,
       "power": 3,
@@ -565,7 +570,7 @@
         "TP_CASTLE"
       ],
       "bHighlight": false,
-      "level": 1,
+      "level": 6,
       "maxHp": 15,
       "speed": 100,
       "power": 10,
@@ -591,7 +596,7 @@
   ],
   "TP_SUCCUBUS": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 22,
       "speed": 130,
       "power": 14,
@@ -626,7 +631,7 @@
         "TP_CASTLE"
       ],
       "bHighlight": false,
-      "level": 15,
+      "level": 9,
       "maxHp": 20,
       "speed": 170,
       "power": 12,
@@ -660,7 +665,7 @@
         "TP_CASTLE"
       ],
       "bHighlight": false,
-      "level": 1,
+      "level": 7,
       "maxHp": 15,
       "speed": 140,
       "power": 12,
@@ -690,7 +695,7 @@
     {
       "bInclude": false,
       "bHighlight": false,
-      "level": 1,
+      "level": 7,
       "maxHp": 15,
       "speed": 140,
       "power": 12,
@@ -718,6 +723,7 @@
   ],
   "TP_BITTERFLY": [
     {
+      "level": 2,
       "maxHp": 0.9,
       "power": 4,
       "speed": 100,
@@ -745,6 +751,7 @@
   ],
   "TP_BRAUNERSPAINTING": [
     {
+      "level": 8,
       "maxHp": 25,
       "power": 10,
       "speed": 130,
@@ -776,6 +783,7 @@
   ],
   "TP_CAVETROLL": [
     {
+      "level": 6,
       "maxHp": 9,
       "power": 10,
       "speed": 140,
@@ -801,6 +809,7 @@
   ],
   "TP_FISHMAN_01": [
     {
+      "level": 4,
       "maxHp": 3.8,
       "power": 8,
       "speed": 140,
@@ -836,6 +845,7 @@
   ],
   "TP_FISHMAN_02": [
     {
+      "level": 4,
       "maxHp": 3.8,
       "power": 8,
       "speed": 135,
@@ -864,7 +874,7 @@
   ],
   "TP_PERSEPHONE_01": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2.25,
       "speed": 150,
       "power": 10,
@@ -900,7 +910,7 @@
   ],
   "TP_PERSEPHONE_02": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2.25,
       "speed": 150,
       "power": 10,
@@ -924,7 +934,7 @@
   ],
   "TP_PERSEPHONE_03": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2.25,
       "speed": 150,
       "power": 10,
@@ -948,6 +958,7 @@
   ],
   "TP_PERSEPHONEVACCUUM": [
     {
+      "level": 2,
       "maxHp": 1.0,
       "scale": 1,
       "speed": 140,
@@ -972,6 +983,7 @@
   ],
   "TP_GHOST": [
     {
+      "level": 2,
       "maxHp": 1,
       "speed": 140,
       "power": 5,
@@ -999,6 +1011,7 @@
   ],
   "TP_SKELETONSPEAR": [
     {
+      "level": 2,
       "maxHp": 1.5,
       "speed": 140,
       "power": 3,
@@ -1072,7 +1085,7 @@
   ],
   "TP_DULLAHAN_01": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 110,
       "power": 10,
@@ -1102,7 +1115,7 @@
   ],
   "TP_DULLAHAN_02": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 110,
       "power": 10,
@@ -1121,7 +1134,7 @@
   ],
   "TP_DULLAHAN_03": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.5,
       "speed": 110,
       "power": 10,
@@ -1140,7 +1153,7 @@
   ],
   "TP_SKELETONAPE": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 8.5,
       "speed": 130,
       "power": 10,
@@ -1162,7 +1175,7 @@
   ],
   "TP_YORICK_01": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 145,
       "power": 5,
@@ -1196,7 +1209,7 @@
   ],
   "TP_YORICK_02": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 145,
       "power": 5,
@@ -1220,7 +1233,7 @@
   ],
   "TP_AMALARICSNIPER": [
     {
-      "level": 3,
+      "level": 4,
       "maxHp": 6,
       "speed": 100,
       "power": 8,
@@ -1251,7 +1264,7 @@
   ],
   "TP_PATROL_AMALARICSNIPER": [
     {
-      "level": 3,
+      "level": 4,
       "patrolDuration": 2000,
       "maxHp": 6,
       "speed": 100,
@@ -1279,7 +1292,7 @@
   ],
   "TP_FLYINGSKELETON": [
     {
-      "level": 5,
+      "level": 8,
       "maxHp": 25,
       "speed": 130,
       "power": 10,
@@ -1301,7 +1314,7 @@
   ],
   "TP_GURKHAKNIFEMASTER": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 17.5,
       "scale": 1,
       "speed": 160,
@@ -1328,6 +1341,7 @@
   ],
   "TP_GORGON": [
     {
+      "level": 4,
       "maxHp": 5,
       "speed": 150,
       "power": 8,
@@ -1358,6 +1372,7 @@
   ],
   "TP_BONEGOLEM": [
     {
+      "level": 7,
       "maxHp": 16,
       "speed": 130,
       "power": 12,
@@ -1389,7 +1404,7 @@
   ],
   "TP_DISCARMOR": [
     {
-      "level": 1,
+      "level": 8,
       "scale": 1,
       "maxHp": 20,
       "speed": 120,
@@ -1417,7 +1432,7 @@
   ],
   "TP_ALASTOR": [
     {
-      "level": 6,
+      "level": 10,
       "maxHp": 30,
       "speed": 160,
       "power": 15,
@@ -1443,7 +1458,7 @@
   ],
   "TP_PATROL_ALASTOR": [
     {
-      "level": 6,
+      "level": 10,
       "patrolDuration": 2000,
       "maxHp": 30,
       "speed": 160,
@@ -1466,7 +1481,7 @@
   ],
   "TP_WARGRIDER": [
     {
-      "level": 1,
+      "level": 10,
       "maxHp": 25,
       "speed": 140,
       "power": 20,
@@ -1489,7 +1504,7 @@
   ],
   "TP_MALACHI": [
     {
-      "level": 5,
+      "level": 8,
       "maxHp": 30,
       "speed": 100,
       "power": 11,
@@ -1515,7 +1530,7 @@
   ],
   "TP_WEREWOLF": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 18,
       "speed": 130,
       "power": 14,
@@ -1546,7 +1561,7 @@
   ],
   "TP_AXEARMOR_01": [
     {
-      "level": 1,
+      "level": 4,
       "scale": 1,
       "maxHp": 4.6,
       "speed": 125,
@@ -1582,7 +1597,7 @@
   ],
   "TP_AXEARMOR_02": [
     {
-      "level": 1,
+      "level": 4,
       "scale": 1,
       "maxHp": 4.8,
       "speed": 125,
@@ -1608,7 +1623,7 @@
   ],
   "TP_AXEARMOR_FAST": [
     {
-      "level": 1,
+      "level": 5,
       "scale": 1,
       "maxHp": 4.8,
       "speed": 400,
@@ -1634,7 +1649,7 @@
   ],
   "TP_KILLERDOLL": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.6,
       "speed": 150,
       "power": 6,
@@ -1664,7 +1679,7 @@
   ],
   "TP_MUDMAN": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 4,
       "speed": 110,
       "power": 10,
@@ -1691,6 +1706,7 @@
   ],
   "TP_MEDUSAHEAD": [
     {
+      "level": 1,
       "maxHp": 0.2,
       "speed": 180,
       "power": 5,
@@ -1723,7 +1739,7 @@
   ],
   "TP_MEDUSAHEAD2": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 2.5,
       "speed": 240,
       "maxSpeed": 340,
@@ -1757,7 +1773,7 @@
   ],
   "TP_MEDUSAHEAD_AGGRO": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 2.5,
       "speed": 240,
       "maxSpeed": 340,
@@ -1786,7 +1802,7 @@
   ],
   "TP_CORPSEWEED_WALL": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 2,
       "speed": 10,
       "power": 1,
@@ -1820,7 +1836,7 @@
   ],
   "TP_BONEARK": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 140,
       "power": 5,
@@ -1944,7 +1960,7 @@
   ],
   "TP_ADV_BOSS_BONEPILLAR": [
     {
-      "level": 3,
+      "level": 12,
       "maxHp": 5,
       "skills": [
         "HP_x_Level"
@@ -1977,7 +1993,7 @@
   ],
   "TP_BONEPILLAR_EVENT": [
     {
-      "level": 3,
+      "level": 7,
       "maxHp": 1,
       "speed": 0,
       "power": 10,
@@ -2034,7 +2050,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_LEGION",
-      "level": 21,
+      "level": 47,
       "maxHp": 40,
       "speed": 160,
       "power": 30,
@@ -2067,7 +2083,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_LEGION_SECTION",
-      "level": 21,
+      "level": 16,
       "maxHp": 15,
       "speed": 0,
       "power": 10,
@@ -2101,7 +2117,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_LEGION_ZOMBIE",
-      "level": 5,
+      "level": 2,
       "maxHp": 1,
       "speed": 200,
       "power": 5,
@@ -2132,7 +2148,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_BEELZEBUB",
-      "level": 21,
+      "level": 32,
       "maxHp": 40,
       "speed": 0,
       "power": 30,
@@ -2165,7 +2181,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_BEELZEBUB_SECTION",
-      "level": 21,
+      "level": 20,
       "maxHp": 30,
       "speed": 0,
       "power": 10,
@@ -2198,7 +2214,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_BEELZEBUB_BEE",
-      "level": 5,
+      "level": 3,
       "maxHp": 5,
       "speed": 100,
       "power": 5,
@@ -2227,6 +2243,7 @@
   ],
   "TP_BOSS_JIANGSHI": [
     {
+      "level": 27,
       "skipCredits": true,
       "enemyType": "TP_BOSS_JIANGSHI",
       "scale": 1.5,
@@ -2263,6 +2280,7 @@
   ],
   "TP_BOSS_KEREMET": [
     {
+      "level": 29,
       "skipCredits": true,
       "enemyType": "TP_BOSS_KEREMET",
       "scale": 1.5,
@@ -2299,6 +2317,7 @@
   ],
   "TP_BOSS_ZEPHYR": [
     {
+      "level": 27,
       "skipCredits": true,
       "enemyType": "TP_BOSS_ZEPHYR",
       "scale": 1.5,
@@ -2335,6 +2354,7 @@
   ],
   "TP_BOSS_STONEROSE": [
     {
+      "level": 23,
       "skipCredits": true,
       "enemyType": "TP_BOSS_STONEROSE",
       "scale": 1.25,
@@ -2372,7 +2392,7 @@
   ],
   "TP_BOSS_MALPHAS": [
     {
-      "level": 30,
+      "level": 34,
       "maxHp": 15,
       "speed": 160,
       "power": 30,
@@ -2404,7 +2424,7 @@
   ],
     "TP_ADV_BOSS_MALPHAS": [
     {
-      "level": 30,
+      "level": 53,
       "maxHp": 50,
       "speed": 180,
       "power": 30,
@@ -2437,6 +2457,7 @@
   ],
   "TP_BOSS_OLROX": [
     {
+      "level": 34,
       "skipCredits": true,
       "enemyType": "TP_BOSS_OLROX",
       "maxHp": 50,
@@ -2473,6 +2494,7 @@
   ],
   "TP_BOSS_OLROX2": [
     {
+      "level": 46,
       "skipCredits": true,
       "enemyType": "TP_BOSS_OLROX2",
       "maxHp": 50,
@@ -2511,7 +2533,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_GAIBON",
-      "level": 4400,
+      "level": 32,
       "scale": 1.5,
       "maxHp": 44,
       "speed": 140,
@@ -2551,7 +2573,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_SLOGRA",
-      "level": 4400,
+      "level": 32,
       "scale": 1.5,
       "maxHp": 44,
       "speed": 140,
@@ -2589,6 +2611,7 @@
   ],
   "TP_BOSS_BEHEMOTH": [
     {
+      "level": 31,
       "skipCredits": true,
       "enemyType": "TP_BOSS_BEHEMOTH",
       "scale": 1.5,
@@ -2631,6 +2654,7 @@
   ],
     "TP_ADV_BOSS_BEHEMOTH": [
     {
+      "level": 36,
       "skipCredits": true,
       "enemyType": "TP_BOSS_BEHEMOTH",
       "scale": 1.5,
@@ -2667,6 +2691,7 @@
   ],
   "TP_BOSS_TREANT": [
     {
+      "level": 30,
       "skipCredits": true,
       "enemyType": "TP_BOSS_TREANT",
       "scale": 1.5,
@@ -2704,7 +2729,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_ABBADON",
-      "level": 4400,
+      "level": 27,
       "scale": 1.5,
       "maxHp": 24,
       "speed": 140,
@@ -2741,7 +2766,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_MENACE",
-      "level": 4400,
+      "level": 32,
       "scale": 1.25,
       "maxHp": 44,
       "speed": 140,
@@ -2781,6 +2806,7 @@
   ],
   "TP_BOSS_ELIGOR": [
     {
+      "level": 34,
       "skipCredits": true,
       "enemyType": "TP_BOSS_ELIGOR",
       "maxHp": 50,
@@ -2823,7 +2849,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_GALAMOTH",
-      "level": 4400,
+      "level": 32,
       "maxHp": 44,
       "speed": 140,
       "power": 10,
@@ -2858,6 +2884,7 @@
   ],
   "TP_BOSS_GERGOTH": [
     {
+      "level": 31,
       "skipCredits": true,
       "enemyType": "TP_BOSS_GERGOTH",
       "scale": 1.1,
@@ -2898,6 +2925,7 @@
   ],
   "TP_BOSS_GIANTMEDUSAHEAD": [
     {
+      "level": 27,
       "skipCredits": true,
       "enemyType": "TP_BOSS_GIANTMEDUSAHEAD",
       "scale": 1.5,
@@ -2940,7 +2968,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_PUPPETMASTER",
-      "level": 4400,
+      "level": 29,
       "maxHp": 30,
       "speed": 140,
       "power": 10,
@@ -2979,6 +3007,7 @@
   ],
   "TP_BOSS_BLACKMORE": [
     {
+      "level": 32,
       "skipCredits": true,
       "enemyType": "TP_BOSS_BLACKMORE",
       "maxHp": 44,
@@ -3021,6 +3050,7 @@
   ],
   "TP_BOSS_PARANOIA": [
     {
+      "level": 29,
       "skipCredits": true,
       "enemyType": "TP_BOSS_PARANOIA",
       "scale": 1.25,
@@ -3062,7 +3092,7 @@
   ],
   "TP_BOSS_BRACHYURA": [
     {
-      "level": 30,
+      "level": 55,
       "maxHp": 50,
       "speed": 200,
       "power": 30,
@@ -3098,7 +3128,7 @@
   ],
   "TP_BOSS_BRACHYURA_CLAW": [
     {
-      "level": 30,
+      "level": 14,
       "maxHp": 0.5,
       "speed": 0,
       "power": 12,
@@ -3127,7 +3157,7 @@
   ],
   "TP_BOSS_GIANTBAT": [
     {
-      "level": 30,
+      "level": 26,
       "maxHp": 20,
       "speed": 160,
       "power": 10,
@@ -3165,7 +3195,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_DEATH",
-      "level": 21,
+      "level": 30,
       "maxHp": 300,
       "speed": 160,
       "power": 30,
@@ -3201,7 +3231,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_DEATHARM",
-      "level": 21,
+      "level": 43,
       "maxHp": 30,
       "speed": 160,
       "power": 30,
@@ -3235,7 +3265,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_DEATH_SCYTHE",
-      "level": 21,
+      "level": 8,
       "maxHp": 30,
       "speed": 160,
       "power": 6,
@@ -3265,7 +3295,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_BOSS_DEATH_SCYTHEBIG",
-      "level": 21,
+      "level": 2,
       "maxHp": 30,
       "speed": 40,
       "power": 0,
@@ -3295,7 +3325,7 @@
   ],
   "TP_BOSS_SLORGA": [
     {
-      "level": 1,
+      "level": 14,
       "scale": 1.2,
       "maxHp": 5,
       "speed": 140,
@@ -3325,7 +3355,7 @@
   ],
   "TP_ADV_SLOGRA": [
     {
-      "level": 1,
+      "level": 17,
       "scale": 1.2,
       "maxHp": 7,
       "speed": 140,
@@ -3358,7 +3388,7 @@
     {
       "skipCredits": true,
       "enemyType": "TP_DOPPLEGANGER",
-      "level": 21,
+      "level": 26,
       "maxHp": 10,
       "speed": 200,
       "power": 15,
@@ -3393,6 +3423,7 @@
   ],
   "TP_BOSS_MUMMY": [
     {
+      "level": 22,
       "maxHp": 24,
       "skills": [
         "HP_x_Level"
@@ -3424,6 +3455,7 @@
   ],
   "TP_ADV_BOSS_MUMMY": [
     {
+      "level": 22,
       "maxHp": 24,
       "skills": [
         "HP_x_Level"
@@ -3455,6 +3487,7 @@
   ],
   "TP_BOSS_CREATURE": [
     {
+      "level": 28,
       "maxHp": 22,
       "skills": [
         "HP_x_Level"
@@ -3490,6 +3523,7 @@
   ],
   "TP_ADV_BOSS_CREATURE": [
     {
+      "level": 37,
       "passThroughWalls": true,
       "maxHp": 30,
       "skills": [
@@ -3523,7 +3557,7 @@
   ],
   "TP_BOSS_BAT": [
     {
-      "level": 1,
+      "level": 13,
       "maxHp": 4,
       "speed": 140,
       "power": 10,
@@ -3549,7 +3583,7 @@
   ],
   "TP_BOSS_MEDUSA": [
     {
-      "level": 1,
+      "level": 13,
       "maxHp": 4,
       "speed": 140,
       "power": 10,
@@ -3581,6 +3615,7 @@
   ],
   "TP_BOSS_BUGBEAR": [
     {
+      "level": 24,
       "scale": 1.4,
       "maxHp": 10.5,
       "skills": [
@@ -3616,6 +3651,7 @@
   ],
   "TP_BOSS_DEVIL": [
     {
+      "level": 26,
       "scale": 1.4,
       "maxHp": 15.5,
       "skills": [
@@ -3646,6 +3682,7 @@
   ],
   "TP_BOSS_MINOTAUR": [
     {
+      "level": 26,
       "maxHp": 18.5,
       "speed": 100,
       "power": 20,
@@ -3683,7 +3720,7 @@
   ],
   "TP_MINIBOSS_SISYPHUSYORICK": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 6,
       "speed": 120,
       "power": 12,
@@ -3710,7 +3747,7 @@
   ],
   "TP_BOSS_STELLA": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3739,7 +3776,7 @@
   ],
   "TP_BOSS_LORETTA": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3768,7 +3805,7 @@
   ],
   "TP_BOSS_CARMILLA": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3802,7 +3839,7 @@
   ],
   "TP_BOSS_WALTER": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3831,7 +3868,7 @@
   ],
   "TP_BOSS_JOACHIM": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3860,7 +3897,7 @@
   ],
   "TP_BOSS_SOLEIL": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3889,7 +3926,7 @@
   ],
   "TP_BOSS_SUCCUBUS": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -3923,7 +3960,7 @@
   ],
   "TP_ADV_BOSS_PHANTOMBAT": [
     {
-      "level": 30,
+      "level": 26,
       "maxHp": 20,
       "speed": 160,
       "power": 10,
@@ -3961,7 +3998,7 @@
   ],
   "TP_ADV_MINION_SWARMBAT": [
     {
-      "level": 1,
+      "level": 7,
       "maxHp": 1,
       "speed": 140,
       "power": 5,
@@ -4014,6 +4051,7 @@
   ],
   "TP_ADV_BOSS_TREANT": [
     {
+      "level": 30,
       "skipCredits": true,
       "enemyType": "TP_BOSS_TREANT",
       "scale": 1.5,
@@ -4048,6 +4086,7 @@
   ],
   "TP_ADV_BOSS_GIANTMEDUSAHEAD": [
     {
+      "level": 27,
       "skipCredits": true,
       "enemyType": "TP_BOSS_GIANTMEDUSAHEAD",
       "scale": 1.5,
@@ -4087,6 +4126,7 @@
   ],
   "TP_ADV_BOSS_GERGOTH": [
     {
+      "level": 31,
       "skipCredits": true,
       "enemyType": "TP_BOSS_GERGOTH",
       "scale": 1.1,
@@ -4126,6 +4166,7 @@
   ],
   "TP_ADV_BOSS_PARANOIA": [
     {
+      "level": 29,
       "skipCredits": true,
       "enemyType": "TP_BOSS_PARANOIA",
       "scale": 1.25,
@@ -4166,7 +4207,7 @@
   ],
   "TP_ADV_MINION_PARANOIAFACADE": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -4188,7 +4229,7 @@
   ],
   "TP_ADV_MINION_PLAYERFACADE": [
     {
-      "level": 1,
+      "level": 14,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -4210,7 +4251,7 @@
   ],
   "TP_ADV_BOSS_BRACHYURA": [
     {
-      "level": 30,
+      "level": 55,
       "maxHp": 50,
       "speed": 200,
       "power": 30,
@@ -4246,6 +4287,7 @@
   ],
   "TP_ADV_BOSS_ELIGOR": [
     {
+      "level": 34,
       "skipCredits": true,
       "enemyType": "TP_BOSS_ELIGOR",
       "maxHp": 50,
@@ -4285,6 +4327,7 @@
   ],
   "TP_ADV_BOSS_ZEPHYR": [
     {
+      "level": 27,
       "skipCredits": true,
       "enemyType": "TP_BOSS_ZEPHYR",
       "scale": 1.5,
@@ -4320,7 +4363,7 @@
   ],
   "TP_ADV_MINION_SUCCUBUS": [
     {
-      "level": 99,
+      "level": 9,
       "maxHp": 1,
       "speed": 140,
       "power": 11,
@@ -4349,7 +4392,7 @@
   ],
   "TP_ADV_BOSS_SUCCUBUS": [
     {
-      "level": 1,
+      "level": 21,
       "maxHp": 20,
       "speed": 80,
       "skills": [
@@ -4383,7 +4426,7 @@
   ],
   "TP_ADV_PERSEPHONE": [
     {
-      "level": 10,
+      "level": 14,
       "maxHp": 50,
       "speed": 200,
       "power": 20,
@@ -4409,7 +4452,7 @@
   ],
   "TP_ADV_FLEAMAN_SWARM_FIXED": [
     {
-      "level": 1,
+      "level": 4,
       "maxHp": 2.5,
       "speed": 700,
       "power": 3,
@@ -4433,7 +4476,7 @@
   ],
   "TP_ADV_FLEAMAN_SCALING": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 0.65,
       "speed": 140,
       "power": 20,
@@ -4456,7 +4499,7 @@
   ],
   "TP_ADV_MEDUSA": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 22,
       "speed": 130,
       "power": 14,
@@ -4489,7 +4532,7 @@
   ],
   "TP_ADV_MEDUSA_02": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 22,
       "speed": 130,
       "power": 14,
@@ -4522,7 +4565,7 @@
   ],
   "TP_ADV_CARMILLA": [
     {
-      "level": 10,
+      "level": 44,
       "maxHp": 25,
       "speed": 200,
       "power": 30,
@@ -4587,7 +4630,7 @@
   ],
   "TP_ADV_BOSS_GAIBON_RED": [
     {
-      "level": 15,
+      "level": 28,
       "maxHp": 15,
       "speed": 160,
       "power": 20,
@@ -4616,7 +4659,7 @@
   ],
   "TP_ADV_GHOST_BOMB": [
     {
-      "level": 1,
+      "level": 9,
       "maxHp": 1.15,
       "speed": 330,
       "power": 3,
@@ -4652,7 +4695,7 @@
   ],
   "TP_ADV_XLGORGON": [
     {
-      "level": 6,
+      "level": 10,
       "scale": 1.15,
       "maxHp": 30,
       "speed": 140,
@@ -4683,7 +4726,7 @@
   ],
   "TP_ADV_BOSS_XLGORGON": [
     {
-      "level": 6,
+      "level": 24,
       "scale": 1.25,
       "maxHp": 15,
       "skills": [
@@ -4717,7 +4760,7 @@
   ],
   "TP_ADV_XLAXEARMOR": [
     {
-      "level": 1,
+      "level": 10,
       "scale": 1.15,
       "maxHp": 30,
       "speed": 160,
@@ -4752,7 +4795,7 @@
   ],
   "TP_ADV_BOSS_XLAXEARMOR": [
     {
-      "level": 1,
+      "level": 25,
       "scale": 1.25,
       "maxHp": 15,
       "skills": [
@@ -4790,7 +4833,7 @@
   ],
   "TP_ADV_XLDISCARMOR": [
     {
-      "level": 7,
+      "level": 13,
       "scale": 1.15,
       "maxHp": 60,
       "speed": 140,
@@ -4817,7 +4860,7 @@
   ],
   "TP_ADV_BOSS_XLDISCARMOR": [
     {
-      "level": 7,
+      "level": 31,
       "scale": 1.25,
       "maxHp": 25,
       "skills": [
@@ -4847,7 +4890,7 @@
   ],
   "TP_ADV_XLBONEGOLEM": [
     {
-      "level": 7,
+      "level": 14,
       "maxHp": 70,
       "speed": 140,
       "power": 20,
@@ -4878,7 +4921,7 @@
   ],
   "TP_ADV_BOSS_XLBONEGOLEM": [
     {
-      "level": 7,
+      "level": 35,
       "maxHp": 35,
       "skills": [
         "HP_x_Level"
@@ -4912,7 +4955,7 @@
   ],
   "TP_ADV_FISHMAN_SCALING": [
     {
-      "level": 5,
+      "level": 15,
       "maxHp": 5,
       "speed": 140,
       "power": 11,
@@ -4949,7 +4992,7 @@
   ],
   "TP_ADV_MINOTAUR_SCALING": [
     {
-      "level": 5,
+      "level": 16,
       "maxHp": 5,
       "speed": 180,
       "power": 11,
@@ -4981,7 +5024,7 @@
   ],
   "TP_ADV_XLALASTOR": [
     {
-      "level": 7,
+      "level": 13,
       "maxHp": 70,
       "speed": 140,
       "power": 15,
@@ -5006,7 +5049,7 @@
   ],
   "TP_ADV_BOSS_XLALASTOR": [
     {
-      "level": 7,
+      "level": 13,
       "maxHp": 70,
       "speed": 140,
       "power": 15,
@@ -5031,7 +5074,7 @@
   ],
   "TP_ADV_MAGICBOOK_WALL": [
     {
-      "level": 4,
+      "level": 6,
       "maxHp": 14,
       "speed": 200,
       "power": 6,
@@ -5064,7 +5107,7 @@
   ],
   "TP_ADV_MAGICBOOK_SWARM": [
     {
-      "level": 4,
+      "level": 3,
       "maxHp": 0.4,
       "speed": 750,
       "power": 10,
@@ -5094,7 +5137,7 @@
   ],
   "TP_ADV_DEVIL": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -5117,7 +5160,7 @@
   ],
   "TP_ADV_BUGBEAR": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 5,
       "speed": 140,
       "power": 10,
@@ -5146,7 +5189,7 @@
   ],
   "TP_ADV_HARPY": [
     {
-      "level": 1,
+      "level": 15,
       "maxHp": 5,
       "speed": 170,
       "power": 10,
@@ -5174,7 +5217,7 @@
   ],
   "TP_ADV_KILLERDOLL": [
     {
-      "level": 1,
+      "level": 3,
       "scale": 1.25,
       "maxHp": 1.5,
       "speed": 100,
@@ -5206,7 +5249,7 @@
   ],
   "TP_ADV_RED_YORICK": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 1.5,
       "tint": 13107200,
       "speed": 100,
@@ -5238,7 +5281,7 @@
   ],
   "TP_ADV_RED_DULLAHAN": [
     {
-      "level": 1,
+      "level": 3,
       "tint": 16711680,
       "maxHp": 1.5,
       "speed": 100,
@@ -5270,7 +5313,7 @@
   ],
   "TP_ADV_FLEAARMOR": [
     {
-      "level": 1,
+      "level": 11,
       "maxHp": 2,
       "speed": 200,
       "power": 8,
@@ -5297,7 +5340,7 @@
   ],
   "TP_ADV_BOSS_FLEAARMOR": [
     {
-      "level": 1,
+      "level": 16,
       "maxHp": 6,
       "speed": 170,
       "power": 10,
@@ -5325,7 +5368,7 @@
   ],
   "TP_ADV_MALACHI": [
     {
-      "level": 1,
+      "level": 10,
       "scale": 0.9,
       "maxHp": 22,
       "speed": 130,
@@ -5353,7 +5396,7 @@
   ],
   "TP_ADV_XLGURKHAKNIFEMASTER": [
     {
-      "level": 7,
+      "level": 15,
       "maxHp": 90,
       "speed": 140,
       "power": 20,
@@ -5378,7 +5421,7 @@
   ],
   "TP_ADV_XLFLEARIDER": [
     {
-      "level": 30,
+      "level": 34,
       "maxHp": 20,
       "speed": 180,
       "power": 20,
@@ -5417,7 +5460,7 @@
   ],
   "TP_ADV_SKELETONAPE": [
     {
-      "level": 5,
+      "level": 17,
       "maxHp": 8,
       "speed": 140,
       "power": 11,
@@ -5442,7 +5485,7 @@
   ],
   "TP_ADV_VALHALLAKNIGHT": [
     {      
-      "level": 5,
+      "level": 8,
       "maxHp": 25,
       "speed": 140,
       "power": 10,
@@ -5472,7 +5515,7 @@
   ],
   "TP_ADV_VALHALLAKNIGHT_FAST": [
     {
-      "level": 5,
+      "level": 10,
       "maxHp": 25,
       "speed": 280,
       "power": 10,
@@ -5503,7 +5546,7 @@
   ],
   "TP_ADV_XLVALHALLAKNIGHT_01": [
     {
-      "level": 6,
+      "level": 10,
       "maxHp": 30,
       "speed": 160,
       "power": 15,
@@ -5534,7 +5577,7 @@
   ],
   "TP_ADV_XLVALHALLAKNIGHT_02": [
     {
-      "level": 7,
+      "level": 12,
       "maxHp": 50,
       "speed": 150,
       "power": 15,
@@ -5589,7 +5632,7 @@
   ],
   "TP_ADV_HIPPOGRYPH": [
     {
-      "level": 1,
+      "level": 3,
       "maxHp": 3,
       "speed": 140,
       "power": 5,
@@ -5608,7 +5651,7 @@
   ],
   "TP_ADV_CAVETROLL": [
     {
-      "level": 1,
+      "level": 5,
       "maxHp": 0.5,
       "speed": 120,
       "maxSpeed": 340,
@@ -5640,7 +5683,7 @@
   ],
   "TP_ADV_SUNKEN_BRACHYURA_BOSS": [
     {
-      "level": 1,
+      "level": 11,
       "maxHp": 5,
       "speed": 120,
       "power": 5,
@@ -5670,7 +5713,7 @@
   ],
   "TP_ADV_FROZENSHADE": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 0.5,
       "speed": 140,
       "power": 5,
@@ -5690,7 +5733,7 @@
   ],
   "TP_ADV_DULLAHAN": [
     {
-      "level": 1,
+      "level": 8,
       "maxHp": 1,
       "speed": 100,
       "skills": [
@@ -5712,6 +5755,7 @@
   ],
   "TP_ADV_BOSS_JIANGSHI": [
     {
+      "level": 25,
       "skipCredits": true,
       "enemyType": "TP_BOSS_JIANGSHI",
       "scale": 2.5,
@@ -5752,6 +5796,7 @@
   ],
   "TP_ADV_BOSS_STONEROSE": [
     {
+      "level": 23,
       "skipCredits": true,
       "enemyType": "TP_BOSS_STONEROSE",
       "scale": 1.25,
@@ -5789,6 +5834,7 @@
   ],
   "TP_FLEAMAN_COUNTER": [
     {
+      "level": 2,
       "maxHp": 1,
       "speed": 180,
       "power": 5,
@@ -5828,7 +5874,7 @@
   ],
   "TP_SKELETON_COUNTER": [
     {
-      "level": 1,
+      "level": 2,
       "maxHp": 1,
       "speed": 145,
       "power": 5,
